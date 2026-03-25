@@ -203,9 +203,9 @@ https://jmp2.uk/stvp-USBA3800001E0
 https://jmp2.uk/stvp-USAJ30000148W
 #EXTINF:-1 tvg-id="USBB3200015M8" tvg-name="CINEVAULT: Classics" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200015M8_20260303T094057SQUARE.png" group-title="ENG | Movies",CINEVAULT: Classics
 https://jmp2.uk/stvp-USBB3200015M8
-#EXTINF:-1 tvg-id="USAK3508709A" tvg-name="CINEVAULT: Westerns" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508709A_20260303T093843SQUARE.png" group-title="ENG | Western",CINEVAULT: Westerns
+#EXTINF:-1 tvg-id="USAK3508709A" tvg-name="CINEVAULT: Westerns" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508709A_20260303T093843SQUARE.png" group-title="ENG | Westerns",CINEVAULT: Westerns
 https://jmp2.uk/stvp-USAK3508709A
-#EXTINF:-1 tvg-id="USBA300035FV" tvg-name="Circle Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300035FV_20240528T020917SQUARE.png" group-title="ENG | Western",Circle Country
+#EXTINF:-1 tvg-id="USBA300035FV" tvg-name="Circle Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300035FV_20240528T020917SQUARE.png" group-title="ENG | Westerns",Circle Country
 https://jmp2.uk/stvp-USBA300035FV
 #EXTINF:-1 tvg-id="USBA3800005NI" tvg-name="Clarity 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20260303T093848SQUARE.png" group-title="ENG | Entertainment",Clarity 4K
 https://jmp2.uk/stvp-USBA3800005NI
@@ -263,7 +263,7 @@ https://jmp2.uk/stvp-US4100005NW
 https://jmp2.uk/stvp-USBB4400017N3
 #EXTINF:-1 tvg-id="USBB52000246M" tvg-name="Deal Zone" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20260324T032332SQUARE.png" group-title="24/7",Deal Zone
 https://jmp2.uk/stvp-USBB52000246M
-#EXTINF:-1 tvg-id="US2900007HA" tvg-name="Death Valley Days" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900007HA_20241210T013851SQUARE.png" group-title="ENG | Western",Death Valley Days
+#EXTINF:-1 tvg-id="US2900007HA" tvg-name="Death Valley Days" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900007HA_20241210T013851SQUARE.png" group-title="ENG | Westerns",Death Valley Days
 https://jmp2.uk/stvp-US2900007HA
 #EXTINF:-1 tvg-id="USBD700010XU" tvg-name="Degrassi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700010XU_20240520T221455SQUARE.png" group-title="24/7",Degrassi
 https://jmp2.uk/stvp-USBD700010XU
@@ -353,7 +353,7 @@ https://jmp2.uk/stvp-US4100029G5
 https://jmp2.uk/stvp-USBD12000255B
 #EXTINF:-1 tvg-id="US3500004M7" tvg-name="FilmRise Anime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500004M7_20251125T191310SQUARE.png" group-title="ENG | Entertainment",FilmRise Anime
 https://jmp2.uk/stvp-US3500004M7
-#EXTINF:-1 tvg-id="USBB32000196O" tvg-name="FilmRise Western" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000196O_20260324T032124SQUARE.png" group-title="ENG | Western",FilmRise Western
+#EXTINF:-1 tvg-id="USBB32000196O" tvg-name="FilmRise Western" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000196O_20260324T032124SQUARE.png" group-title="ENG | Westerns",FilmRise Western
 https://jmp2.uk/stvp-USBB32000196O
 #EXTINF:-1 tvg-id="USBA3800004EL" tvg-name="Fireplace Vibes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20241105T185655SQUARE.png" group-title="Ambiance",Fireplace Vibes
 https://jmp2.uk/stvp-USBA3800004EL
@@ -387,7 +387,7 @@ https://jmp2.uk/stvp-US2000012KX
 https://jmp2.uk/stvp-US200001137
 #EXTINF:-1 tvg-id="US350000563" tvg-name="GET Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US350000563_20260303T094114SQUARE.png" group-title="ENG | Entertainment",GET Comedy
 https://jmp2.uk/stvp-US350000563
-#EXTINF:-1 tvg-id="USBD1200002PM" tvg-name="Great TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200002PM_20241112T002029SQUARE.png" group-title="ENG | Western",Great TV
+#EXTINF:-1 tvg-id="USBD1200002PM" tvg-name="Great TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200002PM_20241112T002029SQUARE.png" group-title="ENG | Westerns",Great TV
 https://jmp2.uk/stvp-USBD1200002PM
 #EXTINF:-1 tvg-id="US39000218V" tvg-name="Ghost Hunters" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000218V_20251118T030614SQUARE.png" group-title="24/7",Ghost Hunters
 https://jmp2.uk/stvp-US39000218V
@@ -399,9 +399,9 @@ https://jmp2.uk/stvp-USBB400000145
 https://jmp2.uk/stvp-US4700029QM
 #EXTINF:-1 tvg-id="USBD700011RE" tvg-name="Gravitas Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20241203T004808SQUARE.png" group-title="ENG | Movies",Gravitas Movies
 https://jmp2.uk/stvp-USBD700011RE
-#EXTINF:-1 tvg-id="USBC24000213P" tvg-name="Grit Xtra" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000213P_20250616T221715SQUARE.png" group-title="ENG | Western",Grit Xtra
+#EXTINF:-1 tvg-id="USBC24000213P" tvg-name="Grit Xtra" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000213P_20250616T221715SQUARE.png" group-title="ENG | Westerns",Grit Xtra
 https://jmp2.uk/stvp-USBC24000213P
-#EXTINF:-1 tvg-id="US44000027B" tvg-name="Grjngo" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US44000027B_20250204T014310SQUARE.png" group-title="ENG | Western",Grjngo
+#EXTINF:-1 tvg-id="US44000027B" tvg-name="Grjngo" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US44000027B_20250204T014310SQUARE.png" group-title="ENG | Westerns",Grjngo
 https://jmp2.uk/stvp-US44000027B
 #EXTINF:-1 tvg-id="USAK3508724A" tvg-name="Gusto TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508724A_20250325T014839SQUARE.png" group-title="24/7",Gusto TV
 https://jmp2.uk/stvp-USAK3508724A
@@ -705,7 +705,7 @@ https://jmp2.uk/stvp-USBC1300008AZ
 https://jmp2.uk/stvp-USBA300017PK
 #EXTINF:-1 tvg-id="USAJ3504531A" tvg-name="Pluto TV Pixel World" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504531A_20241112T000723SQUARE.png" group-title="24/7",Pluto TV Pixel World
 https://jmp2.uk/stvp-USAJ3504531A
-#EXTINF:-1 tvg-id="USBA300005MK" tvg-name="Pluto TV Westerns" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300005MK_20241112T000726SQUARE.png" group-title="ENG | Western",Pluto TV Westerns
+#EXTINF:-1 tvg-id="USBA300005MK" tvg-name="Pluto TV Westerns" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300005MK_20241112T000726SQUARE.png" group-title="ENG | Westerns",Pluto TV Westerns
 https://jmp2.uk/stvp-USBA300005MK
 #EXTINF:-1 tvg-id="USBD12000153A" tvg-name="pocket.watch Game-On" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000153A_20241007T170909SQUARE.png" group-title="ENG | Kids & Family",pocket.watch Game-On
 https://jmp2.uk/stvp-USBD12000153A
@@ -1021,7 +1021,7 @@ https://jmp2.uk/stvp-USBC2100010OS
 https://jmp2.uk/stvp-USBB44000099N
 #EXTINF:-1 tvg-id="USBC2100011WI" tvg-name="ViX Villanos de Novela" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100011WI_20241228T011542SQUARE.png" group-title="ESP | Entretenimiento",ViX Villanos de Novela
 https://jmp2.uk/stvp-USBC2100011WI
-#EXTINF:-1 tvg-id="US190000918" tvg-name="Wanted: Dead or Alive" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US190000918_20251202T005941SQUARE.png" group-title="ENG | Western",Wanted: Dead or Alive
+#EXTINF:-1 tvg-id="US190000918" tvg-name="Wanted: Dead or Alive" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US190000918_20251202T005941SQUARE.png" group-title="ENG | Westerns",Wanted: Dead or Alive
 https://jmp2.uk/stvp-US190000918
 #EXTINF:-1 tvg-id="US41000060J" tvg-name="WAPA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US41000060J_20250401T004920SQUARE.png" group-title="ESP | Entretenimiento",WAPA+
 https://jmp2.uk/stvp-US41000060J
@@ -1031,7 +1031,7 @@ https://jmp2.uk/stvp-USBB440002055
 https://jmp2.uk/stvp-USBC1500009LD
 #EXTINF:-1 tvg-id="USAJ3400014LK" tvg-name="WeatherSpy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400014LK_20240520T214723SQUARE.png" group-title="ENG | Entertainment",WeatherSpy
 https://jmp2.uk/stvp-USAJ3400014LK
-#EXTINF:-1 tvg-id="USBC3200020QF" tvg-name="Western Bound" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200020QF_20250623T224734SQUARE.png" group-title="ENG | Western",Western Bound
+#EXTINF:-1 tvg-id="USBC3200020QF" tvg-name="Western Bound" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200020QF_20250623T224734SQUARE.png" group-title="ENG | Westerns",Western Bound
 https://jmp2.uk/stvp-USBC3200020QF
 #EXTINF:-1 tvg-id="US4100003MA" tvg-name="Who's The Boss?" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100003MA_20260303T094234SQUARE.png" group-title="24/7",Who's The Boss?
 https://jmp2.uk/stvp-US4100003MA
@@ -1039,7 +1039,7 @@ https://jmp2.uk/stvp-US4100003MA
 https://jmp2.uk/stvp-US4100034UO
 #EXTINF:-1 tvg-id="USBA3000100X" tvg-name="Wild 'N Out" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000100X_20241112T000832SQUARE.png" group-title="24/7",Wild 'N Out
 https://jmp2.uk/stvp-USBA3000100X
-#EXTINF:-1 tvg-id="US4500003B0" tvg-name="Wild West TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500003B0_20251125T030814SQUARE.png" group-title="ENG | Western",Wild West TV
+#EXTINF:-1 tvg-id="US4500003B0" tvg-name="Wild West TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500003B0_20251125T030814SQUARE.png" group-title="ENG | Westerns",Wild West TV
 https://jmp2.uk/stvp-US4500003B0
 #EXTINF:-1 tvg-id="US3800007CR" tvg-name="WildEarth" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3800007CR_20250121T101229SQUARE.png" group-title="ENG | Entertainment",WildEarth
 https://jmp2.uk/stvp-US3800007CR
