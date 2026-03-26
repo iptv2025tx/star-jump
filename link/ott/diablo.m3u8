@@ -177,7 +177,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166421
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45813
 #EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="ABC Canada (M)(720)" group-title="ENG | Entertainment",ABC (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45814
-#EXTINF:-1 tvg-id="AMC.Canada.HD.ca2" tvg-name="CAN-AMC (M)(720)" group-title="ENG | Movies",CAN-AMC (M)(720)
+#EXTINF:-1 tvg-id="AMC.Canada.HD.ca2" tvg-name="AMC Canada (M)(720)" group-title="ENG | Movies",AMC Canada (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45815
 #EXTINF:-1 tvg-name="MEX-Animal Planet (M)(720)" group-title="Spanish",MEX-Animal Planet (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45816
@@ -205,9 +205,9 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45829
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45830
 #EXTINF:-1 tvg-id="Cable.Pulse.24.(CP24).HD.ca2" tvg-name="CP24 (TV)(720)" group-title="ENG | News",CP24 (TV)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45831
-#EXTINF:-1 tvg-id="Crave3.ca2" tvg-name="CAN-Crave 3 (M)(720)" group-title="ENG | Movies",CAN-Crave 3 (M)(720)
+#EXTINF:-1 tvg-id="Crave3.ca2" tvg-name="Crave 3 (M)(720)" group-title="ENG | Movies",Crave 3 (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45832
-#EXTINF:-1 tvg-id="Crave4.ca2" tvg-name="CAN-Crave 4 (M)(720)" group-title="ENG | Movies",CAN-Crave 4 (M)(720)
+#EXTINF:-1 tvg-id="Crave4.ca2" tvg-name="Crave 4 (M)(720)" group-title="ENG | Movies",Crave 4 (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45833
 #EXTINF:-1 tvg-id="CTV.Two.-.Ottawa.ca2" tvg-name="CTV 2 Ottawa (M)(720)" group-title="ENG | Entertainment",CTV 2 Ottawa (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45834
@@ -231,23 +231,23 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45848
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45849
 #EXTINF:-1 tvg-id="Golf.Channel.ca2" tvg-name="Golf Channel Canada (TV)(720)" group-title="ENG | Sports",Golf Channel Canada (TV)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/7967
-#EXTINF:-1 tvg-id="HBO.Canada.1.HD.ca2" tvg-name="HBO Canada (M)(720)" group-title="ENG | Movies",CAN-HBO (M)(720)
+#EXTINF:-1 tvg-id="HBO.Canada.1.HD.ca2" tvg-name="HBO Canada (M)(720)" group-title="ENG | Movies",HBO Canada (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45852
-#EXTINF:-1 tvg-id="HBO.Canada.1.HD.ca2" tvg-name="HBO Canada HD (L)" group-title="ENG | Movies",CAN-HBO HD (L)
+#EXTINF:-1 tvg-id="HBO.Canada.1.HD.ca2" tvg-name="HBO Canada HD (L)" group-title="ENG | Movies",HBO Canada HD (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/7968
-#EXTINF:-1 tvg-id="MovieTime.ca2" tvg-name="CAN-Movietime (M)(720)" group-title="ENG | Movies",CAN-Movietime (M)(720)
+#EXTINF:-1 tvg-id="MovieTime.ca2" tvg-name="Movietime (M)(720)" group-title="ENG | Movies",Movietime (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45857
-#EXTINF:-1 tvg-id="Silver.Screen.Classics.ca2" tvg-name="CAN-Silver Screen Classics (M)(720)" group-title="ENG | Movies",CAN-Silver Screen Classics (M)(720)
+#EXTINF:-1 tvg-id="Silver.Screen.Classics.ca2" tvg-name="Silver Screen Classics (M)(720)" group-title="ENG | Movies",Silver Screen Classics (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45865
 #EXTINF:-1 tvg-id="Smithsonian.Channel.ca2" tvg-name="Smithsonian Channel (M)(720)" group-title="ENG | Entertainment",Smithsonian Channel (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45866
-#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-name="SPORTSNET 360 HD (L)" group-title="ENG | Sports",SPORTSNET 360 HD (L)
+#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-name="Sportsnet 360 HD (L)" group-title="ENG | Sports",Sportsnet 360 HD (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/7969
-#EXTINF:-1 tvg-id="Sportsnet.East.ca2" tvg-name="SPORTSNET EAST HD (L)" group-title="ENG | Sports",SPORTSNET EAST HD (L)
+#EXTINF:-1 tvg-id="Sportsnet.East.ca2" tvg-name="Sportsnet East HD (L)" group-title="ENG | Sports",Sportsnet East HD (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/7970
-#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-name="SPORTSNET ONTARIO HD (L)" group-title="ENG | Sports",SPORTSNET ONTARIO HD (L)
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-name="Sportsnet Ontario HD (L)" group-title="ENG | Sports",Sportsnet Ontario HD (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/7971
-#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-name="SPORTSNET WEST HD (L)" group-title="ENG | Sports",SPORTSNET WEST HD (L)
+#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-name="Sportsnet West HD (L)" group-title="ENG | Sports",Sportsnet West HD (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/7972
 #EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-name="Sportsnet 360 (M)(720)" group-title="ENG | Sports",Sportsnet 360 (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/45805
@@ -851,131 +851,131 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/10079
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/10080
 #EXTINF:-1 tvg-name="CU-Tele Rebelde (Z)" group-title="ESP | EPG DONE",CU-Tele Rebelde (Z)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/10081
-#EXTINF:-1 tvg-id="Canal.ESPN.2.(Colombia).sv" tvg-name="DEPORTES - Espn 1 ARG (i)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="ESP | Deportes",DEPORTES - Espn 1 ARG (i)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.(Argentina).ar" tvg-name="Espn 1 ARG (i)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="ESP | Deportes",Espn 1 ARG (i)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9520
-#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="DEPORTES - Espn 1 ARG (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="ESP | Deportes",DEPORTES - Espn 1 ARG (TV)(1080)
+#EXTINF:-1 tvg-id="Canal.ESPN.(Argentina).ar" tvg-name="Espn 1 ARG (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="ESP | Deportes",Espn 1 ARG (TV)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9521
-#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 1 ARG (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="ESP | Deportes",DEPORTES - Espn 1 ARG (Z)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.(Argentina).ar" tvg-name="Espn 1 ARG (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="ESP | Deportes",Espn 1 ARG (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9522
-#EXTINF:-1 tvg-id="Canal.ESPN.(Chile).cl" tvg-name="DEPORTES - Espn 1 CHI (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="ESP | Deportes",DEPORTES - Espn 1 CHI (TV)(1080)
+#EXTINF:-1 tvg-id="Canal.ESPN.(Chile).cl" tvg-name="Espn 1 CHI (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="ESP | Deportes",Espn 1 CHI (TV)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/99538
-#EXTINF:-1 tvg-id="Canal.ESPN.(Chile).cl" tvg-name="DEPORTES - Espn 1 CHI (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="ESP | Deportes",DEPORTES - Espn 1 CHI (Z)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.(Chile).cl" tvg-name="Espn 1 CHI (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="ESP | Deportes",Espn 1 CHI (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/99539
-#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn 1 COL (e)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="ESP | Deportes",DEPORTES - Espn 1 COL (e)(720)
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn 1 COL (e)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="ESP | Deportes",Espn 1 COL (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9517
-#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn 1 COL (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="ESP | Deportes",DEPORTES - Espn 1 COL (PM)(1080)
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn 1 COL (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="ESP | Deportes",Espn 1 COL (PM)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9516
 #EXTINF:-1 tvg-name="DEPORTES - Espn 1 LAT (Z)(720)" tvg-logo="https://i.ibb.co/fs3t738/image.png" group-title="ESP | Deportes",DEPORTES - Espn 1 LAT (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179479
-#EXTINF:-1 tvg-id="ESPN.MX.mx" tvg-name="DEPORTES - Espn 1 MEX (i)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="ESP | Deportes",DEPORTES - Espn 1 MEX (i)(1080)
+#EXTINF:-1 tvg-id="ESPN.MX.mx" tvg-name="Espn 1 MEX (i)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="ESP | Deportes",Espn 1 MEX (i)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9525
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Espn 1 MEX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="ESP | Deportes",DEPORTES - Espn 1 MEX (L)(720)
+#EXTINF:-1 tvg-id="ESPN.MX.mx" tvg-name="Espn 1 MEX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="ESP | Deportes",Espn 1 MEX (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9523
-#EXTINF:-1 tvg-name="DEPORTES - Espn 1 SUR (Z)(720)" tvg-logo="https://i.ibb.co/fs3t738/image.png" group-title="ESP | Deportes",DEPORTES - Espn 1 SUR (Z)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.(Sur).sv" tvg-name="Espn 1 SUR (Z)(720)" tvg-logo="https://i.ibb.co/fs3t738/image.png" group-title="ESP | Deportes",Espn 1 SUR (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179481
-#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 2 ARG (e)(720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="ESP | Deportes",DEPORTES - Espn 2 ARG (e)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(Bolivia).ar" tvg-name="Espn 2 ARG (e)(720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="ESP | Deportes",Espn 2 ARG (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9526
-#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 2 ARG (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="ESP | Deportes",DEPORTES - Espn 2 ARG (PM)(1080)
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(Bolivia).ar" tvg-name="Espn 2 ARG (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="ESP | Deportes",Espn 2 ARG (PM)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9527
-#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 2 ARG (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="ESP | Deportes",DEPORTES - Espn 2 ARG (Z)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(Bolivia).ar" tvg-name="Espn 2 ARG (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="ESP | Deportes",Espn 2 ARG (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9528
-#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="DEPORTES - Espn 2 COL (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="ESP | Deportes",DEPORTES - Espn 2 COL (TV)(1080)
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(Colombia).sv" tvg-name="Espn 2 COL (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="ESP | Deportes",Espn 2 COL (TV)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9529
-#EXTINF:-1 tvg-name="DEPORTES - Espn 2 COL (Z)(720)" tvg-logo="https://i.ibb.co/fs3t738/image.png" group-title="ESP | Deportes",DEPORTES - Espn 2 COL (Z)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(Colombia).sv" tvg-name="Espn 2 COL (Z)(720)" tvg-logo="https://i.ibb.co/fs3t738/image.png" group-title="ESP | Deportes",Espn 2 COL (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179486
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Espn 2 MEX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="ESP | Deportes",DEPORTES - Espn 2 MEX (L)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.2.México.sv" tvg-name="Espn 2 MEX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="ESP | Deportes",Espn 2 MEX (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9530
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Espn 2 MEX (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="ESP | Deportes",DEPORTES - Espn 2 MEX (TV)(1080)
+#EXTINF:-1 tvg-id="Canal.ESPN.2.México.sv" tvg-name="Espn 2 MEX (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="ESP | Deportes",Espn 2 MEX (TV)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9531
-#EXTINF:-1 tvg-name="DEPORTES - Espn 2 SUR (Z)(720)" tvg-logo="https://i.ibb.co/rKhQWz0L/image.png" group-title="ESP | Deportes",DEPORTES - Espn 2 SUR (Z)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(Sur).sv " tvg-name="Espn 2 SUR (Z)(720)" tvg-logo="https://i.ibb.co/rKhQWz0L/image.png" group-title="ESP | Deportes",Espn 2 SUR (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179489
-#EXTINF:-1 tvg-id="ESPN.3.HDTV.South.(Latin.America).(ESPN3HD).ar" tvg-name="DEPORTES - Espn 3 ARG (L)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="ESP | Deportes",DEPORTES - Espn 3 ARG (L)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(Argentina).ar" tvg-name="Espn 3 ARG (L)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="ESP | Deportes",Espn 3 ARG (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9533
-#EXTINF:-1 tvg-name="DEPORTES - Espn  3 ARG (Z)(1080)" tvg-logo="https://i.ibb.co/SX0ztNpY/image.png" group-title="ESP | Deportes",DEPORTES - Espn  3 ARG (Z)(1080)
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(Argentina).ar" tvg-name="Espn  3 ARG (Z)(1080)" tvg-logo="https://i.ibb.co/SX0ztNpY/image.png" group-title="ESP | Deportes",Espn  3 ARG (Z)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179492
-#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 3 ARG (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="ESP | Deportes",DEPORTES - Espn 3 ARG (Z)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(Argentina).ar" tvg-name="Espn 3 ARG (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="ESP | Deportes",Espn 3 ARG (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9534
-#EXTINF:-1 tvg-name="DEPORTES - Espn 3 CH (Z)(720)" tvg-logo="https://i.ibb.co/SX0ztNpY/image.png" group-title="ESP | Deportes",DEPORTES - Espn 3 CH (Z)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(Chile).cl" tvg-name="Espn 3 CH (Z)(720)" tvg-logo="https://i.ibb.co/SX0ztNpY/image.png" group-title="ESP | Deportes",Espn 3 CH (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179495
-#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 3 COL (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="ESP | Deportes",DEPORTES - Espn 3 COL (M)(1080)
+#EXTINF:-1 tvg-id="ESPN.3.co" tvg-name="Espn 3 COL (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="ESP | Deportes",Espn 3 COL (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9532
-#EXTINF:-1 tvg-name="DEPORTES - Espn 3 COL (Z)(720)" tvg-logo="https://i.ibb.co/SX0ztNpY/image.png" group-title="ESP | Deportes",DEPORTES - Espn 3 COL (Z)(720)
+#EXTINF:-1 tvg-id="ESPN.3.co" tvg-name="Espn 3 COL (Z)(720)" tvg-logo="https://i.ibb.co/SX0ztNpY/image.png" group-title="ESP | Deportes",Espn 3 COL (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179493
-#EXTINF:-1 tvg-id="ESPN.MX.mx" tvg-name="DEPORTES - Espn 3 MEX (M)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="ESP | Deportes",DEPORTES - Espn 3 MEX (M)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(Sur).sv" tvg-name="Espn 3 MEX (M)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="ESP | Deportes",Espn 3 MEX (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9536
-#EXTINF:-1 tvg-name="DEPORTES - Espn 3 Sur (Z)(720)" tvg-logo="https://i.ibb.co/SX0ztNpY/image.png" group-title="ESP | Deportes",DEPORTES - Espn 3 Sur (Z)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(Sur).sv" tvg-name="Espn 3 Sur (Z)(720)" tvg-logo="https://i.ibb.co/SX0ztNpY/image.png" group-title="ESP | Deportes",Espn 3 Sur (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179498
-#EXTINF:-1 tvg-id="Canal.ESPN.4.(Sur).sv" tvg-name="DEPORTES - Espn 4 (TV)(720)" tvg-logo="https://i.postimg.cc/FF6fT894/Espn4.png" group-title="ESP | Deportes",DEPORTES - Espn 4 (TV)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.4.(Sur).sv" tvg-name="Espn 4 SUR (TV)(720)" tvg-logo="https://i.postimg.cc/FF6fT894/Espn4.png" group-title="ESP | Deportes",Espn 4 SUR (TV)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9538
-#EXTINF:-1 tvg-name="DEPORTES - Espn 4 COL (Z)(720)" tvg-logo="https://i.ibb.co/rKqN1tms/image.png" group-title="ESP | Deportes",DEPORTES - Espn 4 COL (Z)(720)
+#EXTINF:-1 tvg-id="ESPN.4.co" tvg-name="Espn 4 COL (Z)(720)" tvg-logo="https://i.ibb.co/rKqN1tms/image.png" group-title="ESP | Deportes",Espn 4 COL (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179509
-#EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="DEPORTES - Espn 4 MEX (M)(1080)" tvg-logo="https://i.postimg.cc/FF6fT894/Espn4.png" group-title="ESP | Deportes",DEPORTES - Espn 4 MEX (M)(1080)
+#EXTINF:-1 tvg-id="Canal.ESPN.4.(México).sv" tvg-name="Espn 4 MEX (M)(1080)" tvg-logo="https://i.postimg.cc/FF6fT894/Espn4.png" group-title="ESP | Deportes",Espn 4 MEX (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9537
-#EXTINF:-1 tvg-name="DEPORTES - Espn 4 MX (Z)(720)" tvg-logo="https://i.ibb.co/bgRKgH31/image.png" group-title="ESP | Deportes",DEPORTES - Espn 4 MX (Z)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.4.(México).sv " tvg-name="Espn 4 MX (Z)(720)" tvg-logo="https://i.ibb.co/bgRKgH31/image.png" group-title="ESP | Deportes",Espn 4 MX (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179502
-#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="DEPORTES - Espn 5 (M)(1080)" tvg-logo="https://i.postimg.cc/CKNknVHr/Proyecto-X-21.png" group-title="ESP | Deportes",DEPORTES - Espn 5 (M)(1080)
+#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="Espn 5 COL (M)(1080)" tvg-logo="https://i.postimg.cc/CKNknVHr/Proyecto-X-21.png" group-title="ESP | Deportes",Espn 5 COL (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9539
-#EXTINF:-1 tvg-name="DEPORTES - Espn 5 (Z)(720)" tvg-logo="https://i.ibb.co/fs3t738/image.png" group-title="ESP | Deportes",DEPORTES - Espn 5 (Z)(720)
+#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="Espn 5 COL (Z)(720)" tvg-logo="https://i.ibb.co/fs3t738/image.png" group-title="ESP | Deportes",Espn 5 COL (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179513
-#EXTINF:-1 tvg-name="DEPORTES - Espn 5 AR (Z)(720)" tvg-logo="https://i.ibb.co/N2rw1H27/image.png" group-title="ESP | Deportes",DEPORTES - Espn 5 AR (Z)(720)
+#EXTINF:-1 tvg-name="Espn 5 AR (Z)(720)" tvg-logo="https://i.ibb.co/N2rw1H27/image.png" group-title="ESP | Deportes",Espn 5 AR (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179517
-#EXTINF:-1 tvg-name="DEPORTES - Espn 6 MX (Z)(720)" tvg-logo="https://i.ibb.co/vv1FJdNV/image.png" group-title="ESP | Deportes",DEPORTES - Espn 6 MX (Z)(720)
+#EXTINF:-1 tvg-name="Espn 6 MX (Z)(720)" tvg-logo="https://i.ibb.co/vv1FJdNV/image.png" group-title="ESP | Deportes",Espn 6 MX (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179518
-#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="DEPORTES - Espn 7 (M)(720)" tvg-logo="https://i.postimg.cc/6pCdwZ7X/Proyecto-X-20.png" group-title="ESP | Deportes",DEPORTES - Espn 7 (M)(720)
+#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="Espn 7 COL (M)(720)" tvg-logo="https://i.postimg.cc/6pCdwZ7X/Proyecto-X-20.png" group-title="ESP | Deportes",Espn 7 COL (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9543
-#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - ESPN 7 (Z)(720)" tvg-logo="https://i.postimg.cc/6pCdwZ7X/Proyecto-X-20.png" group-title="ESP | Deportes",DEPORTES - ESPN 7 (Z)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.7.(Colombia).sv" tvg-name="ESPN 7 COL (Z)(720)" tvg-logo="https://i.postimg.cc/6pCdwZ7X/Proyecto-X-20.png" group-title="ESP | Deportes",ESPN 7 COL (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9574
-#EXTINF:-1 tvg-name="DEPORTES - Espn 7 CH (Z)(720)" tvg-logo="https://i.ibb.co/gZF3ttc2/image.png" group-title="ESP | Deportes",DEPORTES - Espn 7 CH (Z)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.7.(Chile).sv" tvg-name="Espn 7 CH (Z)(720)" tvg-logo="https://i.ibb.co/gZF3ttc2/image.png" group-title="ESP | Deportes",Espn 7 CH (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179519
-#EXTINF:-1 tvg-id="CW.Plus.Mountain.us" tvg-name="DEPORTES - Espn Deportes (MEX) (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-vSV4gemywH8/Xay_akC3pjI/AAAAAAAAAkk/QhiScGYRuK0gmoHsOkqUAy5v1AijHvCwgCLcBGAsYHQ/s200/9.png" group-title="ESP | Deportes",DEPORTES - Espn Deportes (MEX) (Z)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.Deportes.sv" tvg-name="Espn Deportes (MEX) (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-vSV4gemywH8/Xay_akC3pjI/AAAAAAAAAkk/QhiScGYRuK0gmoHsOkqUAy5v1AijHvCwgCLcBGAsYHQ/s200/9.png" group-title="ESP | Deportes",Espn Deportes (MEX) (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9544
-#EXTINF:-1 tvg-name="DEPORTES - Espn Deportes (Z)(720)" tvg-logo="https://i.ibb.co/gFtY6Tnm/image.png" group-title="ESP | Deportes",DEPORTES - Espn Deportes (Z)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.Deportes.sv" tvg-name="Espn Deportes (Z)(720)" tvg-logo="https://i.ibb.co/gFtY6Tnm/image.png" group-title="ESP | Deportes",Espn Deportes (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179504
-#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn Extra ARG (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="ESP | Deportes",DEPORTES - Espn Extra ARG (L)(1080)
+#EXTINF:-1 tvg-name="Espn Extra ARG (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="ESP | Deportes",Espn Extra ARG (L)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9545
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Espn Extra MEX (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="ESP | Deportes",DEPORTES - Espn Extra MEX (Z)(720)
+#EXTINF:-1 tvg-name="Espn Extra MEX (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="ESP | Deportes",Espn Extra MEX (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9547
-#EXTINF:-1 tvg-name="DEPORTES - Espn News (Z)(1080)" tvg-logo="https://i.ibb.co/fs3t738/image.png" group-title="ESP | Deportes",DEPORTES - Espn News (Z)(1080)
+#EXTINF:-1 tvg-name="Espn News Deportes (Z)(1080)" tvg-logo="https://i.ibb.co/fs3t738/image.png" group-title="ESP | Deportes",Espn News Deportes (Z)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179490
-#EXTINF:-1 tvg-name="DEPORTES - Espn News (Z)(720)" tvg-logo="https://i.ibb.co/LdKwLL7M/image.png" group-title="ESP | Deportes",DEPORTES - Espn News (Z)(720)
+#EXTINF:-1 tvg-name="Espn News Deportes (Z)(720)" tvg-logo="https://i.ibb.co/LdKwLL7M/image.png" group-title="ESP | Deportes",Espn News Deportes (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179508
-#EXTINF:-1 tvg-name="DEPORTES - Espn Plus Sur (Z)(720)" tvg-logo="https://i.ibb.co/rKqN1tms/image.png" group-title="ESP | Deportes",DEPORTES - Espn Plus Sur (Z)(720)
+#EXTINF:-1 tvg-name="Espn Plus Sur (Z)(720)" tvg-logo="https://i.ibb.co/rKqN1tms/image.png" group-title="ESP | Deportes",Espn Plus Sur (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179514
-#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - ESPN Premium ARG (L)(SD)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="ESP | Deportes",DEPORTES - ESPN Premium ARG (L)(SD)
+#EXTINF:-1 tvg-id="ESPN.Extra.Latin.America.HDTV.(Feed.A).(ESPNXTRA).ar" tvg-name="ESPN Premium ARG (L)(SD)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="ESP | Deportes",ESPN Premium ARG (L)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9549
-#EXTINF:-1 tvg-id="ESPN.Extra.Latin.America.HDTV.(Feed.A).(ESPNXTRA).ar" tvg-name="DEPORTES - Espn Premium ARG (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="ESP | Deportes",DEPORTES - Espn Premium ARG (M)(1080)
+#EXTINF:-1 tvg-id="ESPN.Extra.Latin.America.HDTV.(Feed.A).(ESPNXTRA).ar" tvg-name="Espn Premium ARG (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="ESP | Deportes",Espn Premium ARG (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9546
-#EXTINF:-1 tvg-id="ESPN.PREMIUM.ar" tvg-name="DEPORTES - ESPN Premium ARG (TV)(1080)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="ESP | Deportes",DEPORTES - ESPN Premium ARG (TV)(1080)
+#EXTINF:-1 tvg-id="ESPN.PREMIUM.ar" tvg-name="ESPN Premium ARG (TV)(1080)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="ESP | Deportes",ESPN Premium ARG (TV)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9550
-#EXTINF:-1 tvg-name="DEPORTES - Espn Premium ARG (Z)(720)" tvg-logo="https://i.ibb.co/3LTR6JL/image.png" group-title="ESP | Deportes",DEPORTES - Espn Premium ARG (Z)(720)
+#EXTINF:-1 tvg-id="ESPN.PREMIUM.ar" tvg-name="Espn Premium ARG (Z)(720)" tvg-logo="https://i.ibb.co/3LTR6JL/image.png" group-title="ESP | Deportes",Espn Premium ARG (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179511
-#EXTINF:-1 tvg-id="Canal.ESPN.Premium.(Chile).sv" tvg-name="DEPORTES - ESPN Premium CL (Z)(720)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="ESP | Deportes",DEPORTES - ESPN Premium CL (Z)(720)
+#EXTINF:-1 tvg-id="Canal.ESPN.Premium.(Chile).sv" tvg-name="ESPN Premium CL (Z)(720)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="ESP | Deportes",ESPN Premium CL (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/115016
-#EXTINF:-1 tvg-name="DEPORTES - Espn U (Z)(720)" tvg-logo="https://i.ibb.co/rKhQWz0L/image.png" group-title="ESP | Deportes",DEPORTES - Espn U (Z)(720)
+#EXTINF:-1 tvg-name="Espn U (Z)(720)" tvg-logo="https://i.ibb.co/rKhQWz0L/image.png" group-title="ESP | Deportes",Espn U (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179512
-#EXTINF:-1 tvg-id="The.Fight.Network.(United.States).(TFN).us" tvg-name="DEPORTES - Fight BOX  (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-trZC8_-fPrc/X2kBptXt-QI/AAAAAAAABZY/ebjwHb5BxW4LLF_iJltMKJ-mVQHv4gqbgCLcBGAsYHQ/w200-h200/Fight%2Bbox.png" group-title="ESP | Deportes",DEPORTES - Fight BOX  (TV)(1080)
+#EXTINF:-1 tvg-id="The.Fight.Network.(United.States).(TFN).us" tvg-name="Fight BOX  (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-trZC8_-fPrc/X2kBptXt-QI/AAAAAAAABZY/ebjwHb5BxW4LLF_iJltMKJ-mVQHv4gqbgCLcBGAsYHQ/w200-h200/Fight%2Bbox.png" group-title="ESP | Deportes",Fight BOX  (TV)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9570
-#EXTINF:-1 tvg-id="Fox.Deportes.en.Español.HDTV.(U.S.).(FXDEHD).us" tvg-name="DEPORTES - Fox Deportes (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png" group-title="ESP | Deportes",DEPORTES - Fox Deportes (TV)(720)
+#EXTINF:-1 tvg-id="Fox.Deportes.en.Español.HDTV.(U.S.).(FXDEHD).us" tvg-name="Fox Deportes (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png" group-title="ESP | Deportes",Fox Deportes (TV)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9571
-#EXTINF:-1 tvg-name="DEPORTES - Fox Deportes (Z)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/1200px-Fox_Sports_Argentina_2023.svg.png" group-title="ESP | Deportes",DEPORTES - Fox Deportes (Z)(720)
+#EXTINF:-1 tvg-id="Fox.Deportes.en.Español.HDTV.(U.S.).(FXDEHD).us" tvg-name="Fox Deportes (Z)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/1200px-Fox_Sports_Argentina_2023.svg.png" group-title="ESP | Deportes",Fox Deportes (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179527
-#EXTINF:-1 tvg-id="CW.Plus.Mountain.us" tvg-name="DEPORTES - Fox Deportes (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png" group-title="ESP | Deportes",DEPORTES - Fox Deportes (Z)(720)
+#EXTINF:-1 tvg-id="Fox.Deportes.en.Español.HDTV.(U.S.).(FXDEHD).us" tvg-name="Fox Deportes (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png" group-title="ESP | Deportes",Fox Deportes (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9572
-#EXTINF:-1 tvg-id="Fox.Sports.Argentina.(Cono.Sur).(FOXSP).ar" tvg-name="DEPORTES - Fox Sports 1 ARG (L)(720)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="ESP | Deportes",DEPORTES - Fox Sports 1 ARG (L)(720)
+#EXTINF:-1 tvg-id="Canal.Fox.Sports.(Cono.Sur).sv" tvg-name="Fox Sports 1 ARG (L)(720)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="ESP | Deportes",Fox Sports 1 ARG (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9575
-#EXTINF:-1 tvg-id="Fox.Sports.Argentina.(Cono.Sur).(FOXSP).ar" tvg-name="DEPORTES - Fox Sports 1 ARG (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="ESP | Deportes",DEPORTES - Fox Sports 1 ARG (M)(720)
+#EXTINF:-1 tvg-id="Canal.Fox.Sports.(Cono.Sur).sv" tvg-name="Fox Sports 1 ARG (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="ESP | Deportes",Fox Sports 1 ARG (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9576
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 1 CH (Z)(720)" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/Logo_Fox_Sports_Chile.png/revision/latest?cb=20150224214037&path-prefix=es" group-title="ESP | Deportes",DEPORTES - Fox Sports 1 CH (Z)(720)
+#EXTINF:-1 tvg-name="Fox Sports 1 CH (Z)(720)" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/Logo_Fox_Sports_Chile.png/revision/latest?cb=20150224214037&path-prefix=es" group-title="ESP | Deportes",Fox Sports 1 CH (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179535
-#EXTINF:-1 tvg-id="FOX.Sports.2.HD(FSP2HD).co" tvg-name="DEPORTES - Fox Sports 1 COL (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-HGq7a6Cg1qA/XajpshDNjUI/AAAAAAAAASQ/jP319jFgSyI-F1U-VFhe0ooc7RY_Mkn2ACLcBGAsYHQ/s200/10.png" group-title="ESP | Deportes",DEPORTES - Fox Sports 1 COL (TV)(1080)
+#EXTINF:-1 tvg-id="Canal.Fox.Sports.(Cono.Sur).sv" tvg-name="Fox Sports 1 COL (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-HGq7a6Cg1qA/XajpshDNjUI/AAAAAAAAASQ/jP319jFgSyI-F1U-VFhe0ooc7RY_Mkn2ACLcBGAsYHQ/s200/10.png" group-title="ESP | Deportes",Fox Sports 1 COL (TV)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9577
-#EXTINF:-1 tvg-id="FOX.SPORTS.HD.(FoxSportsHD).pe" tvg-name="DEPORTES - Fox Sports 1 LAT (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="ESP | Deportes",DEPORTES - Fox Sports 1 LAT (Z)(1080)
+#EXTINF:-1 tvg-id="FOX.SPORTS.HD.(FoxSportsHD).pe" tvg-name="Fox Sports 1 LAT (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="ESP | Deportes",Fox Sports 1 LAT (Z)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9578
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 1 LAT (Z)(720)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.6d03e77ebf8b83b3d2abfe501322ccb2.png" group-title="ESP | Deportes",DEPORTES - Fox Sports 1 LAT (Z)(720)
+#EXTINF:-1 tvg-name="Fox Sports 1 LAT (Z)(720)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.6d03e77ebf8b83b3d2abfe501322ccb2.png" group-title="ESP | Deportes",Fox Sports 1 LAT (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179523
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Fox Sports 1 MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="ESP | Deportes",DEPORTES - Fox Sports 1 MEX (M)(1080)
+#EXTINF:-1 tvg-id="FOX.SPORTS.mx" tvg-name="Fox Sports 1 MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="ESP | Deportes",Fox Sports 1 MEX (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9579
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 2 (Z)(720)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest/scale-to-width-down/250?cb=20230207140157&path-prefix=es" group-title="ESP | Deportes",DEPORTES - Fox Sports 2 (Z)(720)
+#EXTINF:-1 tvg-name="Fox Sports 2 (Z)(720)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest/scale-to-width-down/250?cb=20230207140157&path-prefix=es" group-title="ESP | Deportes",Fox Sports 2 (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179531
 #EXTINF:-1 tvg-name="DEPORTES - Fox Sports 2 AR (Z)(1080)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest/scale-to-width-down/250?cb=20230207140157&path-prefix=es" group-title="ESP | Deportes",DEPORTES - Fox Sports 2 AR (Z)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179524
@@ -991,89 +991,89 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179522
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179528
 #EXTINF:-1 tvg-id="FOX.Sports.2.HD(FSP2HD).co" tvg-name="DEPORTES - Fox Sports 2 LAT (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png" group-title="ESP | Deportes",DEPORTES - Fox Sports 2 LAT (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9580
-#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(Cono.Norte).(FOXSP2HD).mx" tvg-name="DEPORTES - Fox Sports 2 MEX (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c81e728d9d4c2f636f067f89cc14862c.png" group-title="ESP | Deportes",DEPORTES - Fox Sports 2 MEX (L)(1080)
+#EXTINF:-1 tvg-id="FOX.SPORTS.2.mx" tvg-name="Fox Sports 2 MEX (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c81e728d9d4c2f636f067f89cc14862c.png" group-title="ESP | Deportes",Fox Sports 2 MEX (L)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9584
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Fox Sports 2 MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="ESP | Deportes",DEPORTES - Fox Sports 2 MEX (M)(1080)
+#EXTINF:-1 tvg-id="FOX.SPORTS.2.mx" tvg-name="Fox Sports 2 MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="ESP | Deportes",Fox Sports 2 MEX (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9585
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 2 MX (Z)(720)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest/scale-to-width-down/250?cb=20230207140157&path-prefix=es" group-title="ESP | Deportes",DEPORTES - Fox Sports 2 MX (Z)(720)
+#EXTINF:-1 tvg-id="FOX.SPORTS.2.mx" tvg-name="Fox Sports 2 MX (Z)(720)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest/scale-to-width-down/250?cb=20230207140157&path-prefix=es" group-title="ESP | Deportes",Fox Sports 2 MX (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179529
-#EXTINF:-1 tvg-id="Canal.Fox.Sports.2.(Cono.Norte).sv" tvg-name="DEPORTES - Fox Sports 2 MX (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png" group-title="ESP | Deportes",DEPORTES - Fox Sports 2 MX (Z)(720)
+#EXTINF:-1 tvg-id="FOX.SPORTS.2.mx" tvg-name="Fox Sports 2 MX (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png" group-title="ESP | Deportes",Fox Sports 2 MX (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9586
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 2 Sur (Z)(720)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest/scale-to-width-down/250?cb=20230207140157&path-prefix=es" group-title="ESP | Deportes",DEPORTES - Fox Sports 2 Sur (Z)(720)
+#EXTINF:-1 tvg-id="Canal.Fox.Sports.(Cono.Sur).sv" tvg-name="Fox Sports 2 Sur (Z)(720)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest/scale-to-width-down/250?cb=20230207140157&path-prefix=es" group-title="ESP | Deportes",Fox Sports 2 Sur (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179532
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 2 TP MX (Z)(720)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest/scale-to-width-down/250?cb=20230207140157&path-prefix=es" group-title="ESP | Deportes",DEPORTES - Fox Sports 2 TP MX (Z)(720)
+#EXTINF:-1 tvg-id="FOX.SPORTS.2.mx" tvg-name="Fox Sports 2 TP MX (Z)(720)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest/scale-to-width-down/250?cb=20230207140157&path-prefix=es" group-title="ESP | Deportes",Fox Sports 2 TP MX (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179526
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 3 (Z)(1080)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.9facfaf5bfc0dd66a8d9535ea8d7cb05.png" group-title="ESP | Deportes",DEPORTES - Fox Sports 3 (Z)(1080)
+#EXTINF:-1 tvg-name="Fox Sports 3 (Z)(1080)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.9facfaf5bfc0dd66a8d9535ea8d7cb05.png" group-title="ESP | Deportes",Fox Sports 3 (Z)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179520
-#EXTINF:-1 tvg-id="Canal.Fox.Sports.3.(Cono.Norte).sv" tvg-name="DEPORTES - Fox Sports 3 ARG (i)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="ESP | Deportes",DEPORTES - Fox Sports 3 ARG (i)(1080)
+#EXTINF:-1 tvg-id="Canal.Fox.Sports.3.(Cono.Norte).sv" tvg-name="Fox Sports 3 ARG (i)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="ESP | Deportes",Fox Sports 3 ARG (i)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9588
-#EXTINF:-1 tvg-id="FOX.Sports.3.HD(FXS3HD).co" tvg-name="DEPORTES - Fox Sports 3 ARG (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="ESP | Deportes",DEPORTES - Fox Sports 3 ARG (TV)(1080)
+#EXTINF:-1 tvg-id="FOX.Sports.3.HD(FXS3HD).co" tvg-name="Fox Sports 3 ARG (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="ESP | Deportes",Fox Sports 3 ARG (TV)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9589
-#EXTINF:-1 tvg-id="FOX.Sports.3.HD(FXS3HD).co" tvg-name="DEPORTES - Fox Sports 3 COL (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="ESP | Deportes",DEPORTES - Fox Sports 3 COL (TV)(720)
+#EXTINF:-1 tvg-id="FOX.Sports.3.HD(FXS3HD).co" tvg-name="Fox Sports 3 COL (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="ESP | Deportes",Fox Sports 3 COL (TV)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9590
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Fox Sports 3 MEX (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="ESP | Deportes",DEPORTES - Fox Sports 3 MEX (M)(SD)
+#EXTINF:-1 tvg-id="FOX.SPORTS.3.mx" tvg-name="Fox Sports 3 MEX (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="ESP | Deportes",Fox Sports 3 MEX (M)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9591
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Fox Sports 3 MX (Z)(1080)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.9facfaf5bfc0dd66a8d9535ea8d7cb05.png" group-title="ESP | Deportes",DEPORTES - Fox Sports 3 MX (Z)(1080)
+#EXTINF:-1 tvg-id="FOX.SPORTS.3.mx" tvg-name="Fox Sports 3 MX (Z)(1080)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.9facfaf5bfc0dd66a8d9535ea8d7cb05.png" group-title="ESP | Deportes",Fox Sports 3 MX (Z)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179525
-#EXTINF:-1 tvg-id="Canal.Fox.Sports.3.(Cono.Norte).sv" tvg-name="DEPORTES - Fox Sports 3 MX (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="ESP | Deportes",DEPORTES - Fox Sports 3 MX (Z)(1080)
+#EXTINF:-1 tvg-id="FOX.SPORTS.3.mx" tvg-name="Fox Sports 3 MX (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="ESP | Deportes",Fox Sports 3 MX (Z)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9592
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports Premium (Z)(1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="ESP | Deportes",DEPORTES - Fox Sports Premium (Z)(1080)
+#EXTINF:-1 tvg-id="FOX.SPORTS.PREMIUM.mx " tvg-name="Fox Sports Premium (Z)(1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="ESP | Deportes",Fox Sports Premium (Z)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179530
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports Premium (Z)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="ESP | Deportes",DEPORTES - Fox Sports Premium (Z)(720)
+#EXTINF:-1 tvg-id="FOX.SPORTS.PREMIUM.mx" tvg-name="Fox Sports Premium (Z)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="ESP | Deportes",Fox Sports Premium (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179534
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Fox Sports Premium MX (i)(720)" tvg-logo="https://i.postimg.cc/SsSNFqg1/Proyectox-fox-premium.png" group-title="ESP | Deportes",DEPORTES - Fox Sports Premium MX (i)(720)
+#EXTINF:-1 tvg-id="FOX.SPORTS.PREMIUM.mx" tvg-name="Fox Sports Premium MX (i)(720)" tvg-logo="https://i.postimg.cc/SsSNFqg1/Proyectox-fox-premium.png" group-title="ESP | Deportes",Fox Sports Premium MX (i)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9593
-#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-name="DEPORTES - TUDN - MEX (M)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="ESP | Deportes",DEPORTES - TUDN - MEX (M)(720)
+#EXTINF:-1 tvg-id="Canal.TUDN.(México).mx" tvg-name="TUDN - MEX (M)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="ESP | Deportes",TUDN - MEX (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9603
-#EXTINF:-1 tvg-id="Canal.TUDN.(México).mx" tvg-name="DEPORTES - TUDN - MEX (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="ESP | Deportes",DEPORTES - TUDN - MEX (Z)(720)
+#EXTINF:-1 tvg-id="Canal.TUDN.(México).mx" tvg-name="TUDN - MEX (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="ESP | Deportes",TUDN - MEX (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9604
-#EXTINF:-1 tvg-id="TUDN.us" tvg-name="DEPORTES - TUDN - USA (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="ESP | Deportes",DEPORTES - TUDN - USA (TV)(720)
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN - USA (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="ESP | Deportes",TUDN - USA (TV)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9605
-#EXTINF:-1 tvg-id="TUDN.us" tvg-name="DEPORTES - TUDN - USA (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="ESP | Deportes",DEPORTES - TUDN - USA (Z)(720)
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN - USA (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="ESP | Deportes",TUDN - USA (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9606
-#EXTINF:-1 tvg-id="CW.Plus.Mountain.us" tvg-name="DEPORTES - beIN Sport USA (M)(720)" tvg-logo="https://1.bp.blogspot.com/-bwERD1EYUso/XjHTaAko5tI/AAAAAAAAA-M/MpTKAtCF0rUt9cvpn-Chpk3PKth9aEWJwCLcBGAsYHQ/s200/33.png" group-title="ESP | Deportes",DEPORTES - beIN Sport USA (M)(720)
+#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN Sport USA (M)(720)" tvg-logo="https://1.bp.blogspot.com/-bwERD1EYUso/XjHTaAko5tI/AAAAAAAAA-M/MpTKAtCF0rUt9cvpn-Chpk3PKth9aEWJwCLcBGAsYHQ/s200/33.png" group-title="ENG | Sports",beIN Sport USA (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9551
-#EXTINF:-1 tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="DEPORTES - beIN Sports Xtra Ñ (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-ZKORTNZ8Szo/Ydx2UQH0MaI/AAAAAAAACfI/KuHHd0WsnfInxBXCju3l_xrCzRyVBQASwCNcBGAsYHQ/w200-h200/1641838155930717-1.png" group-title="ESP | Deportes",DEPORTES - beIN Sports Xtra Ñ (TV)(720)
+#EXTINF:-1 tvg-id="beIN.Sports.En.Español.HD.us2" tvg-name="beIN Sports Xtra Ñ (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-ZKORTNZ8Szo/Ydx2UQH0MaI/AAAAAAAACfI/KuHHd0WsnfInxBXCju3l_xrCzRyVBQASwCNcBGAsYHQ/w200-h200/1641838155930717-1.png" group-title="ESP | Deportes",beIN Sports Xtra Ñ (TV)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9552
-#EXTINF:-1 tvg-id="Canal.beIN.Sport.en.Español.sv" tvg-name="DEPORTES - beIN Sports Ñ (i)(1080)" tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png" group-title="ESP | Deportes",DEPORTES - beIN Sports Ñ (i)(1080)
+#EXTINF:-1 tvg-id="Canal.beIN.Sport.en.Español.sv" tvg-name="beIN Sports Ñ (i)(1080)" tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png" group-title="ESP | Deportes",beIN Sports Ñ (i)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9553
-#EXTINF:-1 tvg-name="DEPORTES - Claro Sports 2 (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" group-title="ESP | Deportes",DEPORTES - Claro Sports 2 (Z)(720)
+#EXTINF:-1 tvg-name="Claro Sports 2 (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" group-title="ESP | Deportes",Claro Sports 2 (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9556
-#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="DEPORTES - Directv Sports + (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" group-title="ESP | Deportes",DEPORTES - Directv Sports + (L)(720)
+#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="Directv Sports + (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" group-title="ESP | Deportes",Directv Sports + (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9557
-#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="DEPORTES - Directv Sports + (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" group-title="ESP | Deportes",DEPORTES - Directv Sports + (TV)(720)
+#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="Directv Sports + (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" group-title="ESP | Deportes",Directv Sports + (TV)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9558
-#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="DEPORTES - Directv Sports + (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" group-title="ESP | Deportes",DEPORTES - Directv Sports + (TV)(720)
+#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="Directv Sports + (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" group-title="ESP | Deportes",Directv Sports + (TV)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9559
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="DEPORTES - Directv Sports 1 (ARG) (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="ESP | Deportes",DEPORTES - Directv Sports 1 (ARG) (TV)(1080)
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="Directv Sports 1 (ARG) (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="ESP | Deportes",Directv Sports 1 (ARG) (TV)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9560
-#EXTINF:-1 tvg-id="Canal.Discovery.Kids.(Chile).cl" tvg-name="DEPORTES - Directv Sports 1 CHI (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="ESP | Deportes",DEPORTES - Directv Sports 1 CHI (e)(1080)
+#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="Directv Sports 1 CHI (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="ESP | Deportes",Directv Sports 1 CHI (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9561
-#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DEPORTES - Directv Sports 1 ECU (e)(1080)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="ESP | Deportes",DEPORTES - Directv Sports 1 ECU (e)(1080)
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="Directv Sports 1 ECU (e)(1080)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="ESP | Deportes",Directv Sports 1 ECU (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9562
-#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DEPORTES - Directv Sports 1 ECU (e)(720)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="ESP | Deportes",DEPORTES - Directv Sports 1 ECU (e)(720)
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="Directv Sports 1 ECU (e)(720)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="ESP | Deportes",Directv Sports 1 ECU (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9563
-#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="DEPORTES - Directv Sports 2 (e)(1080)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="ESP | Deportes",DEPORTES - Directv Sports 2 (e)(1080)
+#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="Directv Sports 2 (e)(1080)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="ESP | Deportes",Directv Sports 2 (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9564
-#EXTINF:-1 tvg-id="DSPORTS.2.(DTS2).co" tvg-name="DEPORTES - Directv Sports 2 (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="ESP | Deportes",DEPORTES - Directv Sports 2 (e)(720)
+#EXTINF:-1 tvg-id="DSPORTS.2.(DTS2).co" tvg-name="Directv Sports 2 (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="ESP | Deportes",Directv Sports 2 (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9565
-#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="DEPORTES - Directv Sports 2 ARG (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="ESP | Deportes",DEPORTES - Directv Sports 2 ARG (L)(720)
+#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="Directv Sports 2 ARG (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="ESP | Deportes",Directv Sports 2 ARG (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9566
-#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="DEPORTES - Directv Sports 2 ARG (Z)(720)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="ESP | Deportes",DEPORTES - Directv Sports 2 ARG (Z)(720)
+#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="Directv Sports 2 ARG (Z)(720)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="ESP | Deportes",Directv Sports 2 ARG (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9567
-#EXTINF:-1 tvg-id="DSPORTS.Fight(DTSFHD).co" tvg-name="DEPORTES - Directv Sports Fight (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-LvUS6dp9vwM/Yqp4uneH-jI/AAAAAAAADp0/LjXyQj4JDQEfHChtmDP-s3UklHIsEpTWQCNcBGAsYHQ/w200-h200/1655339191039165-0.png" group-title="ESP | Deportes",DEPORTES - Directv Sports Fight (TV)(720)
+#EXTINF:-1 tvg-id="DSPORTS.Fight(DTSFHD).co" tvg-name="Directv Sports Fight (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-LvUS6dp9vwM/Yqp4uneH-jI/AAAAAAAADp0/LjXyQj4JDQEfHChtmDP-s3UklHIsEpTWQCNcBGAsYHQ/w200-h200/1655339191039165-0.png" group-title="ESP | Deportes",Directv Sports Fight (TV)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9568
-#EXTINF:-1 tvg-id="GOL.TV.uy" tvg-name="DEPORTES - Gol TV ES (M)(720)" tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png" group-title="ESP | Deportes",DEPORTES - Gol TV ES (M)(720)
+#EXTINF:-1 tvg-id="GOL.TV.uy" tvg-name="Gol TV ES (M)(720)" tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png" group-title="ESP | Deportes",Gol TV ES (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9594
-#EXTINF:-1 tvg-id="Gol.TV.USA.us" tvg-name="DEPORTES - Gol TV Internacional (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png" group-title="ESP | Deportes",DEPORTES - Gol TV Internacional (TV)(720)
+#EXTINF:-1 tvg-id="Gol.TV.USA.us" tvg-name="Gol TV Internacional (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png" group-title="ESP | Deportes",Gol TV Internacional (TV)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9595
-#EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-name="DEPORTES - Golf Latin America (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="ESP | Deportes",DEPORTES - Golf Latin America (M)(SD)
+#EXTINF:-1 tvg-id="Canal.Golf.Channel.(Latinoamérica).mx" tvg-name="Golf Latin America (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="ESP | Deportes",Golf Latin America (M)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9596
-#EXTINF:-1 tvg-id="CW.Plus.Mountain.us" tvg-name="DEPORTES - Golf Latin MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="ESP | Deportes",DEPORTES - Golf Latin MEX (M)(1080)
+#EXTINF:-1 tvg-id="Canal.Golf.Channel.(Latinoamérica).mx" tvg-name="Golf Latin MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="ESP | Deportes",Golf Latin MEX (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9597
-#EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-name="DEPORTES - NBA U (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ri_Nr0yAHbc/XhA3NrtQMlI/AAAAAAAAA7g/POn3E9DM87w21_EvZWEi5D-YQCNLepdiACLcBGAsYHQ/s200/29.png" group-title="ESP | Deportes",DEPORTES - NBA U (M)(720)
+#EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-name="NBA U (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ri_Nr0yAHbc/XhA3NrtQMlI/AAAAAAAAA7g/POn3E9DM87w21_EvZWEi5D-YQCNLepdiACLcBGAsYHQ/s200/29.png" group-title="ESP | Deportes",NBA U (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9598
-#EXTINF:-1 tvg-id="Real.Madrid.TV.es" tvg-name="DEPORTES - Real Madrid TV (i)(720)" group-title="ESP | Deportes",DEPORTES - Real Madrid TV (i)(720)
+#EXTINF:-1 tvg-id="Real.Madrid.TV.es" tvg-name="Real Madrid TV (i)(720)" group-title="ESP | Deportes",Real Madrid TV (i)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/165482
 #EXTINF:-1 tvg-name="DEPORTES - Sky sports (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-x_CIVSy5Fzg/YkytpLNmlVI/AAAAAAAADek/5sv89DCrHMofx0iph8leofRZIbMQZHyEACNcBGAsYHQ/w200-h200/1649192355948000-0.png" group-title="ESP | Deportes",DEPORTES - Sky sports (TV)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9599
@@ -1097,7 +1097,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9609
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9610
 #EXTINF:-1 tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-name="DEPORTES - UFC Fight PASS (i)(720)" tvg-logo="https://1.bp.blogspot.com/-T4uG5FYIDek/XhA6fXlKRQI/AAAAAAAAA8U/xRyQIitNaVsNGYmrK2TVTPJKiCITuGGoACLcBGAsYHQ/s200/32.png" group-title="ESP | Deportes",DEPORTES - UFC Fight PASS (i)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9611
-#EXTINF:-1 tvg-id="Univision.(KLRA).Little.Rock,.AR.us" tvg-name="DEPORTES - Univision Deportes (Z)(720)" tvg-logo="https://i.ibb.co/8LD13Qvy/image.png" group-title="ESP | Deportes",.AR.us" tvg-name="DEPORTES - Univision Deportes (Z)(720)" tvg-logo="https://i.ibb.co/8LD13Qvy/image.png" group-title="Spanish - Sports",.AR.us" tvg-name="DEPORTES - Univision Deportes (Z)(720)" tvg-logo="https://i.ibb.co/8LD13Qvy/image.png" group-title="Spanish - Sports",.AR.us" tvg-name="DEPORTES - Univision Deportes (Z)(720)" tvg-logo="https://i.ibb.co/8LD13Qvy/image.png" group-title="Spanish - Sports",DEPORTES - Univision Deportes (Z)(720)
+#EXTINF:-1 tvg-id="Univision.(KLRA).Little.Rock,.AR.us" tvg-name="Univision Deportes (Z)(720)" tvg-logo="https://i.ibb.co/8LD13Qvy/image.png" group-title="ESP | Deportes",Univision Deportes (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179537
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="DEPORTES - WWE  (Z)(720)" tvg-logo="https://lh3.googleusercontent.com/-Br7dLua2HYc/YkjfrZ9IdzI/AAAAAAAADd8/uFaZ9I5FrckfSZ22_0RaaH-63zhw_TpOQCNcBGAsYHQ/w200-h200/1648943020342945-0.png" group-title="ESP | Deportes",DEPORTES - WWE  (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9612
@@ -2145,7 +2145,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8319
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8320
 #EXTINF:-1 tvg-name="VH1 Classic (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/a87ff679a2f3e71d9181a67b7542122c.png" group-title="ENG | Music",VH1 Classic (M)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8321
-#EXTINF:-1 tvg-name="MUS-VH1 Mega Hits (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/eccbc87e4b5ce2fe28308fd9f2a7baf3.png" group-title="ENG | Music",MUS-VH1 Mega Hits (M)(SD)
+#EXTINF:-1 tvg-name="VH1 Mega Hits (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/eccbc87e4b5ce2fe28308fd9f2a7baf3.png" group-title="ENG | Music",VH1 Mega Hits (M)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8322
 #EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH1 Plus (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/c74d97b01eae257e44aa9d5bade97baf.png" group-title="ENG | Music",VH1 Plus (M)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8323
@@ -2205,7 +2205,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8335
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/67004
 #EXTINF:-1 tvg-name="NOV-Telemundo (i)(720)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="ESP | Local - Spanish",NOV-Telemundo (i)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/62093
-#EXTINF:-1 tvg-id="Telemundo.(KXNU-LD).Laredo,.Texas.us" tvg-name="NOV-Telemundo (M)(1080)" group-title="ESP | Local - Spanish",NOV-Telemundo (M)(1080)
+#EXTINF:-1 tvg-id="Telemundo.(KXNU-LD).Laredo,.Texas.us" tvg-name="NOV-Telemundo (M)(1080)" group-title="ESP | Local - Spanish",.Texas.us" tvg-name="NOV-Telemundo (M)(1080)" group-title="ESP | Local - Spanish",NOV-Telemundo (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8336
 #EXTINF:-1 tvg-id="WKTB-CD.us_locals1" tvg-name="Telemundo - Atlanta (TV)" group-title="ESP | Local - Spanish",Telemundo - Atlanta (TV)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8338
@@ -2231,7 +2231,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8347
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8348
 #EXTINF:-1 tvg-id="KNSO-DT.us_locals1" tvg-name="Telemundo - Fresno (M)" group-title="ESP | Local - Spanish",Telemundo - Fresno (M)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8349
-#EXTINF:-1 tvg-id="Telemundo.(KTMD).Houston,.TX.us" tvg-name="Telemundo - Houston (Z)(720)" group-title="ESP | Local - Spanish",.TX.us" tvg-name="Telemundo - Houston (Z)(720)" group-title="Local - Spanish",Telemundo - Houston (Z)(720)
+#EXTINF:-1 tvg-id="Telemundo.(KTMD).Houston,.TX.us" tvg-name="Telemundo - Houston (Z)(720)" group-title="ESP | Local - Spanish",.TX.us" tvg-name="Telemundo - Houston (Z)(720)" group-title="ESP | Local - Spanish",.TX.us" tvg-name="Telemundo - Houston (Z)(720)" group-title="Local - Spanish",Telemundo - Houston (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8350
 #EXTINF:-1 tvg-name="Telemundo - Internacional (L)" group-title="ESP | Local - Spanish",Telemundo - Internacional (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8351
@@ -2319,7 +2319,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8391
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/67008
 #EXTINF:-1 tvg-id="WXTV-DT.us_locals1" tvg-name="Univision NYC (M)(720)" group-title="ESP | Local - Spanish",Univision NYC (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8392
-#EXTINF:-1 tvg-id="Univision.(KUOK-CD).Oklahoma.City,.OK.us" tvg-name="Univision (Z)(720)" group-title="ESP | Local - Spanish",.OK.us" tvg-name="Univision (Z)(720)" group-title="Local - Spanish",Univision (Z)(720)
+#EXTINF:-1 tvg-id="Univision.(KUOK-CD).Oklahoma.City,.OK.us" tvg-name="Univision (Z)(720)" group-title="ESP | Local - Spanish",.OK.us" tvg-name="Univision (Z)(720)" group-title="ESP | Local - Spanish",.OK.us" tvg-name="Univision (Z)(720)" group-title="Local - Spanish",Univision (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/67009
 #EXTINF:-1 tvg-id="Univision.TL.Novelas.us2" tvg-name="Univision - TeleNovelas (TV)" group-title="ESP | Local - Spanish",Univision TeleNovelas (TV)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/67012
@@ -2337,7 +2337,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8397
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8398
 #EXTINF:-1 tvg-id="WLTV-DT.us_locals1" tvg-name="Univision Miami (TV)(720)" group-title="ESP | Local - Spanish",Univision Miami (TV)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8399
-#EXTINF:-1 tvg-id="KWNL-CD-DT.us_locals1" tvg-name="Univision Fayetteville, AR (TV)" group-title="ESP | Local - Spanish",AR (TV)" group-title="Local - Spanish",Univision Fayetteville, AR (TV)
+#EXTINF:-1 tvg-id="KWNL-CD-DT.us_locals1" tvg-name="Univision Fayetteville, AR (TV)" group-title="ESP | Local - Spanish",AR (TV)" group-title="ESP | Local - Spanish",AR (TV)" group-title="Local - Spanish",Univision Fayetteville, AR (TV)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8400
 #EXTINF:-1 tvg-id="WXTV-DT.us_locals1" tvg-name="Univision NYC (TV)(720)" group-title="ESP | Local - Spanish",Univision NYC (TV)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8401
@@ -2651,67 +2651,67 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8540
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/169208
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone (L)" group-title="ENG | Sports",US | Sunday NFL Red Zone (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/169209
-#EXTINF:-1 tvg-id="HBO.Latino.HD.us2" tvg-name="USA- HBO LATINO (L)(720)" group-title="ENG | Movies",USA- HBO LATINO (L)(720)
+#EXTINF:-1 tvg-id="HBO.Latino.HD.us2" tvg-name="HBO Latino (L)(720)" group-title="ESP | Movies",HBO Latino (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162601
-#EXTINF:-1 tvg-id="Cinemax.Classics.us2" tvg-name="USA-Cinemax Classics (L)(720)" group-title="ENG | Movies",USA-Cinemax Classics (L)(720)
+#EXTINF:-1 tvg-id="Cinemax.Classics.us2" tvg-name="Cinemax Classics (L)(720)" group-title="ENG | Movies",Cinemax Classics (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162605
-#EXTINF:-1 tvg-name="USA-6 ABC WPVI Philadelphia (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",USA-6 ABC WPVI Philadelphia (L)(720)
+#EXTINF:-1 tvg-id="WPVI-DT.us_locals1" tvg-name="6 ABC WPVI Philadelphia (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",6 ABC WPVI Philadelphia (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162762
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E (L)(720)" group-title="ENG | Entertainment",A&E (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162600
-#EXTINF:-1 tvg-name="USA-ABC 10 KXTV  | Sacramento (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",USA-ABC 10 KXTV  | Sacramento (L)(720)
+#EXTINF:-1 tvg-id="KXTV-DT.us_locals1" tvg-name="ABC 10 KXTV  | Sacramento (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",ABC 10 KXTV  | Sacramento (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162607
-#EXTINF:-1 tvg-name="USA-ABC 13 KTRK  |  Houston (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",USA-ABC 13 KTRK  |  Houston (L)(720)
+#EXTINF:-1 tvg-id="KTRK-DT.us_locals1" tvg-name="ABC 13 KTRK  |  Houston (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",ABC 13 KTRK  |  Houston (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162608
-#EXTINF:-1 tvg-name="USA-ABC 15 Phoenix KNXV (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",USA-ABC 15 Phoenix KNXV (L)(720)
+#EXTINF:-1 tvg-id="KNXV-DT.us_locals1" tvg-name="ABC 15 Phoenix KNXV (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",ABC 15 Phoenix KNXV (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162609
-#EXTINF:-1 tvg-name="USA-ABC 5 KECY-DT | Yuma Az (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",USA-ABC 5 KECY-DT | Yuma Az (L)(720)
+#EXTINF:-1 tvg-id="KECY-DT.us_locals1" tvg-name="ABC 5 KECY-DT | Yuma Az (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",ABC 5 KECY-DT | Yuma Az (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162610
-#EXTINF:-1 tvg-name="USA-ABC 6 WJBF  Augusta GA (L)(720)" tvg-logo="https://www.nicepng.com/png/detail/806-8061607_abc-6-logo-cd.png" group-title="ENG | Local - ABC",USA-ABC 6 WJBF  Augusta GA (L)(720)
+#EXTINF:-1 tvg-name="ABC 6 WJBF  Augusta GA (L)(720)" tvg-logo="https://www.nicepng.com/png/detail/806-8061607_abc-6-logo-cd.png" group-title="ENG | Local - ABC",ABC 6 WJBF  Augusta GA (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162611
-#EXTINF:-1 tvg-name="USA-ABC 7 Chicago (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",USA-ABC 7 Chicago (L)(720)
+#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 Chicago (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",ABC 7 Chicago (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162612
-#EXTINF:-1 tvg-name="USA-ABC 7 WABC | New York (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",USA-ABC 7 WABC | New York (L)(720)
+#EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="ABC 7 WABC | New York (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",ABC 7 WABC | New York (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162613
-#EXTINF:-1 tvg-name="USA-ABC KABC Los Angeles (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",USA-ABC KABC Los Angeles (L)(720)
+#EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-name="ABC KABC Los Angeles (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",ABC KABC Los Angeles (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162614
-#EXTINF:-1 tvg-name="USA-ABC KFSN 30 Fresno (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",USA-ABC KFSN 30 Fresno (L)(720)
+#EXTINF:-1 tvg-id="KFSN-DT.us_locals1" tvg-name="ABC KFSN 30 Fresno (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",ABC KFSN 30 Fresno (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162794
-#EXTINF:-1 tvg-name="USA-ABC KGTV 10 San Diego (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",USA-ABC KGTV 10 San Diego (L)(720)
+#EXTINF:-1 tvg-id="KGTV-DT.us_locals1" tvg-name="ABC KGTV 10 San Diego (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",ABC KGTV 10 San Diego (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162606
-#EXTINF:-1 tvg-name="USA-ABC KITV 4 Honolulu (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KITV_ABC_4_Honolulu_logo.svg/2560px-KITV_ABC_4_Honolulu_logo.svg.png" group-title="ENG | Local - ABC",USA-ABC KITV 4 Honolulu (L)(720)
+#EXTINF:-1 tvg-id="KITV-DT.us_locals1" tvg-name="ABC KITV 4 Honolulu (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KITV_ABC_4_Honolulu_logo.svg/2560px-KITV_ABC_4_Honolulu_logo.svg.png" group-title="ENG | Local - ABC",ABC KITV 4 Honolulu (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162781
-#EXTINF:-1 tvg-name="USA-ABC KRGV | McAllen (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",USA-ABC KRGV | McAllen (L)(720)
+#EXTINF:-1 tvg-id="KRGV-DT.us_locals1" tvg-name="ABC KRGV | McAllen (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",ABC KRGV | McAllen (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162615
-#EXTINF:-1 tvg-name="USA-ABC KTUL Tulsa (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KTUL_logo.svg/1200px-KTUL_logo.svg.png" group-title="ENG | Local - ABC",USA-ABC KTUL Tulsa (L)(720)
+#EXTINF:-1 tvg-id="KTUL-DT.us_locals1" tvg-name="ABC KTUL Tulsa (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KTUL_logo.svg/1200px-KTUL_logo.svg.png" group-title="ENG | Local - ABC",ABC KTUL Tulsa (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162766
-#EXTINF:-1 tvg-name="USA-ABC KVUE | AUSTIN (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",USA-ABC KVUE | AUSTIN (L)(720)
+#EXTINF:-1 tvg-id="KVUE-DT.us_locals1" tvg-name="ABC KVUE | AUSTIN (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",ABC KVUE | AUSTIN (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162616
-#EXTINF:-1 tvg-name="USA-ABC Las Vegas | KTNV (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",USA-ABC Las Vegas | KTNV (L)(720)
+#EXTINF:-1 tvg-id="KTNV-DT.us_locals1" tvg-name="ABC Las Vegas | KTNV (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",ABC Las Vegas | KTNV (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162617
-#EXTINF:-1 tvg-name="USA-ABC Seattle | KOMO 4 (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",USA-ABC Seattle | KOMO 4 (L)(720)
+#EXTINF:-1 tvg-id="KOMO-DT.us_locals1" tvg-name="ABC Seattle | KOMO 4 (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",ABC Seattle | KOMO 4 (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162620
-#EXTINF:-1 tvg-name="USA-ABC WEWS  | Cleveland (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",USA-ABC WEWS  | Cleveland (L)(720)
+#EXTINF:-1 tvg-id="WEWS-DT.us_locals1" tvg-name="ABC WEWS  | Cleveland (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",ABC WEWS  | Cleveland (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162619
-#EXTINF:-1 tvg-name="USA-ABC WFTV 9 | Orlando (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",USA-ABC WFTV 9 | Orlando (L)(720)
+#EXTINF:-1 tvg-id="WFTV-DT.us_locals1" tvg-name="ABC WFTV 9 | Orlando (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",ABC WFTV 9 | Orlando (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162621
-#EXTINF:-1 tvg-name="USA-ABC WHAS Louisville (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",USA-ABC WHAS Louisville (L)(720)
+#EXTINF:-1 tvg-id="WHAS-DT.us_locals1" tvg-name="ABC WHAS Louisville (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",ABC WHAS Louisville (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162784
-#EXTINF:-1 tvg-name="USA-ABC WKRN | Tennessee (L)(720)" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/2/25/Wkrnnews2-color_sponsor500.png" group-title="ENG | Local - ABC",USA-ABC WKRN | Tennessee (L)(720)
+#EXTINF:-1 tvg-id="WKRN-DT.us_locals1" tvg-name="ABC WKRN | Tennessee (L)(720)" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/2/25/Wkrnnews2-color_sponsor500.png" group-title="ENG | Local - ABC",ABC WKRN | Tennessee (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162622
-#EXTINF:-1 tvg-name="USA-ABC WMUR | Boston (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",USA-ABC WMUR | Boston (L)(720)
+#EXTINF:-1 tvg-id="WMUR-DT.us_locals1" tvg-name="ABC WMUR | Boston (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",ABC WMUR | Boston (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162623
-#EXTINF:-1 tvg-name="USA-ABC WPLG  MIAMI (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",USA-ABC WPLG  MIAMI (L)(720)
+#EXTINF:-1 tvg-id="WPLG-DT.us_locals1" tvg-name="ABC WPLG  MIAMI (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",ABC WPLG  MIAMI (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162618
-#EXTINF:-1 tvg-name="USA-ABC WSB 2 Atlanta (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",USA-ABC WSB 2 Atlanta (L)(720)
+#EXTINF:-1 tvg-id="WSB-DT.us_locals1" tvg-name="ABC WSB 2 Atlanta (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="ENG | Local - ABC",ABC WSB 2 Atlanta (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162624
-#EXTINF:-1 tvg-name="USA-ABC WSOC 9 Charlotte (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/WSOC-TV_logo.svg/1200px-WSOC-TV_logo.svg.png" group-title="ENG | Local - ABC",USA-ABC WSOC 9 Charlotte (L)(720)
+#EXTINF:-1 tvg-id="WSOC-DT.us_locals1" tvg-name="ABC WSOC 9 Charlotte (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/WSOC-TV_logo.svg/1200px-WSOC-TV_logo.svg.png" group-title="ENG | Local - ABC",ABC WSOC 9 Charlotte (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162625
-#EXTINF:-1 tvg-name="USA-ABC WSYX Columbus (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WSYX_ABC6_color_calls_blk.png" group-title="ENG | Local - ABC",USA-ABC WSYX Columbus (L)(720)
+#EXTINF:-1 tvg-id="WSYX-DT.us_locals1" tvg-name="ABC WSYX Columbus (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WSYX_ABC6_color_calls_blk.png" group-title="ENG | Local - ABC",ABC WSYX Columbus (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162759
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ACC Network (L)(720)" group-title="ENG | Sports",ACC Network (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162626
-#EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-name="USA-Cinemax Action (L)(720)" group-title="ENG | Movies",USA-Cinemax Action (L)(720)
+#EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-name="Cinemax Action (L)(720)" group-title="ENG | Movies",Cinemax Action (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162627
 #EXTINF:-1 tvg-id="Altitude.Sports.us2" tvg-name="Altitude Sports (L)(720)" group-title="ENG | Sports",Altitude Sports (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162771
@@ -2747,79 +2747,79 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162636
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162522
 #EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="CARTOON NETWORK (L)(720)" tvg-logo="https://logos.xbots.com.mx/112.png" group-title="ENG | Kids & Family",CARTOON NETWORK (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162637
-#EXTINF:-1 tvg-name="USA-CBS  WSAW | Wisconsin (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/WISC-TV_2019_Logo.svg/1200px-WISC-TV_2019_Logo.svg.png" group-title="ENG | Local - CBS",USA-CBS  WSAW | Wisconsin (L)(720)
+#EXTINF:-1 tvg-id="WSAW-DT.us_locals1" tvg-name="CBS  WSAW | Wisconsin (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/WISC-TV_2019_Logo.svg/1200px-WISC-TV_2019_Logo.svg.png" group-title="ENG | Local - CBS",CBS  WSAW | Wisconsin (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162663
-#EXTINF:-1 tvg-name="USA-CBS 10TV WRBL | Columbus (L)(720)" tvg-logo="https://www.logolynx.com/images/logolynx/65/65abf86f0841a218dbea90ec8defe2fd.png" group-title="ENG | Local - CBS",USA-CBS 10TV WRBL | Columbus (L)(720)
+#EXTINF:-1 tvg-id="WRBL-DT.us_locals1" tvg-name="CBS 10TV WRBL | Columbus (L)(720)" tvg-logo="https://www.logolynx.com/images/logolynx/65/65abf86f0841a218dbea90ec8defe2fd.png" group-title="ENG | Local - CBS",CBS 10TV WRBL | Columbus (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162638
-#EXTINF:-1 tvg-name="USA-CBS 14 | Wyoming (L)(720)" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2019/05/KGWC-14-Casper-WY.png" group-title="ENG | Local - CBS",USA-CBS 14 | Wyoming (L)(720)
+#EXTINF:-1 tvg-id="KGWC-DT.us_locals1" tvg-name="CBS 14 | Wyoming (L)(720)" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2019/05/KGWC-14-Casper-WY.png" group-title="ENG | Local - CBS",CBS 14 | Wyoming (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162640
-#EXTINF:-1 tvg-name="USA-CBS 2 Chicago (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="ENG | Local - CBS",USA-CBS 2 Chicago (L)(720)
+#EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-name="CBS 2 Chicago (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="ENG | Local - CBS",CBS 2 Chicago (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162641
-#EXTINF:-1 tvg-name="USA-CBS 2 | California Los Angeles (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/250c51527f347066847969f002be67a2.png" group-title="ENG | Local - CBS",USA-CBS 2 | California Los Angeles (L)(720)
+#EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-name="CBS 2 | California Los Angeles (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/250c51527f347066847969f002be67a2.png" group-title="ENG | Local - CBS",CBS 2 | California Los Angeles (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162523
-#EXTINF:-1 tvg-name="USA-CBS 3 | Philadelphia (L)(720)" tvg-logo="https://livenewsglobe.com/wp-content/uploads/2020/10/CBS_3_News_Philly_logo.png" group-title="ENG | Local - CBS",USA-CBS 3 | Philadelphia (L)(720)
+#EXTINF:-1 tvg-id="KYW-DT.us_locals1" tvg-name="CBS 3 | Philadelphia (L)(720)" tvg-logo="https://livenewsglobe.com/wp-content/uploads/2020/10/CBS_3_News_Philly_logo.png" group-title="ENG | Local - CBS",CBS 3 | Philadelphia (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162642
-#EXTINF:-1 tvg-name="USA-CBS 4 Miami (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/Iwjy8x0vE8NggagHCwBfSzsaQtV0Cgcg4JcAYqMTiB4U7DqU__-QQAknY6dumW5Rq7WS3NtsimK5ziMgekFgK3FDwvZ73qyyVxrWaI_2V3apK-U8aS4FY-SgxnRIiyC3.png" group-title="ENG | Local - CBS",USA-CBS 4 Miami (L)(720)
+#EXTINF:-1 tvg-id="WFOR-DT.us_locals1" tvg-name="CBS 4 Miami (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/Iwjy8x0vE8NggagHCwBfSzsaQtV0Cgcg4JcAYqMTiB4U7DqU__-QQAknY6dumW5Rq7WS3NtsimK5ziMgekFgK3FDwvZ73qyyVxrWaI_2V3apK-U8aS4FY-SgxnRIiyC3.png" group-title="ENG | Local - CBS",CBS 4 Miami (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162643
-#EXTINF:-1 tvg-name="USA-CBS 4 | McAllen (L)(720)" tvg-logo="https://www.valleycentral.com/wp-content/uploads/sites/39/2018/11/04997acd-7535-4419-8c6e-b371b1e27716-VALLEYCENTRAL_HI-1.png" group-title="ENG | Local - CBS",USA-CBS 4 | McAllen (L)(720)
+#EXTINF:-1 tvg-id="KVEO-DT2.us_locals1" tvg-name="CBS 4 | McAllen (L)(720)" tvg-logo="https://www.valleycentral.com/wp-content/uploads/sites/39/2018/11/04997acd-7535-4419-8c6e-b371b1e27716-VALLEYCENTRAL_HI-1.png" group-title="ENG | Local - CBS",CBS 4 | McAllen (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162644
-#EXTINF:-1 tvg-name="USA-CBS 46 WANF Atlanta (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="ENG | Local - CBS",USA-CBS 46 WANF Atlanta (L)(720)
+#EXTINF:-1 tvg-id="WANF-DT.us_locals1" tvg-name="WANF Atlanta (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="ENG | Local - CW/IND/MY",WANF Atlanta (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162645
-#EXTINF:-1 tvg-name="USA-CBS 47 Fresno (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/0e79797c5b2740eb6001ea4896b77b13.png" group-title="ENG | Local - CBS",USA-CBS 47 Fresno (L)(720)
+#EXTINF:-1 tvg-id="KGPE-DT.us_locals1" tvg-name="CBS 47 Fresno (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/0e79797c5b2740eb6001ea4896b77b13.png" group-title="ENG | Local - CBS",CBS 47 Fresno (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162767
-#EXTINF:-1 tvg-name="USA-CBS 5 KPHO | Arizona (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/KPHO_2019_Logo.svg/1200px-KPHO_2019_Logo.svg.png" group-title="ENG | Local - CBS",USA-CBS 5 KPHO | Arizona (L)(720)
+#EXTINF:-1 tvg-id="KPHO-DT.us_locals1" tvg-name="CBS 5 KPHO | Arizona (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/KPHO_2019_Logo.svg/1200px-KPHO_2019_Logo.svg.png" group-title="ENG | Local - CBS",CBS 5 KPHO | Arizona (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162647
-#EXTINF:-1 tvg-name="USA-CBS 5 Phoenix (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="ENG | Local - CBS",USA-CBS 5 Phoenix (L)(720)
+#EXTINF:-1 tvg-id="KPHO-DT.us_locals1" tvg-name="CBS 5 Phoenix (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="ENG | Local - CBS",CBS 5 Phoenix (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162646
-#EXTINF:-1 tvg-name="USA-CBS 8 San Diego (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="ENG | Local - CBS",USA-CBS 8 San Diego (L)(720)
+#EXTINF:-1 tvg-id="KFMB-DT.us_locals1" tvg-name="CBS 8 San Diego (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="ENG | Local - CBS",CBS 8 San Diego (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162648
-#EXTINF:-1 tvg-name="USA-CBS KEYE | AUSTIN (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZOSs2gwm9bJ8ijyElpn_45vtt0kuT5fVDNGlNmCI5fxvPQkoHbP3zLuX-emqGlurnc.png" group-title="ENG | Local - CBS",USA-CBS KEYE | AUSTIN (L)(720)
+#EXTINF:-1 tvg-id="KEYE-DT.us_locals1" tvg-name="CBS KEYE | AUSTIN (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZOSs2gwm9bJ8ijyElpn_45vtt0kuT5fVDNGlNmCI5fxvPQkoHbP3zLuX-emqGlurnc.png" group-title="ENG | Local - CBS",CBS KEYE | AUSTIN (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162650
-#EXTINF:-1 tvg-name="USA-CBS KGMB Honolulu (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMJ1C6QUldUlzFAsvUMZZFnDHTyuXjJwWOXm88f2qaTEofMfrbIRx3b1NnXzM3S3mu2VdDtQqzSa8JwLmvJub4iiVS55fUoLFY66kyQ5gpi9w.png" group-title="ENG | Local - CBS",USA-CBS KGMB Honolulu (L)(720)
+#EXTINF:-1 tvg-id="KGMB-DT.us_locals1" tvg-name="CBS KGMB Honolulu (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMJ1C6QUldUlzFAsvUMZZFnDHTyuXjJwWOXm88f2qaTEofMfrbIRx3b1NnXzM3S3mu2VdDtQqzSa8JwLmvJub4iiVS55fUoLFY66kyQ5gpi9w.png" group-title="ENG | Local - CBS",CBS KGMB Honolulu (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162651
-#EXTINF:-1 tvg-name="USA-CBS KHOU 11 Houston (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/7VgXke3Z4O7fM8Xn8woFRTPKvqWvTEI_fqIv5YdZcjfG_b18RHWMvCgRMfUV8cKArb7zwueH27TXyaBBQBJCHCelojp8iRkRBTVwzhizhKI.png" group-title="ENG | Local - CBS",USA-CBS KHOU 11 Houston (L)(720)
+#EXTINF:-1 tvg-id="KHOU-DT.us_locals1" tvg-name="CBS KHOU 11 Houston (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/7VgXke3Z4O7fM8Xn8woFRTPKvqWvTEI_fqIv5YdZcjfG_b18RHWMvCgRMfUV8cKArb7zwueH27TXyaBBQBJCHCelojp8iRkRBTVwzhizhKI.png" group-title="ENG | Local - CBS",CBS KHOU 11 Houston (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162652
-#EXTINF:-1 tvg-name="USA-CBS KKTV 11 Colorado (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/_7nh0-WXmPHx8x0Cr98nm44e3vunSiWY_1aw4zaDHHuz6xJSGZMJyXHu7DL7RhKFCuhUl9ztm6uuvhXuSQUXeD7DHEkM2Ql-1YQlp0oTt52h_E1EoNEzi0rzlxnGdbV6G0QTWI4qD594JyKtY5C50A.png" group-title="ENG | Local - CBS",USA-CBS KKTV 11 Colorado (L)(720)
+#EXTINF:-1 tvg-id="KKTV-DT.us_locals1" tvg-name="CBS KKTV 11 Colorado (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/_7nh0-WXmPHx8x0Cr98nm44e3vunSiWY_1aw4zaDHHuz6xJSGZMJyXHu7DL7RhKFCuhUl9ztm6uuvhXuSQUXeD7DHEkM2Ql-1YQlp0oTt52h_E1EoNEzi0rzlxnGdbV6G0QTWI4qD594JyKtY5C50A.png" group-title="ENG | Local - CBS",CBS KKTV 11 Colorado (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162653
-#EXTINF:-1 tvg-name="USA-CBS KMOV 4 Missouri (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/FBlYFUQcTmRzHUedCtvPvY-fkFN0fJW19bwCcGB6arMWXI-2TcrKGV_r9k8bnzJJTT2AXmEZHlfjGbeM9jWjh92pZrB1vhzb4tBRy1HlwteoDnUDCLDBov7ACygtg0o-NNmo-q87bhKfonfypOOrLkhUQR21e5vbH-6sjzWxWj5umJNoWbAr_eC3Z1esIS3vuv0ctBtugRO9MzdjVUsBKA.png" group-title="ENG | Local - CBS",USA-CBS KMOV 4 Missouri (L)(720)
+#EXTINF:-1 tvg-id="KMOV-DT.us_locals1" tvg-name="CBS KMOV 4 Missouri (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/FBlYFUQcTmRzHUedCtvPvY-fkFN0fJW19bwCcGB6arMWXI-2TcrKGV_r9k8bnzJJTT2AXmEZHlfjGbeM9jWjh92pZrB1vhzb4tBRy1HlwteoDnUDCLDBov7ACygtg0o-NNmo-q87bhKfonfypOOrLkhUQR21e5vbH-6sjzWxWj5umJNoWbAr_eC3Z1esIS3vuv0ctBtugRO9MzdjVUsBKA.png" group-title="ENG | Local - CBS",CBS KMOV 4 Missouri (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162654
-#EXTINF:-1 tvg-name="USA-CBS KOTV 6 Tulsa (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/KOTV_6_logo.png" group-title="ENG | Local - CBS",USA-CBS KOTV 6 Tulsa (L)(720)
+#EXTINF:-1 tvg-id="KOTV-DT.us_locals1" tvg-name="CBS KOTV 6 Tulsa (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/KOTV_6_logo.png" group-title="ENG | Local - CBS",CBS KOTV 6 Tulsa (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162778
-#EXTINF:-1 tvg-name="USA-CBS KOVR Sacramento (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="ENG | Local - CBS",USA-CBS KOVR Sacramento (L)(720)
+#EXTINF:-1 tvg-id="KOVR-DT.us_locals1" tvg-name="CBS KOVR Sacramento (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="ENG | Local - CBS",CBS KOVR Sacramento (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162639
-#EXTINF:-1 tvg-name="USA-CBS Las Vegas | KLAS (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZO9v6NBm1n5bC9GMfrBLxJh2zsJ_mEdkbhtVePPL97Yom-PqqcAF6AyPvLGsE6FQXk.png" group-title="ENG | Local - CBS",USA-CBS Las Vegas | KLAS (L)(720)
+#EXTINF:-1 tvg-id="KLAS-DT.us_locals1" tvg-name="CBS Las Vegas | KLAS (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZO9v6NBm1n5bC9GMfrBLxJh2zsJ_mEdkbhtVePPL97Yom-PqqcAF6AyPvLGsE6FQXk.png" group-title="ENG | Local - CBS",CBS Las Vegas | KLAS (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162656
-#EXTINF:-1 tvg-name="USA-CBS News 6 WKMG Orlando (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="ENG | Local - CBS",USA-CBS News 6 WKMG Orlando (L)(720)
+#EXTINF:-1 tvg-id="WKMG-DT.us_locals1" tvg-name="CBS News 6 WKMG Orlando (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="ENG | Local - CBS",CBS News 6 WKMG Orlando (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162657
-#EXTINF:-1 tvg-name="USA-CBS News | New York (L)(720)" tvg-logo="https://www.restartlife.com/wp-content/uploads/logo-cbsnews-1-300x200.png" group-title="ENG | Local - CBS",USA-CBS News | New York (L)(720)
+#EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="CBS | New York (L)(720)" tvg-logo="https://www.restartlife.com/wp-content/uploads/logo-cbsnews-1-300x200.png" group-title="ENG | Local - CBS",CBS | New York (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162658
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS SPORTS NETWORK (L)(720)" group-title="ENG | Sports",CBS SPORTS NETWORK (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162524
-#EXTINF:-1 tvg-name="USA-CBS Tennessee | WTVF (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png" group-title="ENG | Local - CBS",USA-CBS Tennessee | WTVF (L)(720)
+#EXTINF:-1 tvg-id="WTVF-DT.us_locals1" tvg-name="CBS Tennessee | WTVF (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png" group-title="ENG | Local - CBS",CBS Tennessee | WTVF (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162659
-#EXTINF:-1 tvg-name="USA-CBS WBTV | Charlotte (L)(720)" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/gray/AERISHLTVVE77I4IUP2N3DCPSY.png" group-title="ENG | Local - CBS",USA-CBS WBTV | Charlotte (L)(720)
+#EXTINF:-1 tvg-id="WBTV-DT.us_locals1" tvg-name="CBS WBTV | Charlotte (L)(720)" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/gray/AERISHLTVVE77I4IUP2N3DCPSY.png" group-title="ENG | Local - CBS",CBS WBTV | Charlotte (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162660
-#EXTINF:-1 tvg-name="USA-CBS WBZ 4 Boston (L)(720)" tvg-logo="https://pbs.twimg.com/profile_images/530749632175804417/zgbOMOnw_400x400.png" group-title="ENG | Local - CBS",USA-CBS WBZ 4 Boston (L)(720)
+#EXTINF:-1 tvg-id="WBZ-DT.us_locals1" tvg-name="CBS WBZ 4 Boston (L)(720)" tvg-logo="https://pbs.twimg.com/profile_images/530749632175804417/zgbOMOnw_400x400.png" group-title="ENG | Local - CBS",CBS WBZ 4 Boston (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162661
-#EXTINF:-1 tvg-name="USA-CBS WFSB 3 Conneticut (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/dAVFdyX7T1hfY4rYevN7-1AiwQbV4vBYfEi3_TuSWxujIIBX30rO8JgMZ8bx_ZXgBgoxZcvl1Hw4LRGGJh3S1nA0p05Wzy6jqxcFW4luyG4.png" group-title="ENG | Local - CBS",USA-CBS WFSB 3 Conneticut (L)(720)
+#EXTINF:-1 tvg-id="WFSB-DT.us_locals1" tvg-name="CBS WFSB 3 Conneticut (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/dAVFdyX7T1hfY4rYevN7-1AiwQbV4vBYfEi3_TuSWxujIIBX30rO8JgMZ8bx_ZXgBgoxZcvl1Hw4LRGGJh3S1nA0p05Wzy6jqxcFW4luyG4.png" group-title="ENG | Local - CBS",CBS WFSB 3 Conneticut (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162662
-#EXTINF:-1 tvg-name="USA-CBS WLKY Louisville (L)(720)" tvg-logo="https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wlky/logo.png" group-title="ENG | Local - CBS",USA-CBS WLKY Louisville (L)(720)
+#EXTINF:-1 tvg-id="WLKY-DT.us_locals1" tvg-name="CBS WLKY Louisville (L)(720)" tvg-logo="https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wlky/logo.png" group-title="ENG | Local - CBS",CBS WLKY Louisville (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162785
-#EXTINF:-1 tvg-name="USA-CBS WLTX Columbia (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/7-gX4mH47duEIsQCrBM_U7luTUcWFyeIjcw1Tc4QbecdD-vX7IBOjSr9VMjvhFtm3kZ2JbZtWAZJp4sCtFRWIr08Dw-Z2L1UGn42o-CAh1n5CiIGg9QUGqQXt8805CNaWtUsyrOUAYKV-5NR4Wb9EQ.png" group-title="ENG | Local - CBS",USA-CBS WLTX Columbia (L)(720)
+#EXTINF:-1 tvg-id="WLTX-DT.us_locals1" tvg-name="CBS WLTX Columbia (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/7-gX4mH47duEIsQCrBM_U7luTUcWFyeIjcw1Tc4QbecdD-vX7IBOjSr9VMjvhFtm3kZ2JbZtWAZJp4sCtFRWIr08Dw-Z2L1UGn42o-CAh1n5CiIGg9QUGqQXt8805CNaWtUsyrOUAYKV-5NR4Wb9EQ.png" group-title="ENG | Local - CBS",CBS WLTX Columbia (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162655
-#EXTINF:-1 tvg-name="USA-CBS WTAJ Pennsylvania (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZNSJ4dnnI6pF_rCgYhl8XrvPzybcu__Hh1z2be1-UxVTw.png" group-title="ENG | Local - CBS",USA-CBS WTAJ Pennsylvania (L)(720)
+#EXTINF:-1 tvg-id="WTAJ-DT.us_locals1" tvg-name="CBS WTAJ Pennsylvania (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZNSJ4dnnI6pF_rCgYhl8XrvPzybcu__Hh1z2be1-UxVTw.png" group-title="ENG | Local - CBS",CBS WTAJ Pennsylvania (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162664
-#EXTINF:-1 tvg-name="USA-CBS WTOC 11 | Georgia (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/WTOC-TV_11_logo.svg/1200px-WTOC-TV_11_logo.svg.png" group-title="ENG | Local - CBS",USA-CBS WTOC 11 | Georgia (L)(720)
+#EXTINF:-1 tvg-id="WTOC-DT.us_locals1" tvg-name="CBS WTOC 11 | Georgia (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/WTOC-TV_11_logo.svg/1200px-WTOC-TV_11_logo.svg.png" group-title="ENG | Local - CBS",CBS WTOC 11 | Georgia (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162665
-#EXTINF:-1 tvg-name="USA-CBS WTSP Cleveland 19 (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="ENG | Local - CBS",USA-CBS WTSP Cleveland 19 (L)(720)
+#EXTINF:-1 tvg-id="WTSP-DT.us_locals1" tvg-name="CBS WTSP Cleveland 19 (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="ENG | Local - CBS",CBS WTSP Cleveland 19 (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162649
-#EXTINF:-1 tvg-name="USA-CBS | KYMA | Yuma Az (L)(720)" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/0/07/KSWT_Logo.png" group-title="ENG | Local - CBS",USA-CBS | KYMA | Yuma Az (L)(720)
+#EXTINF:-1 tvg-id="KYMA-DT.us_locals1" tvg-name="AZ | Yuma | CBS KYMA (L)(720)" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/0/07/KSWT_Logo.png" group-title="ENG | Local - CBS",AZ | Yuma | CBS KYMA (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162666
-#EXTINF:-1 tvg-name="USA-CBS | NEWS 12 WRDW Augusta GA (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/The_updated_News12_logo_as_of_November_2019.png" group-title="ENG | Local - CBS",USA-CBS | NEWS 12 WRDW Augusta GA (L)(720)
+#EXTINF:-1 tvg-id="WRDW-DT.us_locals1" tvg-name="GA | Augusta | CBS WRDW (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/The_updated_News12_logo_as_of_November_2019.png" group-title="ENG | Local - CBS",GA | Augusta | CBS WRDW (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162667
 #EXTINF:-1 tvg-id="Cheddar.us2" tvg-name="Cheddar News (L)(720)" group-title="ENG | News",Cheddar News (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162668
-#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="USA-CINEMAX (L)(720)" group-title="ENG | Movies",USA-CINEMAX East (L)(720)
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="CINEMAX (L)(720)" group-title="ENG | Movies",CINEMAX East (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162669
 #EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT (L)(720)" group-title="ENG | Entertainment",CMT (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162670
@@ -2897,39 +2897,39 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163684
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162537
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="FOOD NETWORK USA (L)(720)" group-title="ENG | Entertainment",FOOD NETWORK USA (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162678
-#EXTINF:-1 tvg-name="USA-FOX 11 | California Los Angeles (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="ENG | Local - FOX",USA-FOX 11 | California Los Angeles (L)(720)
+#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FOX 11 | California Los Angeles (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="ENG | Local - FOX",FOX 11 | California Los Angeles (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162679
-#EXTINF:-1 tvg-name="USA-FOX 25 | Boston | WFXT (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/2af90b9c0c1d3e6b147d6c03502a8d2f.png" group-title="ENG | Local - FOX",USA-FOX 25 | Boston | WFXT (L)(720)
+#EXTINF:-1 tvg-id="WFXT-DT.us_locals1" tvg-name="FOX 25 | Boston | WFXT (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/2af90b9c0c1d3e6b147d6c03502a8d2f.png" group-title="ENG | Local - FOX",FOX 25 | Boston | WFXT (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162680
-#EXTINF:-1 tvg-name="USA-Fox 26 Fresno (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LOGO_KMPH_FOX26_solid_calls_blu.png/1200px-LOGO_KMPH_FOX26_solid_calls_blu.png" group-title="ENG | Local - FOX",USA-Fox 26 Fresno (L)(720)
+#EXTINF:-1 tvg-id="KMPH-DT.us_locals1" tvg-name="Fox 26 Fresno (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LOGO_KMPH_FOX26_solid_calls_blu.png/1200px-LOGO_KMPH_FOX26_solid_calls_blu.png" group-title="ENG | Local - FOX",Fox 26 Fresno (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162768
-#EXTINF:-1 tvg-name="USA-FOX 26 KRIV Houston (L)(720)" tvg-logo="https://paul-daugherty.com/wp-content/uploads/2018/04/Fox-26-Houston.png" group-title="ENG | Local - FOX",USA-FOX 26 KRIV Houston (L)(720)
+#EXTINF:-1 tvg-id="KRIV-DT.us_locals1" tvg-name="FOX 26 KRIV Houston (L)(720)" tvg-logo="https://paul-daugherty.com/wp-content/uploads/2018/04/Fox-26-Houston.png" group-title="ENG | Local - FOX",FOX 26 KRIV Houston (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162540
-#EXTINF:-1 tvg-name="USA-FOX 28 Columbus (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/WTTE_logo_2021.png" group-title="ENG | Local - FOX",USA-FOX 28 Columbus (L)(720)
+#EXTINF:-1 tvg-id="WSYX-DT3.us_locals1" tvg-name="FOX 28 Columbus (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/WTTE_logo_2021.png" group-title="ENG | Local - FOX",FOX 28 Columbus (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162760
-#EXTINF:-1 tvg-name="USA-FOX 29 Philadelphia (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fts-philadelphia-a.svg/1200px-Fts-philadelphia-a.svg.png" group-title="ENG | Local - FOX",USA-FOX 29 Philadelphia (L)(720)
+#EXTINF:-1 tvg-id="WTXF-DT.us_locals1" tvg-name="FOX 29 Philadelphia (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fts-philadelphia-a.svg/1200px-Fts-philadelphia-a.svg.png" group-title="ENG | Local - FOX",FOX 29 Philadelphia (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162763
-#EXTINF:-1 tvg-name="USA-FOX 32 Chicago (L)(720)" tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="ENG | Local - FOX",USA-FOX 32 Chicago (L)(720)
+#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="FOX 32 Chicago (L)(720)" tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="ENG | Local - FOX",FOX 32 Chicago (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162681
-#EXTINF:-1 tvg-name="USA-FOX 35 WOFL Orlando (L)(720)" tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="ENG | Local - FOX",USA-FOX 35 WOFL Orlando (L)(720)
+#EXTINF:-1 tvg-id="WOFL-DT.us_locals1" tvg-name="FOX 35 WOFL Orlando (L)(720)" tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="ENG | Local - FOX",FOX 35 WOFL Orlando (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162682
-#EXTINF:-1 tvg-name="USA-FOX 40 KTXL Sacramento (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/UFN8OdgBERoxROOHbElajdfFtM64EBoNcGZdt_-0-MICyUf76kGMELwGQNsx3DXthi2vw1_Odx5dZiBoGfIU9-29Z1JCKY-lmJ-kRqZe0tqHuD6iaW0byUvFJMaDl3oDJzVXaenZr5mXm6VCbo4RZg.png" group-title="ENG | Local - FOX",USA-FOX 40 KTXL Sacramento (L)(720)
+#EXTINF:-1 tvg-id="KTXL-DT.us_locals1" tvg-name="FOX 40 KTXL Sacramento (L)" tvg-logo="http://live.detodotvplay.com:8080/images/UFN8OdgBERoxROOHbElajdfFtM64EBoNcGZdt_-0-MICyUf76kGMELwGQNsx3DXthi2vw1_Odx5dZiBoGfIU9-29Z1JCKY-lmJ-kRqZe0tqHuD6iaW0byUvFJMaDl3oDJzVXaenZr5mXm6VCbo4RZg.png" group-title="ENG | Local - FOX",FOX 40 KTXL Sacramento (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162683
-#EXTINF:-1 tvg-name="USA-FOX 46 WJZY Charlotte (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/rAdMbzWm_O6OTPW499AOBsgEupcFamgMAor-eBaldxHeUqV_P7DSaNWfW6xZ1c-Nj5VJ3N1kRb8g_tAdUqqvOISIjfgbla2pfs3m66uBVkjCTbPO150Fkl5PDZMUGYf9.png" group-title="ENG | Local - FOX",USA-FOX 46 WJZY Charlotte (L)(720)
+#EXTINF:-1 tvg-id="WJZY-DT.us_locals1" tvg-name="FOX 46 WJZY Charlotte (L)" tvg-logo="http://live.detodotvplay.com:8080/images/rAdMbzWm_O6OTPW499AOBsgEupcFamgMAor-eBaldxHeUqV_P7DSaNWfW6xZ1c-Nj5VJ3N1kRb8g_tAdUqqvOISIjfgbla2pfs3m66uBVkjCTbPO150Fkl5PDZMUGYf9.png" group-title="ENG | Local - FOX",FOX 46 WJZY Charlotte (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162684
-#EXTINF:-1 tvg-name="USA-FOX 5 Atlanta (L)(720)" tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="ENG | Local - FOX",USA-FOX 5 Atlanta (L)(720)
+#EXTINF:-1 tvg-id="WAGA-DT.us_locals1" tvg-name="FOX 5 Atlanta (L)(720)" tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="ENG | Local - FOX",FOX 5 Atlanta (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162685
-#EXTINF:-1 tvg-name="USA-FOX 5 KSWB San Diego (L)(720)" tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="ENG | Local - FOX",USA-FOX 5 KSWB San Diego (L)(720)
+#EXTINF:-1 tvg-id="KSWB-DT.us_locals1" tvg-name="FOX 5 KSWB San Diego (L)" tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="ENG | Local - FOX",FOX 5 KSWB San Diego (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162686
-#EXTINF:-1 tvg-name="USA-Fox 5 KVVU Las Vegas (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/KVVU-TV_Fox_5_Henderson_-_Las_Vegas.svg/2560px-KVVU-TV_Fox_5_Henderson_-_Las_Vegas.svg.png" group-title="ENG | Local - FOX",USA-Fox 5 KVVU Las Vegas (L)(720)
+#EXTINF:-1 tvg-id="KVVU-DT.us_locals1" tvg-name="Fox 5 KVVU Las Vegas (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/KVVU-TV_Fox_5_Henderson_-_Las_Vegas.svg/2560px-KVVU-TV_Fox_5_Henderson_-_Las_Vegas.svg.png" group-title="ENG | Local - FOX",Fox 5 KVVU Las Vegas (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162780
-#EXTINF:-1 tvg-name="USA-FOX 5 | New York (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/1200px-Fts-new-york-a.svg.png" group-title="ENG | Local - FOX",USA-FOX 5 | New York (L)(720)
+#EXTINF:-1 tvg-id="WNYW-DT.us_locals1" tvg-name="FOX 5 | New York (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/1200px-Fts-new-york-a.svg.png" group-title="ENG | Local - FOX",FOX 5 | New York (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162538
-#EXTINF:-1 tvg-name="USA-FOX 54 WFXG Augusta (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZOqpRNk9cK_UOwKT89FCqXWkLvRlCxkmJq1aG5tp0eBXsUTbsz2NBVZBBriTruOC30.png" group-title="ENG | Local - FOX",USA-FOX 54 WFXG Augusta (L)(720)
+#EXTINF:-1 tvg-id="WFXG-DT.us_locals1" tvg-name="FOX 54 WFXG Augusta (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZOqpRNk9cK_UOwKT89FCqXWkLvRlCxkmJq1aG5tp0eBXsUTbsz2NBVZBBriTruOC30.png" group-title="ENG | Local - FOX",FOX 54 WFXG Augusta (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162687
-#EXTINF:-1 tvg-name="USA-FOX 7 | AUSTIN (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/82904196258813e85a506f4956c17374.png" group-title="ENG | Local - FOX",USA-FOX 7 | AUSTIN (L)(720)
+#EXTINF:-1 tvg-id="KTBC-DT.us_locals1" tvg-name="FOX 7 | AUSTIN (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/82904196258813e85a506f4956c17374.png" group-title="ENG | Local - FOX",FOX 7 | AUSTIN (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162688
-#EXTINF:-1 tvg-name="USA-FOX 8 Cleveland (L)(720)" tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="ENG | Local - FOX",USA-FOX 8 Cleveland (L)(720)
+#EXTINF:-1 tvg-id="WJW-DT.us_locals1" tvg-name="FOX 8 Cleveland (L)(720)" tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="ENG | Local - FOX",FOX 8 Cleveland (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162689
 #EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="FOX BUSINESS NETWORK (L)(720)" group-title="ENG | News",FOX BUSINESS NETWORK (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162539
@@ -2937,33 +2937,33 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162539
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162691
 #EXTINF:-1 tvg-id="Fox.Deportes.HD.us2" tvg-name="FOX DEPORTES SD (L)(720)" group-title="ESP | Sports",FOX DEPORTES SD (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162756
-#EXTINF:-1 tvg-name="USA-FOX KECY | Yuma Az (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/52d779302503eb28ce0ae04594f070ea.jpg" group-title="ENG | Local - FOX",USA-FOX KECY | Yuma Az (L)(720)
+#EXTINF:-1 tvg-id="KECY-DT.us_locals1" tvg-name="FOX KECY | Yuma Az (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/52d779302503eb28ce0ae04594f070ea.jpg" group-title="ENG | Local - FOX",FOX KECY | Yuma Az (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162690
-#EXTINF:-1 tvg-name="USA-FOX KFXV-TV | McAllen (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/e673829c1339e86c27bfbd2ce208d6f4.png" group-title="ENG | Local - FOX",USA-FOX KFXV-TV | McAllen (L)(720)
+#EXTINF:-1 tvg-id="KFXV-DT.us_locals1" tvg-name="FOX KFXV-TV | McAllen (L)" tvg-logo="http://live.detodotvplay.com:8080/images/e673829c1339e86c27bfbd2ce208d6f4.png" group-title="ENG | Local - FOX",FOX KFXV-TV | McAllen (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162692
-#EXTINF:-1 tvg-name="USA-Fox KHON 2 Honolulu (L)(720)" tvg-logo="https://www.khon2.com/wp-content/uploads/sites/8/2021/09/cropped-cropped-cropped-cropped-KHON-SITE-LOGO-1500X150-1.png" group-title="ENG | Local - FOX",USA-Fox KHON 2 Honolulu (L)(720)
+#EXTINF:-1 tvg-id="KHON-DT.us_locals1" tvg-name="Fox KHON 2 Honolulu (L)(720)" tvg-logo="https://www.khon2.com/wp-content/uploads/sites/8/2021/09/cropped-cropped-cropped-cropped-KHON-SITE-LOGO-1500X150-1.png" group-title="ENG | Local - FOX",Fox KHON 2 Honolulu (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162783
-#EXTINF:-1 tvg-name="USA-Fox New York (TV)" group-title="ENG | Local - FOX",USA-Fox New York (TV)
+#EXTINF:-1 tvg-id="WNYW-DT.us_locals1" tvg-name="Fox New York (TV)" group-title="ENG | Local - FOX",Fox New York (TV)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164786
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News Channel (TV)" group-title="ENG | News",Fox News Channel (TV)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164784
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-name="FOX SOCCER PLUS (L)(720)" group-title="ENG | Sports",FOX SOCCER PLUS (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162542
-#EXTINF:-1 tvg-name="USA-FOX WDRB Louisville (L)(720)" tvg-logo="https://m.bbb.org/prod/ProfileImages/2023/9fdb925e-50b8-46a7-bfd0-4d8f9f9db451.png" group-title="ENG | Local - FOX",USA-FOX WDRB Louisville (L)(720)
+#EXTINF:-1 tvg-id="WDRB-DT.us_locals1" tvg-name="FOX WDRB Louisville (L)(720)" tvg-logo="https://m.bbb.org/prod/ProfileImages/2023/9fdb925e-50b8-46a7-bfd0-4d8f9f9db451.png" group-title="ENG | Local - FOX",FOX WDRB Louisville (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162787
-#EXTINF:-1 tvg-name="USA-FOX WSVN 7 Miami (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/uU7dC1RkMkAO4WvR6VxRhFT2lKEkLfuqzGO-IgasXsGnr0ePy79e3-tum7EU-Fkw1YKdNyp4Ign4VSz2fAmPRg.png" group-title="ENG | Local - FOX",USA-FOX WSVN 7 Miami (L)(720)
+#EXTINF:-1 tvg-id="WSVN-DT.us_locals1" tvg-name="FOX WSVN 7 Miami (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/uU7dC1RkMkAO4WvR6VxRhFT2lKEkLfuqzGO-IgasXsGnr0ePy79e3-tum7EU-Fkw1YKdNyp4Ign4VSz2fAmPRg.png" group-title="ENG | Local - FOX",FOX WSVN 7 Miami (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162541
 #EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-name="FREEFORM (L)(720)" group-title="ENG | Entertainment",FREEFORM (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162693
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1 (L)(720)" group-title="ENG | Sports",FS1 (L)(720)
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1 (L)(720)" group-title="ENG | Sports",Fox Sports 1 (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162694
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FS2 (L)(720)" group-title="ENG | Sports",FS2 (L)(720)
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="Fox Sports 2 (L)(720)" group-title="ENG | Sports",Fox Sports 2 (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162695
 #EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse (L)(720)" group-title="ENG | Entertainment",Fuse (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162696
 #EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (L)(720)" group-title="ENG | Entertainment",FX (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162543
-#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movies (L)(720)" group-title="ENG | Movies",USA-FXM (L)(720)
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie (L)(720)" group-title="ENG | Movies",FX Movie (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162697
 #EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX (L)(720)" group-title="ENG | Entertainment",FXX (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162698
@@ -2977,13 +2977,13 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162700
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162701
 #EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Family (L)(720)" group-title="ENG | Entertainment",Hallmark Family (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162546
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO COMEDY West (L)(720)" group-title="ENG | Movies",USA-HBO COMEDY West (L)(720)
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy West (L)(720)" group-title="ENG | Movies",HBO Comedy West (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162703
-#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="USA-HBO (L)(720)" group-title="ENG | Movies",USA-HBO EAST (L)(720)
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO (East) (L)(720)" group-title="ENG | Movies",HBO (East) (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162704
-#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-name="USA-HBO Drama West (L)(720)" group-title="ENG | Movies",USA-HBO SIGNATURE West (L)(720)
+#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-name="HBO Drama West (L)(720)" group-title="ENG | Movies",HBO Drama West (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162705
-#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="USA-HBO Movies West (L)(720)" group-title="ENG | Movies",USA-HBO ZONE West (L)(720)
+#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="HBO Movies (West) (L)(720)" group-title="ENG | Movies",HBO Movies (West) (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162706
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV (L)(720)" group-title="ENG | Entertainment",HGTV (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162547
@@ -3001,7 +3001,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162550
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162552
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-name="LIFETIME (L)(720)" group-title="ENG | Entertainment",LIFETIME (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162553
-#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-name="Lifetime Movies (L)(720)" group-title="ENG | Movies",USA-LIFETIME MOVIES NETWORK (L)(720)
+#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-name="LMN (L)(720)" group-title="ENG | Movies",LMN (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162554
 #EXTINF:-1 tvg-id="Logo.us2" tvg-name="Logo TV (L)(720)" group-title="ENG | Entertainment",Logo TV (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162709
@@ -3017,7 +3017,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162556
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162557
 #EXTINF:-1 tvg-id="Mega.TV.HD.us2" tvg-name="MEGA TV USA (L)(720)" group-title="Spanish",USA-MEGA TV USA (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162558
-#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="MoreMax (L)(720)" group-title="ENG | Movies",USA-MoreMax (L)(720)
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="Cinemax MoreMax (L)(720)" group-title="ENG | Movies",Cinemax MoreMax (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162710
 #EXTINF:-1 tvg-id="MOTORTREND.HD.us2" tvg-name="MOTORTREND (L)(720)" group-title="ENG | Sports",MOTORTREND (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162559
@@ -3047,39 +3047,39 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162796
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162711
 #EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV (L)(720)" group-title="ENG | Sports",NBA TV (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162563
-#EXTINF:-1 tvg-name="USA-NBC 10 Philadelphia (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c3c95cf21f4bb1fc7394586f36fa0cf8.png" group-title="ENG | Local - NBC",USA-NBC 10 Philadelphia (L)(720)
+#EXTINF:-1 tvg-id="WCAU-DT.us_locals1" tvg-name="NBC 10 Philadelphia (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c3c95cf21f4bb1fc7394586f36fa0cf8.png" group-title="ENG | Local - NBC",NBC 10 Philadelphia (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162764
-#EXTINF:-1 tvg-name="USA-NBC 11 Alive Atlanta WXIA (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="ENG | Local - NBC",USA-NBC 11 Alive Atlanta WXIA (L)(720)
+#EXTINF:-1 tvg-id="WXIA-DT.us_locals1" tvg-name="NBC 11 Alive Atlanta WXIA (L)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="ENG | Local - NBC",NBC 11 Alive Atlanta WXIA (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162713
-#EXTINF:-1 tvg-name="USA-NBC 12 KPNX | Phoenix (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="ENG | Local - NBC",USA-NBC 12 KPNX | Phoenix (L)(720)
+#EXTINF:-1 tvg-id="KPNX-DT.us_locals1" tvg-name="NBC 12 KPNX | Phoenix (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="ENG | Local - NBC",NBC 12 KPNX | Phoenix (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162714
-#EXTINF:-1 tvg-name="USA-NBC 23 | McAllen (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="ENG | Local - NBC",USA-NBC 23 | McAllen (L)(720)
+#EXTINF:-1 tvg-id="KVEO-DT.us_locals1" tvg-name="NBC 23 | McAllen (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="ENG | Local - NBC",NBC 23 | McAllen (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162721
-#EXTINF:-1 tvg-name="USA-NBC 4 Columbus (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/WCMH-TV_logo.png" group-title="ENG | Local - NBC",USA-NBC 4 Columbus (L)(720)
+#EXTINF:-1 tvg-id="WCMH-DT.us_locals1" tvg-name="NBC 4 Columbus (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/WCMH-TV_logo.png" group-title="ENG | Local - NBC",NBC 4 Columbus (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162761
-#EXTINF:-1 tvg-name="USA-NBC 4 WSMV | Tennessee (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/WSMV-TV_4_logo.png" group-title="ENG | Local - NBC",USA-NBC 4 WSMV | Tennessee (L)(720)
+#EXTINF:-1 tvg-id="WSMV-DT.us_locals1" tvg-name="NBC 4 WSMV | Tennessee (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/WSMV-TV_4_logo.png" group-title="ENG | Local - NBC",NBC 4 WSMV | Tennessee (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162715
-#EXTINF:-1 tvg-name="USA-NBC 5 Chicago WMAQ (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="ENG | Local - NBC",USA-NBC 5 Chicago WMAQ (L)(720)
+#EXTINF:-1 tvg-id="WMAQ-DT.us_locals1" tvg-name="NBC 5 Chicago WMAQ (L)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="ENG | Local - NBC",NBC 5 Chicago WMAQ (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162716
-#EXTINF:-1 tvg-name="USA-NBC 7 KNSD | San Diego (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="ENG | Local - NBC",USA-NBC 7 KNSD | San Diego (L)(720)
+#EXTINF:-1 tvg-id="KNSD-DT.us_locals1" tvg-name="NBC 7 KNSD | San Diego (L)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="ENG | Local - NBC",NBC 7 KNSD | San Diego (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162717
-#EXTINF:-1 tvg-name="USA-NBC California Los Angeles 4 (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/NBC.png" group-title="ENG | Local - NBC",USA-NBC California Los Angeles 4 (L)(720)
+#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-name="NBC California Los Angeles 4 (L)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/NBC.png" group-title="ENG | Local - NBC",NBC California Los Angeles 4 (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162718
-#EXTINF:-1 tvg-name="USA-NBC KCRA 3  Sacramento (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMRys626MeaCQXSqM2aA8jh65i11Xl4Sf540GaT49F-HNJ5d3Q2wlPhtzjfQmuP4TMg.png" group-title="ENG | Local - NBC",USA-NBC KCRA 3  Sacramento (L)(720)
+#EXTINF:-1 tvg-id="KCRA-DT.us_locals1" tvg-name="NBC KCRA 3 Sacramento (L)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMRys626MeaCQXSqM2aA8jh65i11Xl4Sf540GaT49F-HNJ5d3Q2wlPhtzjfQmuP4TMg.png" group-title="ENG | Local - NBC",NBC KCRA 3 Sacramento (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162720
-#EXTINF:-1 tvg-name="USA-NBC KHNL Honolulu (L)(720)" tvg-logo="https://static.wikia.nocookie.net/the-alternate-tv/images/c/c3/KHNL-TV_13.png/revision/latest?cb=20171221005624" group-title="ENG | Local - NBC",USA-NBC KHNL Honolulu (L)(720)
+#EXTINF:-1 tvg-id="KHNL-DT.us_locals1" tvg-name="NBC KHNL Honolulu (L)(720)" tvg-logo="https://static.wikia.nocookie.net/the-alternate-tv/images/c/c3/KHNL-TV_13.png/revision/latest?cb=20171221005624" group-title="ENG | Local - NBC",NBC KHNL Honolulu (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162782
-#EXTINF:-1 tvg-name="USA-NBC KJRH 2 Tulsa (L)(720)" tvg-logo="https://static-newson.akamaized.net/icons/v3/scripps/KJRH.png" group-title="ENG | Local - NBC",USA-NBC KJRH 2 Tulsa (L)(720)
+#EXTINF:-1 tvg-id="KJRH-DT.us_locals1" tvg-name="NBC KJRH 2 Tulsa (L)(720)" tvg-logo="https://static-newson.akamaized.net/icons/v3/scripps/KJRH.png" group-title="ENG | Local - NBC",NBC KJRH 2 Tulsa (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162779
-#EXTINF:-1 tvg-name="USA-NBC KSEE 24 | Fresno (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="ENG | Local - NBC",USA-NBC KSEE 24 | Fresno (L)(720)
+#EXTINF:-1 tvg-id="KSEE-DT.us_locals1" tvg-name="NBC KSEE 24 | Fresno (L)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="ENG | Local - NBC",NBC KSEE 24 | Fresno (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162793
-#EXTINF:-1 tvg-name="USA-NBC KSNV Las Vegas (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMRerjm2ovRHA9NLkSxmgZjiApcOabk-rHo-X2UBgF2uMNQxoUuPnuVt6Hq1XCNo8zO.png" group-title="ENG | Local - NBC",USA-NBC KSNV Las Vegas (L)(720)
+#EXTINF:-1 tvg-id="KSNV-DT.us_locals1" tvg-name="NBC KSNV Las Vegas (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMRerjm2ovRHA9NLkSxmgZjiApcOabk-rHo-X2UBgF2uMNQxoUuPnuVt6Hq1XCNo8zO.png" group-title="ENG | Local - NBC",NBC KSNV Las Vegas (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162564
-#EXTINF:-1 tvg-name="USA-NBC KXAN | AUSTIN (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZN2dgwdLQBWo5gaCxpeiamAXXZgkjOHAuq6w52fseivJ5QOpkOqrB2vQI6_Lx_KArU.png" group-title="ENG | Local - NBC",USA-NBC KXAN | AUSTIN (L)(720)
+#EXTINF:-1 tvg-id="KXAN-DT.us_locals1" tvg-name="NBC KXAN | AUSTIN (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZN2dgwdLQBWo5gaCxpeiamAXXZgkjOHAuq6w52fseivJ5QOpkOqrB2vQI6_Lx_KArU.png" group-title="ENG | Local - NBC",NBC KXAN | AUSTIN (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162722
-#EXTINF:-1 tvg-name="USA-NBC KYMA-DT | Yuma (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/KYMA11.png" group-title="ENG | Local - NBC",USA-NBC KYMA-DT | Yuma (L)(720)
+#EXTINF:-1 tvg-id="KYMA-DT.us_locals1" tvg-name="NBC KYMA-DT | Yuma (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/KYMA11.png" group-title="ENG | Local - NBC",NBC KYMA-DT | Yuma (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162712
-#EXTINF:-1 tvg-name="USA-NBC New YORK WNBC (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" group-title="ENG | Local - NBC",USA-NBC New YORK WNBC (L)(720)
+#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-name="NBC New YORK WNBC (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" group-title="ENG | Local - NBC",NBC New YORK WNBC (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162565
 #EXTINF:-1 tvg-id="NBC.Sports.Boston.HD.us2" tvg-name="NBC SPORTS BOSTON (L)(720)" group-title="ENG | Sports",NBC SPORTS BOSTON (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162566
@@ -3089,17 +3089,17 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162769
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162770
 #EXTINF:-1 tvg-id="CHSN.Plus.us2" tvg-name="Chicago Sports Network+ (L)(720)" group-title="ENG | Sports",Chicago Sports Network+ (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162603
-#EXTINF:-1 tvg-name="USA-NBC WAVE Louisville (L)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4BmPd6ak9rIYVeqsMIdONQHo_RkrUrXyZlUk1uN8fw&s" group-title="ENG | Local - NBC",USA-NBC WAVE Louisville (L)(720)
+#EXTINF:-1 tvg-id="WAVE-DT.us_locals1" tvg-name="NBC WAVE Louisville (L)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4BmPd6ak9rIYVeqsMIdONQHo_RkrUrXyZlUk1uN8fw&s" group-title="ENG | Local - NBC",NBC WAVE Louisville (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162786
-#EXTINF:-1 tvg-name="USA-NBC WBTS 5 | Boston (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/5112554dfef7b72bd18e177f85f9f838.png" group-title="ENG | Local - NBC",USA-NBC WBTS 5 | Boston (L)(720)
+#EXTINF:-1 tvg-id="WBTS-DT.us_locals1" tvg-name="NBC WBTS 5 | Boston (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/5112554dfef7b72bd18e177f85f9f838.png" group-title="ENG | Local - NBC",NBC WBTS 5 | Boston (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162723
-#EXTINF:-1 tvg-name="USA-NBC WESH 2 Orlando (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="ENG | Local - NBC",USA-NBC WESH 2 Orlando (L)(720)
+#EXTINF:-1 tvg-id="WESH-DT.us_locals1" tvg-name="NBC WESH 2 Orlando (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="ENG | Local - NBC",NBC WESH 2 Orlando (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162724
-#EXTINF:-1 tvg-name="USA-NBC WKYC 3 Cleveland (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="ENG | Local - NBC",USA-NBC WKYC 3 Cleveland (L)(720)
+#EXTINF:-1 tvg-id="WKYC-DT.us_locals1" tvg-name="NBC WKYC 3 Cleveland (L)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="ENG | Local - NBC",NBC WKYC 3 Cleveland (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162725
-#EXTINF:-1 tvg-name="USA-NBC WTVJD Miami 6 (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/NBC.png" group-title="ENG | Local - NBC",USA-NBC WTVJD Miami 6 (L)(720)
+#EXTINF:-1 tvg-id="WTVJ-DT.us_locals1" tvg-name="NBC WTVJ Miami 6 (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/NBC.png" group-title="ENG | Local - NBC",NBC WTVJ Miami 6 (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162719
-#EXTINF:-1 tvg-name="USA-NBC | WAGT Augusta GA (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/dCOj9pGxTrHydGW3ZlM8eYFbBMqZifffLhgrRHMW5l-B1bWOcvkTUmY-gjSGyC1fWCSiPFYakpC7m4XmV9hhmzTLZSTi_FeuKfENVQxsq0Q.png" group-title="ENG | Local - NBC",USA-NBC | WAGT Augusta GA (L)(720)
+#EXTINF:-1 tvg-id="WAGT-DT.us_locals1" tvg-name="NBC | WAGT Augusta GA (L)" tvg-logo="http://live.detodotvplay.com:8080/images/dCOj9pGxTrHydGW3ZlM8eYFbBMqZifffLhgrRHMW5l-B1bWOcvkTUmY-gjSGyC1fWCSiPFYakpC7m4XmV9hhmzTLZSTi_FeuKfENVQxsq0Q.png" group-title="ENG | Local - NBC",NBC | WAGT Augusta GA (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162726
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-name="NESN (L)(720)" group-title="ENG | Sports",NESN (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162569
@@ -3135,27 +3135,27 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162578
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162730
 #EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC NETWORK (L)(720)" group-title="ENG | Sports",SEC NETWORK (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162732
-#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="USA-SHOWTIME 2 (L)(720)" group-title="ENG | Movies",USA-SHOWTIME 2 (L)(720)
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2 (L)(720)" group-title="ENG | Movies",Showtime 2 (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162733
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="SHOWTIME (L)(720)" group-title="ENG | Movies",USA-SHOWTIME EAST (L)(720)
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime (East) (L)(720)" group-title="ENG | Movies",Showtime (East) (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162579
-#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="SHOWTIME EXTREME (L)(720)" group-title="ENG | Movies",USA-SHOWTIME EXTREME (L)(720)
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme (L)(720)" group-title="ENG | Movies",Showtime Extreme (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162734
-#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-name="SHOWTIME FAMILY ZONE (L)(720)" group-title="ENG | Movies",USA-SHOWTIME FAMILY ZONE (L)(720)
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-name="Showtime Family Zone (L)(720)" group-title="ENG | Movies",Showtime Family Zone (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162580
-#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="SHOWTIME NEXT (L)(720)" group-title="ENG | Movies",USA-SHOWTIME NEXT (L)(720)
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="Showtime Next (L)(720)" group-title="ENG | Movies",Showtime Next (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162735
-#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="SHOWTIME SHOWCASE (L)(720)" group-title="ENG | Movies",USA-SHOWTIME SHOWCASE (L)(720)
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="Showtime Showcase (L)(720)" group-title="ENG | Movies",Showtime Showcase (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162581
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-name="Showtime West (L)(720)" group-title="ENG | Movies",USA-Showtime West (L)(720)
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-name="Showtime (West) (L)(720)" group-title="ENG | Movies",Showtime (West) (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162736
-#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="SHOWTIME WOMEN (L)(720)" group-title="ENG | Movies",USA-SHOWTIME WOMEN (L)(720)
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="Showtime Women (L)(720)" group-title="ENG | Movies",Showtime Women (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162582
-#EXTINF:-1 tvg-id="SHO.x.BET.HD.us2" tvg-name="SHOxBET (L)(720)" group-title="ENG | Movies",USA-SHOxBET (L)(720)
+#EXTINF:-1 tvg-id="SHO.x.BET.HD.us2" tvg-name="SHO x BET (L)(720)" group-title="ENG | Movies",SHO x BET (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162737
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie HD (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNK-6-O0fFF_FRCBV3-qWPpxDES7-sweaP6eF8EQQBnGe.png" group-title="ENG | Movies",Sony Movie HD (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162738
-#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movies (L)(720)" group-title="ENG | Movies",USA-Sony Movies (L)(720)
+#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movies (L)(720)" group-title="ENG | Movies",Sony Movies (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162583
 #EXTINF:-1 tvg-id="Spectrum.News+.us2" tvg-name="Spectrum News 1 (L)(720)" group-title="ENG | News",Spectrum News 1 (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162584
@@ -3165,25 +3165,25 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162585
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162739
 #EXTINF:-1 tvg-id="Sportsman.Channel.us2" tvg-name="SPORTSMAN CHANNEL (L)(720)" group-title="ENG | Sports",SPORTSMAN CHANNEL (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162586
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="Starz Cinema (L)(720)" group-title="ENG | Movies",USA-Starz Cinema (L)(720)
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="Starz Cinema (L)(720)" group-title="ENG | Movies",Starz Cinema (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162740
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-name="STARZ COMEDY (L)(720)" group-title="ENG | Movies",USA-STARZ COMEDY (L)(720)
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-name="STARZ COMEDY (L)(720)" group-title="ENG | Movies",STARZ COMEDY (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162741
-#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="STARZ EDGE WEST (L)(720)" group-title="ENG | Movies",USA-STARZ EDGE WEST (L)(720)
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="STARZ EDGE (West) (L)(720)" group-title="ENG | Movies",STARZ EDGE (West) (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162742
-#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Encore Action (L)(720)" group-title="ENG | Movies",USA-Starz Encore Action (L)(720)
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Encore Action (L)(720)" group-title="ENG | Movies",Starz Encore Action (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162743
-#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-name="Starz Encore (L)(720)" group-title="ENG | Movies",USA-Starz Encore EAST (L)(720)
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-name="Starz Encore (East) (L)(720)" group-title="ENG | Movies",Starz Encore (East) (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162587
-#EXTINF:-1 tvg-id="Starz.Encore.Español.SD.us2" tvg-name="Starz Encore Español (L)(720)" group-title="ENG | Movies",USA-Starz Encore Español (L)(720)
+#EXTINF:-1 tvg-id="Starz.Encore.Español.SD.us2" tvg-name="Starz Encore Español (L)(720)" group-title="ESP | Movies",Starz Encore Español (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162744
-#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="STARZ ENCORE SUSPENSE (L)(720)" group-title="ENG | Movies",USA-STARZ ENCORE SUSPENSE (L)(720)
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="Starz Encore Suspense (L)" group-title="ENG | Movies",Starz Encore Suspense (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162745
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz InBlack (L)(720)" group-title="ENG | Movies",USA-Starz InBlack (L)(720)
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz In Black (L)(720)" group-title="ENG | Movies",Starz In Black (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162747
 #EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-name="Starz Kids & Family West (L)(720)" tvg-logo="https://logos.xbots.com.mx/starz_family.png" group-title="ENG | Kids & Family",Starz Kids & Family West (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162748
-#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="STARZENCORE WESTERNS (L)(720)" group-title="ENG | Movies",USA-STARZENCORE WESTERNS (L)(720)
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="Starz Encore Westerns (L)" group-title="ENG | Movies",Starz Encore Westerns (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162746
 #EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="SundanceTV (L)(720)" group-title="ENG | Entertainment",SundanceTV (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162588
@@ -3193,7 +3193,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/169305
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162589
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS (L)(720)" group-title="ENG | Entertainment",TBS (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162749
-#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="TCM (L)(720)" group-title="ENG | Movies",USA-TCM (L)(720)
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="TCM (L)(720)" group-title="ENG | Movies",TCM (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162750
 #EXTINF:-1 tvg-id="Fight.Network.us2" tvg-name="THE FIGHT NETWORK (L)(720)" group-title="ENG | Sports",THE FIGHT NETWORK (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162590
@@ -3233,7 +3233,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162604
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162597
 #EXTINF:-1 tvg-id="Vice.us2" tvg-name="VICE (L)(720)" group-title="ENG | Entertainment",VICE (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162598
-#EXTINF:-1 tvg-name="USA-WCNC NBC Charlotte (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/lzTpWXIfhUczp5vjDz6dbUMsAhaAZ7nPdfPRRTwTPY8Y67_Bzs9aRorBmECmrNjng480lPTQ2Kd1eDpj-CPveGJfX4dR7SC8gF8A258dt2g.png" group-title="ENG | Local - NBC",USA-WCNC NBC Charlotte (L)(720)
+#EXTINF:-1 tvg-id="WCNC-DT.us_locals1" tvg-name="WCNC NBC Charlotte (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/lzTpWXIfhUczp5vjDz6dbUMsAhaAZ7nPdfPRRTwTPY8Y67_Bzs9aRorBmECmrNjng480lPTQ2Kd1eDpj-CPveGJfX4dR7SC8gF8A258dt2g.png" group-title="ENG | Local - NBC",WCNC NBC Charlotte (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162752
 #EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="WE TV (L)(720)" group-title="ENG | Entertainment",WE TV (L)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162599
