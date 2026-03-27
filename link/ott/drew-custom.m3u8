@@ -7,13 +7,13 @@ https://restream-live.realiptv.to/live/52748969/72335180/694516.m3u8
 http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162605.m3u8
 #EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-name="ABC News Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/abc-news-live.png?raw=true" group-title="ENG | News",ABC News Live
 http://41.205.93.154/ABC/index.m3u8
-#EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="NY | New York | ABC WABC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-7-wabc-us.png?raw=true" group-title="ENG | Local ABC",NY | New York | ABC WABC
+#EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="NY | New York | ABC WABC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-7-wabc-us.png?raw=true" group-title="ENG | Local - ABC",NY | New York | ABC WABC
 http://89.105.221.127/ABC/mpegts?token=test
-#EXTINF:-1 tvg-id="WFTS-DT.us_locals1" tvg-name="FL | Tampa | ABC WFTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2008-us.png?raw=true" group-title="ENG | Local ABC",FL | Tampa | ABC WFTS
+#EXTINF:-1 tvg-id="WFTS-DT.us_locals1" tvg-name="FL | Tampa | ABC WFTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2008-us.png?raw=true" group-title="ENG | Local - ABC",FL | Tampa | ABC WFTS
 https://restream-live.realiptv.to/live/52748969/72335180/2666.m3u8
-#EXTINF:-1 tvg-id="WSOC-DT.us_locals1" tvg-name="NC | Charlotte | ABC WSOC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-9-wsoc-us.png?raw=true" group-title="ENG | Local ABC",NC | Charlotte | ABC WSOC
+#EXTINF:-1 tvg-id="WSOC-DT.us_locals1" tvg-name="NC | Charlotte | ABC WSOC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-9-wsoc-us.png?raw=true" group-title="ENG | Local - ABC",NC | Charlotte | ABC WSOC
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WSOC-DT.us_locals1" tvg-name="NC | Charlotte | ABC WSOC (Alt)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-9-wsoc-us.png?raw=true" group-title="ENG | Local ABC",NC | Charlotte | ABC WSOC (Alt)
+#EXTINF:-1 tvg-id="WSOC-DT.us_locals1" tvg-name="NC | Charlotte | ABC WSOC (Alt)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-9-wsoc-us.png?raw=true" group-title="ENG | Local - ABC",NC | Charlotte | ABC WSOC (Alt)
 https://restream-live.realiptv.to/live/52748969/72335180/2696.m3u8
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="ENG | Sports",ACC Network
 http://23.239.31.26:8989/accnetwork/index.m3u8
@@ -153,13 +153,13 @@ https://restream-live.realiptv.to/live/52748969/72335180/2653.m3u8
 http://193.46.58.239:8080/CBBCHD/index.m3u8
 #EXTINF:-1 tvg-id="CBeebies.HD.uk" tvg-name="CbeebiesHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-cbeebies-uk.png?raw=true" group-title="ENG | Kids & Family",CbeebiesHD
 http://193.46.58.239:8080/CbeebiesHD/index.m3u8
-#EXTINF:-1 tvg-id="KKTV-DT.us_locals1" tvg-name="CO | Colorado Springs | CBS" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/CBS2.png" group-title="ENG | Local CBS",CO | Colorado Springs | CBS
+#EXTINF:-1 tvg-id="KKTV-DT.us_locals1" tvg-name="CO | Colorado Springs | CBS" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/CBS2.png" group-title="ENG | Local - CBS",CO | Colorado Springs | CBS
 http://89.105.221.127/CBS/index.m3u8?token=test
-#EXTINF:-1 tvg-id="KKTV-DT.us_locals1" tvg-name="CO | Colorado Springs | CBS (Alt)" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/CBS2.png" group-title="ENG | Local CBS",CO | Colorado Springs | CBS (Alt)
+#EXTINF:-1 tvg-id="KKTV-DT.us_locals1" tvg-name="CO | Colorado Springs | CBS (Alt)" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/CBS2.png" group-title="ENG | Local - CBS",CO | Colorado Springs | CBS (Alt)
 https://tinyurl.com/cbskktv2423
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS SPORTS NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="ENG | Sports",CBS SPORTS NETWORK
 http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162524.m3u8
-#EXTINF:-1 tvg-id="WHIO-DT.us_locals1" tvg-name="OH | Dayton | CBS WHIO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/cbs-7-whio-us.png?raw=true" group-title="ENG | Local CBS",OH | Dayton | CBS WHIO
+#EXTINF:-1 tvg-id="WHIO-DT.us_locals1" tvg-name="OH | Dayton | CBS WHIO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/cbs-7-whio-us.png?raw=true" group-title="ENG | Local - CBS",OH | Dayton | CBS WHIO
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge!" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/charge-us.png?raw=true" group-title="ENG | Entertainment",Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
@@ -195,7 +195,7 @@ http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
 http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/31396.m3u8
 #EXTINF:-1 tvg-id="CSPAN2.us2" tvg-name="C-SPAN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="ENG | News",C-SPAN 2
 http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/31395.m3u8
-#EXTINF:-1 tvg-id="KTLA-DT.us_locals1" tvg-name="CA | Los Angeles | CW KTLA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="ENG | Local CW/IND/MY",CA | Los Angeles | CW KTLA
+#EXTINF:-1 tvg-id="KTLA-DT.us_locals1" tvg-name="CA | Los Angeles | CW KTLA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="ENG | Local - CW/IND/MY",CA | Los Angeles | CW KTLA
 https://dvrfl04.tulix.tv/teleup-ktla/mpegts
 #EXTINF:-1 tvg-id="DAZN.1.de" tvg-name="DAZN1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png?raw=true" group-title="ENG | Sports",DAZN1
 http://148.113.160.49:14477
@@ -239,9 +239,9 @@ http://104.255.88.155/foxnews/index.m3u8
 https://jmp2.uk/rok-bdf6b34e48585f588789f7e7857a84a6.m3u8
 #EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="ENG | Sports",Fox Sports 2
 http://79.127.138.221:443/3367/video.m3u8?token=5ad742b0838080b87b1ea87c1394c5f4
-#EXTINF:-1 tvg-id="WHBQ-DT.us_locals1" tvg-name="TN | Memphis | FOX WHBQ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/fox-13-whbq-us.png?raw=true" group-title="ENG | Local FOX",TN | Memphis | FOX WHBQ
+#EXTINF:-1 tvg-id="WHBQ-DT.us_locals1" tvg-name="TN | Memphis | FOX WHBQ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/fox-13-whbq-us.png?raw=true" group-title="ENG | Local - FOX",TN | Memphis | FOX WHBQ
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WJAX-DT.us_locals1" tvg-name="FL | Jacksonsville | FOX WJAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="ENG | Local FOX",FL | Jacksonsville | FOX WJAX
+#EXTINF:-1 tvg-id="WJAX-DT.us_locals1" tvg-name="FL | Jacksonsville | FOX WJAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="ENG | Local - FOX",FL | Jacksonsville | FOX WJAX
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="ENG | Entertainment",Fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
@@ -329,7 +329,7 @@ http://89.105.221.127/Nickelodeon/index.m3u8?token=test
 http://212.102.60.231/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ca2" tvg-name="NTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ntv-cjon-dt-ca.png?raw=true" group-title="ENG | Entertainment",NTV
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
-#EXTINF:-1 tvg-id="WRNN-DT.us_locals1" tvg-name="NY 48 (WWON)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvHgDXpEnHZX5EJT0LDIU6hiUM20Pp5QrSIg&s" group-title="ENG | Local CW/IND/MY",NY 48 (WWON)
+#EXTINF:-1 tvg-id="WWON-DT.us_locals1" tvg-name="NY 48 (WWON)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvHgDXpEnHZX5EJT0LDIU6hiUM20Pp5QrSIg&s" group-title="ENG | Local - CW/IND/MY",NY 48 (WWON)
 https://tv2.fastcast4u.com:3943/stream/play.m3u8
 #EXTINF:-1 tvg-id="OAN.Plus.distro" tvg-name="OAN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/one-america-news-network-us.png?raw=true" group-title="ENG | News",OAN
 http://23.237.104.106:8080/USA_OAN/mpegts
@@ -357,7 +357,7 @@ https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="WKMJ-DT.us_locals1" tvg-name="PBS (WKMJ-TV)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" group-title="ENG | Kids & Family",PBS (WKMJ-TV)
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 tvg-id="WPIX-DT.us_locals1" tvg-name="NY | New York | CW WPIX" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/9/9a/PIX_11_2017.png/revision/latest?cb=20200612032223" group-title="ENG | Local CW/IND/MY",NY | New York | CW WPIX
+#EXTINF:-1 tvg-id="WPIX-DT.us_locals1" tvg-name="NY | New York | CW WPIX" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/9/9a/PIX_11_2017.png/revision/latest?cb=20200612032223" group-title="ENG | Local - CW/IND/MY",NY | New York | CW WPIX
 https://amg00327-coxmediagroup-wpxibreaking-ono-1z51x.amagi.tv/playlist/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="ReelzChannel.HD.us2" tvg-name="ReelzChannel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="ENG | Entertainment",ReelzChannel
 http://212.102.60.231/REELZ/index.m3u8
@@ -441,7 +441,7 @@ http://23.237.104.106:8080/USA_VH1/mpegts
 http://23.237.104.106:8080/USA_VICETV/mpegts
 #EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="WeTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="ENG | Entertainment",WeTV
 http://23.237.104.106:8080/USA_WE_TV/mpegts
-#EXTINF:-1 tvg-id="WGN-DT.us_locals1" tvg-name="IL | Chicago | CW WGN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wgn-america-us.png" group-title="ENG | Local CW/IND/MY",IL | Chicago | CW WGN
+#EXTINF:-1 tvg-id="WGN-DT.us_locals1" tvg-name="IL | Chicago | CW WGN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wgn-america-us.png" group-title="ENG | Local - CW/IND/MY",IL | Chicago | CW WGN
 http://23.237.104.106:8080/USA_WGN/mpegts
 #EXTINF:-1 tvg-id="WORLD.Channel.us2" tvg-name="World Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-pbs-us.png?raw=true" group-title="ENG | Entertainment",World Channel
 https://world.lls.pbs.org/index.m3u8
