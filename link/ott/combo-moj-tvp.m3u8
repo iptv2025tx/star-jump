@@ -253,7 +253,7 @@ http://origin.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8
 http://origin.thetvapp.to/hls/fanduel-sports-indiana/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.Detroit.24/7.HDTV.us" tvg-name="FanDuel Sports Detroit [Not 24/7] (TVP)" group-title="ENG | Sports",FanDuel Sports Detroit [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/fanduel-sports-network-detroit-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Florida.24/7.(Rays,.Marlins,.Panthers).us" tvg-name="FanDuel Sports Florida [Not 24/7] (TVP)" group-title="ENG | Sports",.Marlins,.Panthers).us" tvg-name="FanDuel Sports Florida [Not 24/7] (TVP)" group-title="Sports",.Marlins,.Panthers).us" tvg-name="FanDuel Sports Florida [Not 24/7] (TVP)" group-title="Sports",.Marlins,.Panthers).us" tvg-name="FanDuel Sports Florida [Not 24/7] (TVP)" group-title="Sports",FanDuel Sports Florida [Not 24/7] (TVP)
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Florida.24/7.(Rays,.Marlins,.Panthers).us" tvg-name="FanDuel Sports Florida [Not 24/7] (TVP)" group-title="ENG | Sports",FanDuel Sports Florida [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/fanduel-sports-network-florida/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="FanDuel Sports Great Lakes [Not 24/7] (TVP)" group-title="ENG | Sports",FanDuel Sports Great Lakes [Not 24/7] (TVP)
 http://origin.thetvapp.to/hls/fanduel-sports-network-great-lakes/tracks-v1a1/mono.m3u8
