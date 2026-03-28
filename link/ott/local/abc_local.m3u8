@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTINF:-1 tvg-id="KYUR-DT.us_locals1" tvg-name="AK | Anchorage | ABC KYUR" group-title="ENG | Local - ABC",AK | Anchorage | ABC KYUR
 http://example.com/stream
 #EXTINF:-1 tvg-id="KYUR-DT.us_locals1" tvg-name="AK | Anchorage | ABC KYUR (Alt)" group-title="ENG | Local - ABC",AK | Anchorage | ABC KYUR (Alt)
