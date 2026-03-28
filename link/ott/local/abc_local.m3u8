@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
+#EXTM3U
 #EXTINF:-1 tvg-id="KYUR-DT.us_locals1" tvg-name="AK | Anchorage | ABC KYUR" group-title="ENG | Local - ABC",AK | Anchorage | ABC KYUR
 http://example.com/stream
 #EXTINF:-1 tvg-id="KYUR-DT.us_locals1" tvg-name="AK | Anchorage | ABC KYUR (Alt)" group-title="ENG | Local - ABC",AK | Anchorage | ABC KYUR (Alt)
@@ -378,4 +378,188 @@ http://example.com/stream
 #EXTINF:-1 tvg-id="WMTW-DT.us_locals1" tvg-name="ME | Portland | ABC WMTW" group-title="ENG | Local - ABC",ME | Portland | ABC WMTW
 http://example.com/stream
 #EXTINF:-1 tvg-id="WMTW-DT.us_locals1" tvg-name="ME | Portland | ABC WMTW (Alt)" group-title="ENG | Local - ABC",ME | Portland | ABC WMTW (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WBKB-DT3.us_locals1" tvg-name="MI | Alpena | ABC WBKB" group-title="ENG | Local - ABC",MI | Alpena | ABC WBKB
+http://example.com/stream
+#EXTINF:-1 tvg-id="WBKB-DT3.us_locals1" tvg-name="MI | Alpena | ABC WBKB (Alt)" group-title="ENG | Local - ABC",MI | Alpena | ABC WBKB (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WOTV-DT.us_locals1" tvg-name="MI | Battle Creek | ABC WOTV" group-title="ENG | Local - ABC",MI | Battle Creek | ABC WOTV
+http://example.com/stream
+#EXTINF:-1 tvg-id="WOTV-DT.us_locals1" tvg-name="MI | Battle Creek | ABC WOTV (Alt)" group-title="ENG | Local - ABC",MI | Battle Creek | ABC WOTV (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WBKP-DT2.us_locals1" tvg-name="MI | Calumet | ABC WBKP" group-title="ENG | Local - ABC",MI | Calumet | ABC WBKP
+http://example.com/stream
+#EXTINF:-1 tvg-id="WBKP-DT2.us_locals1" tvg-name="MI | Calumet | ABC WBKP (Alt)" group-title="ENG | Local - ABC",MI | Calumet | ABC WBKP (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WXYZ-DT.us_locals1" tvg-name="MI | Detroit | ABC WXYZ" group-title="ENG | Local - ABC",MI | Detroit | ABC WXYZ
+http://example.com/stream
+#EXTINF:-1 tvg-id="WXYZ-DT.us_locals1" tvg-name="MI | Detroit | ABC WXYZ (Alt)" group-title="ENG | Local - ABC",MI | Detroit | ABC WXYZ (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WJRT-DT.us_locals1" tvg-name="MI | Flint | ABC WJRT" group-title="ENG | Local - ABC",MI | Flint | ABC WJRT
+http://example.com/stream
+#EXTINF:-1 tvg-id="WJRT-DT.us_locals1" tvg-name="MI | Flint | ABC WJRT (Alt)" group-title="ENG | Local - ABC",MI | Flint | ABC WJRT (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WZZM-DT.us_locals1" tvg-name="MI | Grand Rapids | ABC WZZM" group-title="ENG | Local - ABC",MI | Grand Rapids | ABC WZZM
+http://example.com/stream
+#EXTINF:-1 tvg-id="WZZM-DT.us_locals1" tvg-name="MI | Grand Rapids | ABC WZZM (Alt)" group-title="ENG | Local - ABC",MI | Grand Rapids | ABC WZZM (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WBUP-DT.us_locals1" tvg-name="MI | Ishpeming | ABC WBUP" group-title="ENG | Local - ABC",MI | Ishpeming | ABC WBUP
+http://example.com/stream
+#EXTINF:-1 tvg-id="WBUP-DT.us_locals1" tvg-name="MI | Ishpeming | ABC WBUP (Alt)" group-title="ENG | Local - ABC",MI | Ishpeming | ABC WBUP (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WLAJ-DT.us_locals1" tvg-name="MI | Lansing | ABC WLAJ" group-title="ENG | Local - ABC",MI | Lansing | ABC WLAJ
+http://example.com/stream
+#EXTINF:-1 tvg-id="WLAJ-DT.us_locals1" tvg-name="MI | Lansing | ABC WLAJ (Alt)" group-title="ENG | Local - ABC",MI | Lansing | ABC WLAJ (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WJMN-DT.us_locals1" tvg-name="MI | Marquette | ABC WJMN" group-title="ENG | Local - ABC",MI | Marquette | ABC WJMN
+http://example.com/stream
+#EXTINF:-1 tvg-id="WJMN-DT.us_locals1" tvg-name="MI | Marquette | ABC WJMN (Alt)" group-title="ENG | Local - ABC",MI | Marquette | ABC WJMN (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WTOM-DT.us_locals1" tvg-name="MI | Sault Ste. Marie | ABC WTOM" group-title="ENG | Local - ABC",MI | Sault Ste. Marie | ABC WTOM
+http://example.com/stream
+#EXTINF:-1 tvg-id="WTOM-DT.us_locals1" tvg-name="MI | Sault Ste. Marie | ABC WTOM (Alt)" group-title="ENG | Local - ABC",MI | Sault Ste. Marie | ABC WTOM (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WGTU-DT.us_locals1" tvg-name="MI | Traverse City | ABC WGTU" group-title="ENG | Local - ABC",MI | Traverse City | ABC WGTU
+http://example.com/stream
+#EXTINF:-1 tvg-id="WGTU-DT.us_locals1" tvg-name="MI | Traverse City | ABC WGTU (Alt)" group-title="ENG | Local - ABC",MI | Traverse City | ABC WGTU (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="KSAX-DT.us_locals1" tvg-name="MN | Alexandria | ABC KSAX" group-title="ENG | Local - ABC",MN | Alexandria | ABC KSAX
+http://example.com/stream
+#EXTINF:-1 tvg-id="KSAX-DT.us_locals1" tvg-name="MN | Alexandria | ABC KSAX (Alt)" group-title="ENG | Local - ABC",MN | Alexandria | ABC KSAX (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WDIO-DT.us_locals1" tvg-name="MN | Duluth | ABC WDIO" group-title="ENG | Local - ABC",MN | Duluth | ABC WDIO
+http://example.com/stream
+#EXTINF:-1 tvg-id="WDIO-DT.us_locals1" tvg-name="MN | Duluth | ABC WDIO (Alt)" group-title="ENG | Local - ABC",MN | Duluth | ABC WDIO (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WIRT-DT.us_locals1" tvg-name="MN | Hibbing | ABC WIRT" group-title="ENG | Local - ABC",MN | Hibbing | ABC WIRT
+http://example.com/stream
+#EXTINF:-1 tvg-id="WIRT-DT.us_locals1" tvg-name="MN | Hibbing | ABC WIRT (Alt)" group-title="ENG | Local - ABC",MN | Hibbing | ABC WIRT (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="KTSP-DT.us_locals1" tvg-name="MN | Minneapolis | ABC KSTP" group-title="ENG | Local - ABC",MN | Minneapolis | ABC KSTP
+http://example.com/stream
+#EXTINF:-1 tvg-id="KTSP-DT.us_locals1" tvg-name="MN | Minneapolis | ABC KSTP (Alt)" group-title="ENG | Local - ABC",MN | Minneapolis | ABC KSTP (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="KRWF-DT.us_locals1" tvg-name="MN | Redwood Falls | ABC KRWF" group-title="ENG | Local - ABC",MN | Redwood Falls | ABC KRWF
+http://example.com/stream
+#EXTINF:-1 tvg-id="KRWF-DT.us_locals1" tvg-name="MN | Redwood Falls | ABC KRWF (Alt)" group-title="ENG | Local - ABC",MN | Redwood Falls | ABC KRWF (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="KAAL-DT.us_locals1" tvg-name="MN | Rochester | ABC KAAL" group-title="ENG | Local - ABC",MN | Rochester | ABC KAAL
+http://example.com/stream
+#EXTINF:-1 tvg-id="KAAL-DT.us_locals1" tvg-name="MN | Rochester | ABC KAAL (Alt)" group-title="ENG | Local - ABC",MN | Rochester | ABC KAAL (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="KMIZ-DT.us_locals1" tvg-name="MO | Jefferson City | ABC KMIZ" group-title="ENG | Local - ABC",MO | Jefferson City | ABC KMIZ
+http://example.com/stream
+#EXTINF:-1 tvg-id="KMIZ-DT.us_locals1" tvg-name="MO | Jefferson City | ABC KMIZ (Alt)" group-title="ENG | Local - ABC",MO | Jefferson City | ABC KMIZ (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="KODE-DT.us_locals1" tvg-name="MO | Joplin | ABC KODE" group-title="ENG | Local - ABC",MO | Joplin | ABC KODE
+http://example.com/stream
+#EXTINF:-1 tvg-id="KODE-DT.us_locals1" tvg-name="MO | Joplin | ABC KODE (Alt)" group-title="ENG | Local - ABC",MO | Joplin | ABC KODE (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="KMBC-DT.us_locals1" tvg-name="MO | Kansas City | ABC KMBC" group-title="ENG | Local - ABC",MO | Kansas City | ABC KMBC
+http://example.com/stream
+#EXTINF:-1 tvg-id="KMBC-DT.us_locals1" tvg-name="MO | Kansas City | ABC KMBC (Alt)" group-title="ENG | Local - ABC",MO | Kansas City | ABC KMBC (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="KPOB-DT.us_locals1" tvg-name="MO | Poplar Bluff | ABC KPOB" group-title="ENG | Local - ABC",MO | Poplar Bluff | ABC KPOB
+http://example.com/stream
+#EXTINF:-1 tvg-id="KPOB-DT.us_locals1" tvg-name="MO | Poplar Bluff | ABC KPOB (Alt)" group-title="ENG | Local - ABC",MO | Poplar Bluff | ABC KPOB (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="KSPR-LD.us_locals1" tvg-name="MO | Springfield | ABC KSPR" group-title="ENG | Local - ABC",MO | Springfield | ABC KSPR
+http://example.com/stream
+#EXTINF:-1 tvg-id="KSPR-LD.us_locals1" tvg-name="MO | Springfield | ABC KSPR (Alt)" group-title="ENG | Local - ABC",MO | Springfield | ABC KSPR (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="KQTV-DT.us_locals1" tvg-name="MO | St. Joseph | ABC KQTV" group-title="ENG | Local - ABC",MO | St. Joseph | ABC KQTV
+http://example.com/stream
+#EXTINF:-1 tvg-id="KQTV-DT.us_locals1" tvg-name="MO | St. Joseph | ABC KQTV (Alt)" group-title="ENG | Local - ABC",MO | St. Joseph | ABC KQTV (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="KDNL-DT.us_locals1" tvg-name="MO | St. Louis | ABC KDNL" group-title="ENG | Local - ABC",MO | St. Louis | ABC KDNL
+http://example.com/stream
+#EXTINF:-1 tvg-id="KDNL-DT.us_locals1" tvg-name="MO | St. Louis | ABC KDNL (Alt)" group-title="ENG | Local - ABC",MO | St. Louis | ABC KDNL (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WLOX-DT.us_locals1" tvg-name="MS | Biloxi | ABC WLOX" group-title="ENG | Local - ABC",MS | Biloxi | ABC WLOX
+http://example.com/stream
+#EXTINF:-1 tvg-id="WLOX-DT.us_locals1" tvg-name="MS | Biloxi | ABC WLOX (Alt)" group-title="ENG | Local - ABC",MS | Biloxi | ABC WLOX (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WABG-DT.us_locals1" tvg-name="MS | Greenwood | ABC WABG" group-title="ENG | Local - ABC",MS | Greenwood | ABC WABG
+http://example.com/stream
+#EXTINF:-1 tvg-id="WABG-DT.us_locals1" tvg-name="MS | Greenwood | ABC WABG (Alt)" group-title="ENG | Local - ABC",MS | Greenwood | ABC WABG (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WDAM-DT2.us_locals1" tvg-name="MS | Hattiesburg | ABC WDAM" group-title="ENG | Local - ABC",MS | Hattiesburg | ABC WDAM
+http://example.com/stream
+#EXTINF:-1 tvg-id="WDAM-DT2.us_locals1" tvg-name="MS | Hattiesburg | ABC WDAM (Alt)" group-title="ENG | Local - ABC",MS | Hattiesburg | ABC WDAM (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WAPT-DT.us_locals1" tvg-name="MS | Jackson | ABC WAPT" group-title="ENG | Local - ABC",MS | Jackson | ABC WAPT
+http://example.com/stream
+#EXTINF:-1 tvg-id="WAPT-DT.us_locals1" tvg-name="MS | Jackson | ABC WAPT (Alt)" group-title="ENG | Local - ABC",MS | Jackson | ABC WAPT (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WTOK-DT.us_locals1" tvg-name="MS | Meridian | ABC WTOK" group-title="ENG | Local - ABC",MS | Meridian | ABC WTOK
+http://example.com/stream
+#EXTINF:-1 tvg-id="WTOK-DT.us_locals1" tvg-name="MS | Meridian | ABC WTOK (Alt)" group-title="ENG | Local - ABC",MS | Meridian | ABC WTOK (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WTVA-DT2.us_locals1" tvg-name="MS | Tupelo | ABC WTVA" group-title="ENG | Local - ABC",MS | Tupelo | ABC WTVA
+http://example.com/stream
+#EXTINF:-1 tvg-id="WTVA-DT2.us_locals1" tvg-name="MS | Tupelo | ABC WTVA (Alt)" group-title="ENG | Local - ABC",MS | Tupelo | ABC WTVA (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="KSVI-DT.us_locals1" tvg-name="MT | Billings | ABC KSVI" group-title="ENG | Local - ABC",MT | Billings | ABC KSVI
+http://example.com/stream
+#EXTINF:-1 tvg-id="KSVI-DT.us_locals1" tvg-name="MT | Billings | ABC KSVI (Alt)" group-title="ENG | Local - ABC",MT | Billings | ABC KSVI (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="KWYB-LD.us_locals1" tvg-name="MT | Bozeman | ABC KWYB-LD" group-title="ENG | Local - ABC",MT | Bozeman | ABC KWYB-LD
+http://example.com/stream
+#EXTINF:-1 tvg-id="KWYB-LD.us_locals1" tvg-name="MT | Bozeman | ABC KWYB-LD (Alt)" group-title="ENG | Local - ABC",MT | Bozeman | ABC KWYB-LD (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="KWYB-DT.us_locals1" tvg-name="MT | Butte | ABC KWYB-DT" group-title="ENG | Local - ABC",MT | Butte | ABC KWYB-DT
+http://example.com/stream
+#EXTINF:-1 tvg-id="KWYB-DT.us_locals1" tvg-name="MT | Butte | ABC KWYB-DT (Alt)" group-title="ENG | Local - ABC",MT | Butte | ABC KWYB-DT (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="KFBB-DT.us_locals1" tvg-name="MT | Great Falls | ABC KFBB" group-title="ENG | Local - ABC",MT | Great Falls | ABC KFBB
+http://example.com/stream
+#EXTINF:-1 tvg-id="KFBB-DT.us_locals1" tvg-name="MT | Great Falls | ABC KFBB (Alt)" group-title="ENG | Local - ABC",MT | Great Falls | ABC KFBB (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="KHBB-LD.us_locals1" tvg-name="MT | Helena | ABC KHBB" group-title="ENG | Local - ABC",MT | Helena | ABC KHBB
+http://example.com/stream
+#EXTINF:-1 tvg-id="KHBB-LD.us_locals1" tvg-name="MT | Helena | ABC KHBB (Alt)" group-title="ENG | Local - ABC",MT | Helena | ABC KHBB (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="KTMF-DT.us_locals1" tvg-name="MT | Missoula | ABC KTMF" group-title="ENG | Local - ABC",MT | Missoula | ABC KTMF
+http://example.com/stream
+#EXTINF:-1 tvg-id="KTMF-DT.us_locals1" tvg-name="MT | Missoula | ABC KTMF (Alt)" group-title="ENG | Local - ABC",MT | Missoula | ABC KTMF (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WSOC-DT.us_locals1" tvg-name="NC | Charlotte | ABC WSOC" group-title="ENG | Local - ABC",NC | Charlotte | ABC WSOC
+http://example.com/stream
+#EXTINF:-1 tvg-id="WSOC-DT.us_locals1" tvg-name="NC | Charlotte | ABC WSOC (Alt)" group-title="ENG | Local - ABC",NC | Charlotte | ABC WSOC (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="KVIH-DT.us_locals1" tvg-name="NC | Clovi | ABC KVIH" group-title="ENG | Local - ABC",NC | Clovi | ABC KVIH
+http://example.com/stream
+#EXTINF:-1 tvg-id="KVIH-DT.us_locals1" tvg-name="NC | Clovi | ABC KVIH (Alt)" group-title="ENG | Local - ABC",NC | Clovi | ABC KVIH (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WXLV-DT.us_locals1" tvg-name="NC | Greensboro | ABC WXLV" group-title="ENG | Local - ABC",NC | Greensboro | ABC WXLV
+http://example.com/stream
+#EXTINF:-1 tvg-id="WXLV-DT.us_locals1" tvg-name="NC | Greensboro | ABC WXLV (Alt)" group-title="ENG | Local - ABC",NC | Greensboro | ABC WXLV (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WCTI-DT.us_locals1" tvg-name="NC | Greenville | ABC WCTI" group-title="ENG | Local - ABC",NC | Greenville | ABC WCTI
+http://example.com/stream
+#EXTINF:-1 tvg-id="WCTI-DT.us_locals1" tvg-name="NC | Greenville | ABC WCTI (Alt)" group-title="ENG | Local - ABC",NC | Greenville | ABC WCTI (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WTVD-DT.us_locals1" tvg-name="NC | Raleigh-Durham | ABC WTVD" group-title="ENG | Local - ABC",NC | Raleigh-Durham | ABC WTVD
+http://example.com/stream
+#EXTINF:-1 tvg-id="WTVD-DT.us_locals1" tvg-name="NC | Raleigh-Durham | ABC WTVD (Alt)" group-title="ENG | Local - ABC",NC | Raleigh-Durham | ABC WTVD (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WWAY-DT.us_locals1" tvg-name="NC | Wilmington | ABC WWAY" group-title="ENG | Local - ABC",NC | Wilmington | ABC WWAY
+http://example.com/stream
+#EXTINF:-1 tvg-id="WWAY-DT.us_locals1" tvg-name="NC | Wilmington | ABC WWAY (Alt)" group-title="ENG | Local - ABC",NC | Wilmington | ABC WWAY (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="KBMY-DT.us_locals1" tvg-name="ND | Bismarck | ABC KBMY" group-title="ENG | Local - ABC",ND | Bismarck | ABC KBMY
+http://example.com/stream
+#EXTINF:-1 tvg-id="KBMY-DT.us_locals1" tvg-name="ND | Bismarck | ABC KBMY (Alt)" group-title="ENG | Local - ABC",ND | Bismarck | ABC KBMY (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WDAY-DT.us_locals1" tvg-name="ND | Fargo | ABC WDAY" group-title="ENG | Local - ABC",ND | Fargo | ABC WDAY
+http://example.com/stream
+#EXTINF:-1 tvg-id="WDAY-DT.us_locals1" tvg-name="ND | Fargo | ABC WDAY (Alt)" group-title="ENG | Local - ABC",ND | Fargo | ABC WDAY (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WDAZ-DT.us_locals1" tvg-name="ND | Grand Forks | ABC WDAZ" group-title="ENG | Local - ABC",ND | Grand Forks | ABC WDAZ
+http://example.com/stream
+#EXTINF:-1 tvg-id="WDAZ-DT.us_locals1" tvg-name="ND | Grand Forks | ABC WDAZ (Alt)" group-title="ENG | Local - ABC",ND | Grand Forks | ABC WDAZ (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="KMCY-DT.us_locals1" tvg-name="ND | Minot | ABC KMCY" group-title="ENG | Local - ABC",ND | Minot | ABC KMCY
+http://example.com/stream
+#EXTINF:-1 tvg-id="KMCY-DT.us_locals1" tvg-name="ND | Minot | ABC KMCY (Alt)" group-title="ENG | Local - ABC",ND | Minot | ABC KMCY (Alt)
 http://example.com/stream
