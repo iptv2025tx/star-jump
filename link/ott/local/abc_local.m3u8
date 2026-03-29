@@ -1,4 +1,4 @@
-https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz
+#EXTM3U
 #EXTINF:-1 tvg-id="KYUR-DT.us_locals1" tvg-name="AK | Anchorage | ABC KYUR" group-title="ENG | Local - ABC",AK | Anchorage | ABC KYUR
 http://example.com/stream
 #EXTINF:-1 tvg-id="KYUR-DT.us_locals1" tvg-name="AK | Anchorage | ABC KYUR (Alt)" group-title="ENG | Local - ABC",AK | Anchorage | ABC KYUR (Alt)
@@ -11,17 +11,13 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="KJUD-DT.us_locals1" tvg-name="AK | Juneau | ABC KJUD (Alt)" group-title="ENG | Local - ABC",AK | Juneau | ABC KJUD (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="WGWW-DT2.us_locals1" tvg-name="AL | Anniston | ABC WGWW" group-title="ENG | Local - ABC",AL | Anniston | ABC WGWW
-http://example.com/stream
-#EXTINF:-1 tvg-id="WGWW-DT2.us_locals1" tvg-name="AL | Anniston | ABC WGWW (Alt)" group-title="ENG | Local - ABC",AL | Anniston | ABC WGWW (Alt)
-http://example.com/stream
 #EXTINF:-1 tvg-id="WABM-DT2.us_locals1" tvg-name="AL | Birmingham | ABC WABM" group-title="ENG | Local - ABC",AL | Birmingham | ABC WABM
 http://example.com/stream
 #EXTINF:-1 tvg-id="WABM-DT.us_locals1" tvg-name="AL | Birmingham | ABC WABM (Alt)" group-title="ENG | Local - ABC",AL | Birmingham | ABC WABM (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="WBMA-DT.us_locals1" tvg-name="AL | Birmingham | ABC WBMA" group-title="ENG | Local - ABC",AL | Birmingham | ABC WBMA
+#EXTINF:-1 tvg-id="WBMA-LD.us_locals1" tvg-name="AL | Birmingham | ABC WBMA" group-title="ENG | Local - ABC",AL | Birmingham | ABC WBMA
 http://example.com/stream
-#EXTINF:-1 tvg-id="WBMA-DT.us_locals1" tvg-name="AL | Birmingham | ABC WBMA (Alt)" group-title="ENG | Local - ABC",AL | Birmingham | ABC WBMA (Alt)
+#EXTINF:-1 tvg-id="WBMA-LD.us_locals1" tvg-name="AL | Birmingham | ABC WBMA (Alt)" group-title="ENG | Local - ABC",AL | Birmingham | ABC WBMA (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="WDHN-DT.us_locals1" tvg-name="AL | Dothan | ABC WDHN" group-title="ENG | Local - ABC",AL | Dothan | ABC WDHN
 http://example.com/stream
@@ -38,10 +34,6 @@ http://example.com/stream
 #EXTINF:-1 tvg-id="WNCF-DT.us_locals1" tvg-name="AL | Montgomery | ABC WNCF" group-title="ENG | Local - ABC",AL | Montgomery | ABC WNCF
 http://example.com/stream
 #EXTINF:-1 tvg-id="WNCF-DT.us_locals1" tvg-name="AL | Montgomery | ABC WNCF (Alt)" group-title="ENG | Local - ABC",AL | Montgomery | ABC WNCF (Alt)
-http://example.com/stream
-#EXTINF:-1 tvg-id="WDBB-DT.us_locals1" tvg-name="AL | Tuscaloosa | ABC WDBB" group-title="ENG | Local - ABC",AL | Tuscaloosa | ABC WDBB
-http://example.com/stream
-#EXTINF:-1 tvg-id="WDBB-DT.us_locals1" tvg-name="AL | Tuscaloosa | ABC WDBB (Alt)" group-title="ENG | Local - ABC",AL | Tuscaloosa | ABC WDBB (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="KHOG-DT.us_locals1" tvg-name="AR | Fayetteville | ABC KHOG" group-title="ENG | Local - ABC",AR | Fayetteville | ABC KHOG
 http://example.com/stream
@@ -91,9 +83,9 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-name="CA | Los Angeles | ABC KABC (Alt)" group-title="ENG | Local - ABC",CA | Los Angeles | ABC KABC (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="KSBW-DT.us_locals1" tvg-name="CA | Monterey | ABC KSBW" group-title="ENG | Local - ABC",CA | Monterey | ABC KSBW
+#EXTINF:-1 tvg-id="KSBW-DT2.us_locals1" tvg-name="CA | Monterey | ABC KSBW" group-title="ENG | Local - ABC",CA | Monterey | ABC KSBW
 http://example.com/stream
-#EXTINF:-1 tvg-id="KSBW-DT.us_locals1" tvg-name="CA | Monterey | ABC KSBW (Alt)" group-title="ENG | Local - ABC",CA | Monterey | ABC KSBW (Alt)
+#EXTINF:-1 tvg-id="KSBW-DT2.us_locals1" tvg-name="CA | Monterey | ABC KSBW (Alt)" group-title="ENG | Local - ABC",CA | Monterey | ABC KSBW (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="KESQ-DT.us_locals1" tvg-name="CA | Palm Springs | ABC KESQ" group-title="ENG | Local - ABC",CA | Palm Springs | ABC KESQ
 http://example.com/stream
@@ -123,9 +115,9 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="KMGH-DT.us_locals1" tvg-name="CO | Denver | ABC KMGH (Alt)" group-title="ENG | Local - ABC",CO | Denver | ABC KMGH (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="KJCT-LP.us_locals1" tvg-name="CO | Grand Junction | ABC KJCT" group-title="ENG | Local - ABC",CO | Grand Junction | ABC KJCT
+#EXTINF:-1 tvg-id="KJCT-CD.us_locals1" tvg-name="CO | Grand Junction | ABC KJCT" group-title="ENG | Local - ABC",CO | Grand Junction | ABC KJCT
 http://example.com/stream
-#EXTINF:-1 tvg-id="KJCT-LP.us_locals1" tvg-name="CO | Grand Junction | ABC KJCT (Alt)" group-title="ENG | Local - ABC",CO | Grand Junction | ABC KJCT (Alt)
+#EXTINF:-1 tvg-id="KJCT-CD.us_locals1" tvg-name="CO | Grand Junction | ABC KJCT (Alt)" group-title="ENG | Local - ABC",CO | Grand Junction | ABC KJCT (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="WTNH-DT.us_locals1" tvg-name="CT | Hartford-New Haven | ABC WTNH" group-title="ENG | Local - ABC",CT | Hartford-New Haven | ABC WTNH
 http://example.com/stream
@@ -259,9 +251,9 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="WEEK-DT2.us_locals1" tvg-name="IL | Peoria | ABC WEEK (Alt)" group-title="ENG | Local - ABC",IL | Peoria | ABC WEEK (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="KQHA-DT2.us_locals1" tvg-name="IL | Quincy | ABC KQHA" group-title="ENG | Local - ABC",IL | Quincy | ABC KQHA
+#EXTINF:-1 tvg-id="KHQA-DT2.us_locals1" tvg-name="IL | Quincy | ABC KHQA" group-title="ENG | Local - ABC",IL | Quincy | ABC KHQA
 http://example.com/stream
-#EXTINF:-1 tvg-id="KQHA-DT2.us_locals1" tvg-name="IL | Quincy | ABC KQHA (Alt)" group-title="ENG | Local - ABC",IL | Quincy | ABC KQHA (Alt)
+#EXTINF:-1 tvg-id="KHQA-DT2.us_locals1" tvg-name="IL | Quincy | ABC KHQA (Alt)" group-title="ENG | Local - ABC",IL | Quincy | ABC KHQA (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="WTVO-DT.us_locals1" tvg-name="IL | Rockford | ABC WTVO" group-title="ENG | Local - ABC",IL | Rockford | ABC WTVO
 http://example.com/stream
@@ -415,9 +407,9 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="WJMN-DT.us_locals1" tvg-name="MI | Marquette | ABC WJMN (Alt)" group-title="ENG | Local - ABC",MI | Marquette | ABC WJMN (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="WTOM-DT.us_locals1" tvg-name="MI | Sault Ste. Marie | ABC WTOM" group-title="ENG | Local - ABC",MI | Sault Ste. Marie | ABC WTOM
+#EXTINF:-1 tvg-id="WTOM-DT2.us_locals1" tvg-name="MI | Sault Ste. Marie | ABC WTOM" group-title="ENG | Local - ABC",MI | Sault Ste. Marie | ABC WTOM
 http://example.com/stream
-#EXTINF:-1 tvg-id="WTOM-DT.us_locals1" tvg-name="MI | Sault Ste. Marie | ABC WTOM (Alt)" group-title="ENG | Local - ABC",MI | Sault Ste. Marie | ABC WTOM (Alt)
+#EXTINF:-1 tvg-id="WTOM-DT2.us_locals1" tvg-name="MI | Sault Ste. Marie | ABC WTOM (Alt)" group-title="ENG | Local - ABC",MI | Sault Ste. Marie | ABC WTOM (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="WGTU-DT.us_locals1" tvg-name="MI | Traverse City | ABC WGTU" group-title="ENG | Local - ABC",MI | Traverse City | ABC WGTU
 http://example.com/stream
@@ -655,10 +647,6 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="WKEF-DT.us_locals1" tvg-name="OH | Dayton | ABC WKEF (Alt)" group-title="ENG | Local - ABC",OH | Dayton | ABC WKEF (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="WPNM-LD.us_locals1" tvg-name="OH | Leipsic | ABC WPNM-LD" group-title="ENG | Local - ABC",OH | Leipsic | ABC WPNM-LD
-http://example.com/stream
-#EXTINF:-1 tvg-id="WPNM-LD.us_locals1" tvg-name="OH | Leipsic | ABC WPNM-LD (Alt)" group-title="ENG | Local - ABC",OH | Leipsic | ABC WPNM-LD (Alt)
-http://example.com/stream
 #EXTINF:-1 tvg-id="WOHL-CD.us_locals1" tvg-name="OH | Lima | ABC WOHL-CD" group-title="ENG | Local - ABC",OH | Lima | ABC WOHL-CD
 http://example.com/stream
 #EXTINF:-1 tvg-id="WOHL-CD.us_locals1" tvg-name="OH | Lima | ABC WOHL-CD (Alt)" group-title="ENG | Local - ABC",OH | Lima | ABC WOHL-CD (Alt)
@@ -715,10 +703,6 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="WHTM-DT.us_locals1" tvg-name="PA | Harrisburg | ABC WHTM (Alt)" group-title="ENG | Local - ABC",PA | Harrisburg | ABC WHTM (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="WWCP-DT2.us_locals1" tvg-name="PA | Johnstown | ABC WWCP" group-title="ENG | Local - ABC",PA | Johnstown | ABC WWCP
-http://example.com/stream
-#EXTINF:-1 tvg-id="WWCP-DT2.us_locals1" tvg-name="PA | Johnstown | ABC WWCP (Alt)" group-title="ENG | Local - ABC",PA | Johnstown | ABC WWCP (Alt)
-http://example.com/stream
 #EXTINF:-1 tvg-id="WPVI-DT.us_locals1" tvg-name="PA | Philadelphia | ABC WPVI" group-title="ENG | Local - ABC",PA | Philadelphia | ABC WPVI
 http://example.com/stream
 #EXTINF:-1 tvg-id="WPVI-DT.us_locals1" tvg-name="PA | Philadelphia | ABC WPVI (Alt)" group-title="ENG | Local - ABC",PA | Philadelphia | ABC WPVI (Alt)
@@ -739,9 +723,9 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="WORA-DT.us_locals1" tvg-name="PR | Mayaguez | ABC WORA (Alt)" group-title="ENG | Local - ABC",PR | Mayaguez | ABC WORA (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="WJAR-DT.us_locals1" tvg-name="RI | Providence | ABC WJAR" group-title="ENG | Local - ABC",RI | Providence | ABC WJAR
+#EXTINF:-1 tvg-id="WJAR-DT2.us_locals1" tvg-name="RI | Providence | ABC WJAR" group-title="ENG | Local - ABC",RI | Providence | ABC WJAR
 http://example.com/stream
-#EXTINF:-1 tvg-id="WJAR-DT.us_locals1" tvg-name="RI | Providence | ABC WJAR (Alt)" group-title="ENG | Local - ABC",RI | Providence | ABC WJAR (Alt)
+#EXTINF:-1 tvg-id="WJAR-DT2.us_locals1" tvg-name="RI | Providence | ABC WJAR (Alt)" group-title="ENG | Local - ABC",RI | Providence | ABC WJAR (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="WCIV-DT2.us_locals1" tvg-name="SC | Charleston | ABC WCIV" group-title="ENG | Local - ABC",SC | Charleston | ABC WCIV
 http://example.com/stream
@@ -867,7 +851,7 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="KTEN-DT3.us_locals1" tvg-name="TX | Sherman | ABC KTEN (Alt)" group-title="ENG | Local - ABC",TX | Sherman | ABC KTEN (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="KTLV-DT.us_locals1" tvg-name="TX | Tyler | ABC KLTV" group-title="ENG | Local - ABC",TX | Tyler | ABC KLTV
+#EXTINF:-1 tvg-id="KLTV-DT.us_locals1" tvg-name="TX | Tyler | ABC KLTV" group-title="ENG | Local - ABC",TX | Tyler | ABC KLTV
 http://example.com/stream
 #EXTINF:-1 tvg-id="KLTV-DT.us_locals1" tvg-name="TX | Tyler | ABC KLTV (Alt)" group-title="ENG | Local - ABC",TX | Tyler | ABC KLTV (Alt)
 http://example.com/stream
@@ -887,9 +871,9 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="KTVX-DT.us_locals1" tvg-name="UT | Salt Lake City | ABC KTVX (Alt)" group-title="ENG | Local - ABC",UT | Salt Lake City | ABC KTVX (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="WVAW-DT.us_locals1" tvg-name="VA | Charlottesville | ABC WVAW" group-title="ENG | Local - ABC",VA | Charlottesville | ABC WVAW
+#EXTINF:-1 tvg-id="WVAW-LD.us_locals1" tvg-name="VA | Charlottesville | ABC WVAW" group-title="ENG | Local - ABC",VA | Charlottesville | ABC WVAW
 http://example.com/stream
-#EXTINF:-1 tvg-id="WVAW-DT.us_locals1" tvg-name="VA | Charlottesville | ABC WVAW (Alt)" group-title="ENG | Local - ABC",VA | Charlottesville | ABC WVAW (Alt)
+#EXTINF:-1 tvg-id="WVAW-LD.us_locals1" tvg-name="VA | Charlottesville | ABC WVAW (Alt)" group-title="ENG | Local - ABC",VA | Charlottesville | ABC WVAW (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="WHSV-DT.us_locals1" tvg-name="VA | Harrisburg | ABC WHSV" group-title="ENG | Local - ABC",VA | Harrisburg | ABC WHSV
 http://example.com/stream
@@ -982,10 +966,6 @@ http://example.com/stream
 #EXTINF:-1 tvg-id="KKTQ-LD.us_locals1" tvg-name="WY| Cheyenne | ABC KKTQ" group-title="ENG | Local - ABC",WY| Cheyenne | ABC KKTQ
 http://example.com/stream
 #EXTINF:-1 tvg-id="KKTQ-LD.us_locals1" tvg-name="WY| Cheyenne | ABC KKTQ (Alt)" group-title="ENG | Local - ABC",WY| Cheyenne | ABC KKTQ (Alt)
-http://example.com/stream
-#EXTINF:-1 tvg-id="KLWY-DT2.us_locals1" tvg-name="WY| Cheyenne | ABC KLWY" group-title="ENG | Local - ABC",WY| Cheyenne | ABC KLWY
-http://example.com/stream
-#EXTINF:-1 tvg-id="KLWY-DT2.us_locals1" tvg-name="WY| Cheyenne | ABC KLWY (Alt)" group-title="ENG | Local - ABC",WY| Cheyenne | ABC KLWY (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="KSGW-DT.us_locals1" tvg-name="WY| Sheridan | ABC KSGW" group-title="ENG | Local - ABC",WY| Sheridan | ABC KSGW
 http://example.com/stream
