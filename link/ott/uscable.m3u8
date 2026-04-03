@@ -1,0 +1,1063 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK" group-title="Z - 🚫 OFFLINE 🚫",365BLK
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.50.Cent.Action.plex" tvg-name="50 Cent Action " group-title="ENG | Entertainment",50 Cent Action
+https://tv.extremeiptv.net/live/Marc/Marc/dfc6f575-d55f-4789-b47b-d39d7c9b4657.m3u
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E (East)" group-title="ENG | Entertainment",A&E (East)
+http://cord-cutter.net:8080/bn80NG/909467/2201
+#EXTINF:-1 tvg-id="AandENetworkPacific.us" tvg-name="A&E (West)" group-title="ENG | Entertainment",A&E (West)
+https://tv.extremeiptv.net/live/Marc/Marc/8f35bdbf-cb45-401f-a1e3-6b4041d51f41.m3u
+#EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ACC Network" group-title="ENG | Sports",ACC Network
+http://example.com/stream
+#EXTINF:-1 tvg-id="AccuWeather.HD.us2" tvg-name="AccuWeather" group-title="ENG | News",AccuWeather
+https://tv.extremeiptv.net/live/Marc/Marc/36dfc8c7-f8b3-4aa1-867d-6431673f0e05.m3u
+#EXTINF:-1 tvg-name="Ace TV" group-title="Z - 🚫 OFFLINE 🚫",Ace TV
+http://example.com/stream
+#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="Adult Swim (East)" group-title="ENG | Entertainment",Adult Swim (East)
+https://tv.extremeiptv.net/live/Marc/Marc/7762d4c9-2045-443f-b27d-002472bd989f.m3u
+#EXTINF:-1 tvg-id="AdultSwimPacific.ca" tvg-name="Adult Swim (West)" group-title="ENG | Entertainment",Adult Swim (West)
+https://tv.extremeiptv.net/live/Marc/Marc/67975937-ba3b-4fad-8622-1eb325d0f394.m3u
+#EXTINF:-1 tvg-id="Altitude.Sports.us2" tvg-name="Altitude Sports 1" group-title="ENG | Sports",Altitude Sports 1
+http://example.com/stream
+#EXTINF:-1 tvg-id="Altitude.Sports.us2" tvg-name="Altitude Sports 1 (Alt) " group-title="ENG | Sports",Altitude Sports 1 (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Altitude.Sports.2.HD.us2" tvg-name="Altitude Sports 2" group-title="ENG | Sports",Altitude Sports 2
+http://example.com/stream
+#EXTINF:-1 tvg-id="Altitude.Sports.2.HD.us2" tvg-name="Altitude Sports 2 (Alt)" group-title="ENG | Sports",Altitude Sports 2 (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC (East)" group-title="ENG | Entertainment",AMC (East)
+http://nocable.cc:8080/91161088/91161088/18925
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC (East) (Alt)" group-title="ENG | Entertainment",AMC (East) (Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/48edae61-3ae5-48f9-872f-86d2b92f06e6.m3u
+#EXTINF:-1 tvg-id="AMCPacific.us" tvg-name="AMC (West)" group-title="ENG | Entertainment",AMC (West)
+https://tv.extremeiptv.net/live/Marc/Marc/3523c9e0-33e5-456c-9037-198bb845d32a.m3u
+#EXTINF:-1 tvg-id="plex.tv.AMC.Thrillers.plex" tvg-name="AMC Thrillers" group-title="ENG | Entertainment",AMC Thrillers
+https://tv.extremeiptv.net/live/Marc/Marc/317bcd16-17f6-42a6-bde1-9c408576ef03.m3u
+#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" tvg-name="American Heroes" group-title="ENG | Entertainment",American Heroes
+https://tv.extremeiptv.net/live/Marc/Marc/e6d7435e-2d83-41d6-80be-5a27fa9c75a2.m3u
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet (East)" group-title="ENG | Entertainment",Animal Planet (East)
+https://tv.extremeiptv.net/live/Marc/Marc/e483000b-a8fe-40aa-883e-c6d99c1da748.m3u
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet (East) (Alt)" group-title="Z - 🚫 OFFLINE 🚫",Animal Planet (East) (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="AnimalPlanetPacific.us" tvg-name="Animal Planet (West)" group-title="ENG | Entertainment",Animal Planet (West)
+https://tv.extremeiptv.net/live/Marc/Marc/420f127b-8319-41dc-bc22-20d4c5a99f7c.m3u
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna" group-title="ENG | Entertainment",Antenna
+https://tv.extremeiptv.net/live/Marc/Marc/189c416b-4d54-4528-a698-6dd3025b1a5b.m3u
+#EXTINF:-1 tvg-id="ASPiRE.HD.us2" tvg-name="Aspire" group-title="ENG | Entertainment",Aspire
+https://tv.extremeiptv.net/live/Marc/Marc/4af9ca58-1e5d-4c7b-a1e2-0d8378161e0e.m3u
+#EXTINF:-1 tvg-id="AWE.A.Wealth.of.Entertainment.HD.us2" tvg-name="AWE" group-title="ENG | Entertainment",AWE
+https://tv.extremeiptv.net/live/Marc/Marc/f11f1aba-18b7-4cd6-a613-cdeabf3a18f0.m3u
+#EXTINF:-1 tvg-id="en:.AWSN+.ae" tvg-name="AWSN (Sports)" group-title="ENG | Sports",AWSN (Sports)
+http://example.com/stream
+#EXTINF:-1 tvg-id="AXS.TV.us2" tvg-name="AXS TV" group-title="Music",AXS TV
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.AXS.TV.Now.plex" tvg-name="AXS TV Now" group-title="Music",AXS TV Now
+http://example.com/stream
+#EXTINF:-1 tvg-id="BabyFirst.TV.us2" tvg-name="Baby First" group-title="ENG | Kids & Family",Baby First
+https://tv.extremeiptv.net/live/Marc/Marc/c23148a4-1aae-4177-8886-b53c76de7056.m3u
+#EXTINF:-1 tvg-id="Baby.TV.US.us2" tvg-name="Baby TV" group-title="ENG | Kids & Family",Baby TV
+https://tv.extremeiptv.net/live/Marc/Marc/ac328b3f-a510-4f44-99e8-933f94a13dda.m3u
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America (East)" group-title="ENG | Entertainment",BBC America (East)
+http://nocable.cc:8080/91161088/91161088/20194
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America (East) (Alt)" group-title="ENG | Entertainment",BBC America (East) (Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/272daea9-a8bc-49b8-95a0-db86a98a6296.m3u
+#EXTINF:-1 tvg-id="BBCAmericaPacific.us" tvg-name="BBC America (West)" group-title="ENG | Entertainment",BBC America (West)
+https://tv.extremeiptv.net/live/Marc/Marc/12620a05-dd43-4e17-814d-63e3108dbfb3.m3u
+#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC News North America" group-title="ENG | News",BBC News North America
+http://nocable.cc:8080/91161088/91161088/139752
+#EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET (East)" group-title="ENG | Entertainment",BET (East)
+https://tv.extremeiptv.net/live/Marc/Marc/4577dba9-1803-4ad0-915a-2211333aa08e.m3u
+#EXTINF:-1 tvg-id="BET.HD.(Pacific).us2" tvg-name="BET (West)" group-title="ENG | Entertainment",BET (West)
+https://tv.extremeiptv.net/live/Marc/Marc/849cf31e-84b6-4fff-ad0c-d5d52fc33a6f.m3u
+#EXTINF:-1 tvg-id="BET.GOSPEL.us2" tvg-name="BET Gospel" group-title="Music",BET Gospel
+http://example.com/stream
+#EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her (East)" group-title="ENG | Entertainment",BET Her (East)
+https://tv.extremeiptv.net/live/Marc/Marc/fe783750-9a65-47f7-b90c-2bc89c9b47a7.m3u
+#EXTINF:-1 tvg-id="BETHerPacific.us" tvg-name="BET Her (West)" group-title="Z - 🚫 OFFLINE 🚫",BET Her (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="BET.Jams.us2" tvg-name="BET Jams" group-title="Music",BET Jams
+http://example.com/stream
+#EXTINF:-1 tvg-id="BET.Soul.us2" tvg-name="BET Soul" group-title="Z - 🚫 OFFLINE 🚫",BET Soul
+http://example.com/stream
+#EXTINF:-1 tvg-id="BigTen1.us" tvg-name="BIG TEN Network 1" group-title="ENG | Sports",BIG TEN Network 1
+http://example.com/stream
+#EXTINF:-1 tvg-id="BigTen2.us" tvg-name="BIG TEN Network 2" group-title="ENG | Sports",BIG TEN Network 2
+http://example.com/stream
+#EXTINF:-1 tvg-id="BigTen3.us" tvg-name="BIG TEN Network 3" group-title="ENG | Sports",BIG TEN Network 3
+http://example.com/stream
+#EXTINF:-1 tvg-id="BigTen4.us" tvg-name="BIG TEN Network 4" group-title="ENG | Sports",BIG TEN Network 4
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.Bloomberg.Originals.plex" tvg-name="Bloomberg Originals" group-title="ENG | News",Bloomberg Originals
+https://tv.extremeiptv.net/live/Marc/Marc/73374135-fdd9-4d78-aad1-e520cc0a9f22.m3u
+#EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg TV" group-title="ENG | News",Bloomberg TV
+http://nocable.cc:8080/91161088/91161088/15158
+#EXTINF:-1 tvg-id="Boomerang.us2" tvg-name="Boomerang" group-title="ENG | Kids & Family",Boomerang
+http://nocable.cc:8080/91161088/91161088/14741
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce" group-title="ENG | Entertainment",Bounce
+http://nocable.cc:8080/91161088/91161088/48323
+#EXTINF:-1 tvg-id="plex.tv.Bounce.XL.plex" tvg-name="Bounce XL" group-title="ENG | Entertainment",Bounce XL
+https://tv.extremeiptv.net/live/Marc/Marc/415ad2f3-70ac-46c8-8169-b8fee70c5cb5.m3u
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo (East)" group-title="ENG | Entertainment",Bravo (East)
+https://tv.extremeiptv.net/live/Marc/Marc/1f91ed9f-7de6-4e9e-8d83-7b1ba944f5ec.m3u
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo (East) (Alt)" group-title="Z - 🚫 OFFLINE 🚫",Bravo (East) (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-name="Bravo (West)" group-title="ENG | Entertainment",Bravo (West)
+https://tv.extremeiptv.net/live/Marc/Marc/9d7a71a4-9b7e-4305-b2c0-823b1575987d.m3u
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="Busted" group-title="Z - 🚫 OFFLINE 🚫",Busted
+http://example.com/stream
+#EXTINF:-1 tvg-id="BUZZR.us2" tvg-name="Buzzr" group-title="ENG | Entertainment",Buzzr
+https://buzzrota-web.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr (Alt)" group-title="ENG | Entertainment",Buzzr (Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/dd1cdff9-f702-4659-b46e-2fbf6dab95ac.m3u
+#EXTINF:-1 tvg-id="CSPAN.us2" tvg-name="C-SPAN1" group-title="ENG | News",C-SPAN1
+https://tv.extremeiptv.net/live/Marc/Marc/70bf6db2-57c2-4338-adea-47fa2861c100.m3u
+#EXTINF:-1 tvg-id="CSPAN2.us2" tvg-name="C-SPAN2" group-title="ENG | News",C-SPAN2
+https://tv.extremeiptv.net/live/Marc/Marc/e09cd1de-6ffc-4083-a45d-191eb7c71836.m3u
+#EXTINF:-1 tvg-id="Cars.TV.HD.us2" tvg-name="Cars TV" group-title="ENG | Sports",Cars TV
+http://example.com/stream
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network (East)" group-title="ENG | Kids & Family",Cartoon Network (East)
+http://nocable.cc:8080/91161088/91161088/46708
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network (East) (Alt)" group-title="ENG | Kids & Family",Cartoon Network (East) (Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/9d1b7eb8-fbc8-4198-a8e8-1f5e634e2615.m3u
+#EXTINF:-1 tvg-id="Cartoon.Network.(Pacific).us2" tvg-name="Cartoon Network (West)" group-title="ENG | Kids & Family",Cartoon Network (West)
+https://tv.extremeiptv.net/live/Marc/Marc/da540c5a-6db1-4081-ab82-393740a9c39c.m3u
+#EXTINF:-1 tvg-id="Cartoon.Network.(Pacific).us2" tvg-name="Cartoon Network (West) (Alt)" group-title="ENG | Kids & Family",Cartoon Network (West) (Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/4d274dcd-6a9b-41cf-a8e7-1b06dedae690.m3u
+#EXTINF:-1 tvg-name="Cartoon Rewind" group-title="ENG | Kids & Family",Cartoon Rewind
+http://example.com/stream
+#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy" group-title="ENG | Entertainment",Catchy Comedy
+https://tv.extremeiptv.net/live/Marc/Marc/6509fe07-0eb8-49d1-a808-f4e4d9bc1e89.m3u
+#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy (Alt)" group-title="Z - 🚫 OFFLINE 🚫",Catchy Comedy (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.CBS.News.plex" tvg-name="CBS News 24/7" group-title="ENG | News",CBS News 24/7
+https://tv.extremeiptv.net/live/Marc/Marc/1c0dc2f5-d1a9-47b4-923f-3e20f3328d36.m3u
+#EXTINF:-1 tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-name="CBS Sports Golazo" group-title="ENG | Sports",CBS Sports Golazo
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.CBS.Sports.HQ.plex" tvg-name="CBS Sports HQ" group-title="ENG | Sports",CBS Sports HQ
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" group-title="ENG | Sports",CBS Sports Network
+http://example.com/stream
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge (D)" group-title="ENG | Entertainment",Charge (D)
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:-1 tvg-id="CHSN.Chicago.Sports.Network.us2" tvg-name="Chicago Sports Network" group-title="ENG | Sports",Chicago Sports Network
+http://example.com/stream
+#EXTINF:-1 tvg-id="CHSN.Plus.us2" tvg-name="Chicago Sports Network Plus" group-title="ENG | Sports",Chicago Sports Network Plus
+http://example.com/stream
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax (East)" group-title="ENG | Movies",Cinemax (East)
+https://tv.extremeiptv.net/live/Marc/Marc/4d6de268-314e-4817-8777-c0bb86ccab73.m3u
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax 5.1 (East)" group-title="ENG | Movies",Cinemax 5.1 (East)
+https://tv.extremeiptv.net/live/Marc/Marc/3976b4d1-0d3c-4deb-8fce-dce77e1b6bdb.m3u
+#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax (West)" group-title="ENG | Movies",Cinemax (West)
+https://tv.extremeiptv.net/live/Marc/Marc/dfcde4a0-1b85-421a-9565-49fc8aa04eec.m3u
+#EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-name="Cinemax Action (East)" group-title="ENG | Movies",Cinemax Action (East)
+https://tv.extremeiptv.net/live/Marc/Marc/e3dfc7da-9157-4e54-90f7-d15e0e00adc9.m3u
+#EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-name="Cinemax Action 5.1 (East)" group-title="ENG | Movies",Cinemax Action 5.1 (East)
+https://tv.extremeiptv.net/live/Marc/Marc/16265326-b2a8-4a9a-9380-5e67a05fd648.m3u
+#EXTINF:-1 tvg-id="Cinemax.Classics.us2" tvg-name="Cinemax Classics" group-title="ENG | Movies",Cinemax Classics
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.Classics.us2" tvg-name="Cinemax Classics 5.1" group-title="ENG | Movies",Cinemax Classics 5.1
+https://tv.extremeiptv.net/live/Marc/Marc/d6bea7db-da44-4c5a-93ac-8ddbe6087d67.m3u
+#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits" group-title="ENG | Movies",Cinemax Hits
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits 5.1" group-title="ENG | Movies",Cinemax Hits 5.1
+https://tv.extremeiptv.net/live/Marc/Marc/e9826df2-b84c-4868-82d6-12fffafaa10d.m3u
+#EXTINF:-1 tvg-id="Cinemax.Spanish.HD.us2" tvg-name="Cinemax Latino" group-title="ESP | Películas",Cinemax Latino
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.CINEVAULT.plex" tvg-name="CineVault" group-title="ENG | Westerns",CineVault
+https://tv.extremeiptv.net/live/Marc/Marc/50eed233-fc5d-42f6-b507-e9f3ba1718de.m3u
+#EXTINF:-1 tvg-id="Cinevault.Classics.us2" tvg-name="CineVault Classics" group-title="ENG | Westerns",CineVault Classics
+https://tv.extremeiptv.net/live/Marc/Marc/fb62edb4-44a7-4d4a-8c5f-71e8e0fc00df.m3u
+#EXTINF:-1 tvg-id="CINEVAULT.Westerns.us2" tvg-name="CineVault Westerns" group-title="ENG | Westerns",CineVault Westerns
+https://tv.extremeiptv.net/live/Marc/Marc/096b7518-41e5-4e73-9eca-743ab439b6ba.m3u
+#EXTINF:-1 tvg-id="Circle.Country.us2" tvg-name="Circle Country" group-title="ENG | Westerns",Circle Country
+https://tv.extremeiptv.net/live/Marc/Marc/4ca399dd-5380-4fdd-be96-603676b8aef9.m3u
+#EXTINF:-1 tvg-id="Cleo.TV.HD.us2" tvg-name="Cleo TV" group-title="ENG | Entertainment",Cleo TV
+https://tv.extremeiptv.net/live/Marc/Marc/a04eed63-3961-4704-a47b-8ddc45c25f5e.m3u
+#EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT (East)" group-title="ENG | Entertainment",CMT (East)
+https://tv.extremeiptv.net/live/Marc/Marc/94187c3c-fb88-426c-b8c9-b82470c0902f.m3u
+#EXTINF:-1 tvg-id="CMTPacific.us" tvg-name="CMT (West)" group-title="ENG | Entertainment",CMT (West)
+https://tv.extremeiptv.net/live/Marc/Marc/e532458e-0364-415e-8754-25d7c2141e07.m3u
+#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC" group-title="ENG | News",CNBC
+https://tv.extremeiptv.net/live/Marc/Marc/30a0db70-ef80-4b49-ac82-5811c60c7719.m3u
+#EXTINF:-1 tvg-id="CNBC.World.us2" tvg-name="CNBC World" group-title="ENG | News",CNBC World
+https://tv.extremeiptv.net/live/Marc/Marc/3e4ddc0d-3cb6-4755-b4a8-abe47221704b.m3u
+#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN" group-title="ENG | News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN (Alt)" group-title="ENG | News",CNN (Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/b651da0c-cb84-4c24-9c6f-19af79da1e9a.m3u
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central (East)" group-title="ENG | Entertainment",Comedy Central (East)
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central (East)(Alt)" group-title="ENG | Entertainment",Comedy Central (East)(Alt)
+http://nocable.cc:8080/91161088/91161088/7466
+#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-name="Comedy Central (West)" group-title="ENG | Entertainment",Comedy Central (West)
+https://tv.extremeiptv.net/live/Marc/Marc/4e072cee-e659-45fb-ad56-8256227097ef.m3u
+#EXTINF:-1 tvg-id="plex.tv.Comedy.Dynamics.plex" tvg-name="Comedy Dynamics" group-title="ENG | Entertainment",Comedy Dynamics
+https://tv.extremeiptv.net/live/Marc/Marc/ae50af8a-3a46-44f2-95a0-ed2fd88b8be9.m3u
+#EXTINF:-1 tvg-id="Comet.TV.us2" tvg-name="Comet (D)" group-title="ENG | Entertainment",Comet (D)
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" group-title="ENG | Entertainment",Cooking Channel
+https://tv.extremeiptv.net/live/Marc/Marc/4c66e1f5-73f2-47ce-b96d-c878109f670b.m3u
+#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV" group-title="ENG | News",Court TV
+http://nocable.cc:8080/91161088/91161088/21092
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi" group-title="ENG | Entertainment",Cozi
+http://nocable.cc:8080/91161088/91161088/11868
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation" group-title="ENG | Entertainment",Crime & Investigation
+https://tv.extremeiptv.net/live/Marc/Marc/cc0e1fe2-9a0f-42d8-bce4-45e5cfd785e7.m3u
+#EXTINF:-1 tvg-id="plex.tv.CW.Forever.plex" tvg-name="CW Forever" group-title="ENG | Entertainment",CW Forever
+https://tv.extremeiptv.net/live/Marc/Marc/6ca118d8-de7e-4351-83f9-e24a12c868bd.m3u
+#EXTINF:-1 tvg-id="plex.tv.CW.Gold.plex" tvg-name="CW Gold" group-title="ENG | Entertainment",CW Gold
+https://tv.extremeiptv.net/live/Marc/Marc/62fe8a0a-84c5-4d86-a660-1f4ffcf8c87d.m3u
+#EXTINF:-1 tvg-id="Dabl.Network.LLC.us2" tvg-name="Dabl" group-title="ENG | Entertainment",Dabl
+https://tv.extremeiptv.net/live/Marc/Marc/929b28dc-62fc-432b-b9a9-a6a2799b9c28.m3u
+#EXTINF:-1 tvg-id="Defy.TV.us2" tvg-name="Defy TV" group-title="Z - 🚫 OFFLINE 🚫",Defy TV
+http://example.com/stream
+#EXTINF:-1 tvg-id="Defy.TV.us2" tvg-name="Defy TV (Alt)" group-title="Z - 🚫 OFFLINE 🚫",Defy TV (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-name="Destination America" group-title="ENG | Entertainment",Destination America
+https://tv.extremeiptv.net/live/Marc/Marc/3e3d7df0-81c7-43eb-8bba-c0ca04fa8dd5.m3u
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Detroit.24/7.HDTV.us" tvg-name="Detroit Sportsnet" group-title="ENG | Sports",Detroit Sportsnet
+http://example.com/stream
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (East)" group-title="ENG | Entertainment",Discovery Channel (East)
+http://nocable.cc:8080/91161088/91161088/46720
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (East)(Alt)" group-title="ENG | Entertainment",Discovery Channel (East)(Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/c9e953ba-1aa5-48ea-9213-b998e2fb5f03.m3u
+#EXTINF:-1 tvg-id="DiscoveryChannelPacific.us" tvg-name="Discovery Channel (West)" group-title="ENG | Entertainment",Discovery Channel (West)
+https://tv.extremeiptv.net/live/Marc/Marc/1344e261-40bd-4521-a362-695402732f1d.m3u
+#EXTINF:-1 tvg-id="Discovery.en.Español.us2" tvg-name="Discovery Español " group-title="ESP | Entretenimiento",Discovery Español
+http://example.com/stream
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-name="Discovery Family" group-title="ENG | Entertainment",Discovery Family
+http://nocable.cc:8080/91161088/91161088/10538
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life" group-title="ENG | Entertainment",Discovery Life
+https://tv.extremeiptv.net/live/Marc/Marc/182d86af-f8c0-4a73-9bc0-5566da361257.m3u
+#EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" group-title="ENG | Entertainment",Discovery Science
+http://cord-cutter.net:8080/bn80NG/909467/20866
+#EXTINF:-1 tvg-id="Discovery.Turbo.TV.us2" tvg-name="Discovery Turbo" group-title="ENG | Sports",Discovery Turbo
+http://example.com/stream
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel (East)" group-title="ENG | Kids & Family",Disney Channel (East)
+http://nocable.cc:8080/91161088/91161088/2206
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel (East)(Alt)" group-title="ENG | Kids & Family",Disney Channel (East)(Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/1eb269df-0b52-456e-b025-559b327fc7eb.m3u
+#EXTINF:-1 tvg-id="Disney.Channel.(Pacific).us2" tvg-name="Disney Channel (West)" group-title="ENG | Kids & Family",Disney Channel (West)
+https://tv.extremeiptv.net/live/Marc/Marc/019e6d59-03d5-4208-bd49-cbde909e372a.m3u
+#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Junior (East)" group-title="ENG | Kids & Family",Disney Junior (East)
+https://tv.extremeiptv.net/live/Marc/Marc/42411168-2c37-4c3d-aba2-95cea9ad507b.m3u
+#EXTINF:-1 tvg-id="DisneyJuniorPacific.us" tvg-name="Disney Junior (West)" group-title="Z - 🚫 OFFLINE 🚫",Disney Junior (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD (East)" group-title="ENG | Kids & Family",Disney XD (East)
+http://nocable.cc:8080/91161088/91161088/75621
+#EXTINF:-1 tvg-id="plex.tv.Dove.plex" tvg-name="Dove" group-title="ENG | Entertainment",Dove
+https://tv.extremeiptv.net/live/Marc/Marc/4180d82b-90d0-4a31-bd9a-56ab3601a9c4.m3u
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! (East)" group-title="ENG | Entertainment",E! (East)
+https://tv.extremeiptv.net/live/Marc/Marc/7a913b3b-d30a-4670-ba6a-ec7975a141ce.m3u
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! (East)(Alt)" group-title="Z - 🚫 OFFLINE 🚫",E! (East)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="EEntertainmentTelevisionPacific.us" tvg-name="E! (West)" group-title="ENG | Entertainment",E! (West)
+https://tv.extremeiptv.net/live/Marc/Marc/94efce3b-4d06-4b2b-9c5c-c5a98ff88371.m3u
+#EXTINF:-1 tvg-id="plex.tv.Ebony.TV.by.Lionsgate.plex" tvg-name="Ebony TV " group-title="ENG | Entertainment",Ebony TV
+https://tv.extremeiptv.net/live/Marc/Marc/5bb50601-6e75-403d-9939-bac861e2b6b1.m3u
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN 1" group-title="ENG | Sports",ESPN 1
+http://example.com/stream
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN 1 (Alt1)" group-title="ENG | Sports",ESPN 1 (Alt1)
+http://example.com/stream
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN 1 (Alt2)" group-title="ENG | Sports",ESPN 1 (Alt2)
+http://example.com/stream
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2" group-title="ENG | Sports",ESPN 2
+http://example.com/stream
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2 (Alt1)" group-title="ENG | Sports",ESPN 2 (Alt1)
+http://example.com/stream
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2 (Alt2)" group-title="ENG | Sports",ESPN 2 (Alt2)
+http://example.com/stream
+#EXTINF:-1 tvg-id="ESPN8.The.Ocho.us2" tvg-name="ESPN 8 The Ocho" group-title="ENG | Sports",ESPN 8 The Ocho
+http://example.com/stream
+#EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" tvg-name="ESPN Deportes" group-title="ENG | Sports",ESPN Deportes
+http://example.com/stream
+#EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" tvg-name="ESPN Deportes (Alt)" group-title="ENG | Sports",ESPN Deportes (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-name="ESPN News" group-title="ENG | Sports",ESPN News
+http://example.com/stream
+#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-name="ESPN News (Alt)" group-title="ENG | Sports",ESPN News (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" group-title="ENG | Sports",ESPN U
+http://example.com/stream
+#EXTINF:-1 tvg-id="Fanduel.Racing.us" tvg-name="FanDuel Racing" group-title="ENG | Sports",FanDuel Racing
+http://example.com/stream
+#EXTINF:-1 tvg-id="FanDuel.TV.us" tvg-name="FanDuel TV" group-title="ENG | Sports",FanDuel TV
+http://example.com/stream
+#EXTINF:-1 tvg-id="Family.Entertainment.Television.us2" tvg-name="FETV" group-title="ENG | Entertainment",FETV
+https://tv.extremeiptv.net/live/Marc/Marc/0e179fbf-3622-4d21-880f-11bbf40f674b.m3u
+#EXTINF:-1 tvg-id="Family.Entertainment.Television.us2" tvg-name="FETV (Alt)" group-title="Z - 🚫 OFFLINE 🚫",FETV (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Fight.Network.us2" tvg-name="Fight Network " group-title="ENG | Sports",Fight Network
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.FilmRise.Western.plex" tvg-name="FilmRise Westerns" tvg-logo=" " group-title="ENG | Westerns",FilmRise Westerns
+https://tv.extremeiptv.net/live/Marc/Marc/95c6e4e2-efa4-427f-9211-0a9b7332299a.m3u
+#EXTINF:-1 tvg-id="Flix.us2" tvg-name="Flix (East)" group-title="ENG | Movies",Flix (East)
+https://tv.extremeiptv.net/live/Marc/Marc/964e43fb-d844-4aff-ad2d-a758549578a4.m3u
+#EXTINF:-1 tvg-id="FlixPacific.us" tvg-name="Flix (West)" group-title="ENG | Movies",Flix (West)
+https://tv.extremeiptv.net/live/Marc/Marc/dc8de434-453e-4729-b11c-adf4ab468080.m3u
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (East)" group-title="ENG | Entertainment",Food Network (East)
+http://nocable.cc:8080/91161088/91161088/7323
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (East)(Alt)" group-title="ENG | Entertainment",Food Network (East)(Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/dbb94d8f-00d6-4e7f-a27c-d89321fd9b19.m3u
+#EXTINF:-1 tvg-id="FoodNetworkPacific.us" tvg-name="Food Network (West)" group-title="ENG | Entertainment",Food Network (West)
+https://tv.extremeiptv.net/live/Marc/Marc/b75243a5-003a-49ec-8f83-3659a65d568d.m3u
+#EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business" group-title="ENG | News",Fox Business
+https://tv.extremeiptv.net/live/Marc/Marc/f2902338-e83e-42d0-b677-ab019b74c595.m3u
+#EXTINF:-1 tvg-id="Fox.Deportes.HD.us2" tvg-name="Fox Deportes" group-title="ESP | Deportes",Fox Deportes
+http://example.com/stream
+#EXTINF:-1 tvg-id="Fox.Live.Now.Dummy.us" tvg-name="FOX Live Now" group-title="ENG | News",FOX Live Now
+https://tv.extremeiptv.net/live/Marc/Marc/93bbed69-4120-419d-ae92-e29ef7f34fad.m3u
+#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="FOX News" group-title="ENG | News",FOX News
+http://nocable.cc:8080/91161088/91161088/1818
+#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="FOX News (Alt)" group-title="ENG | News",FOX News (Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/d8ca35cc-9fe1-49f1-8eca-cc2af1ea7ed6.m3u
+#EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-name="Fox Soccer Plus" group-title="ENG | Sports",Fox Soccer Plus
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOX.SOUL.us2" tvg-name="Fox Soul" group-title="ENG | Entertainment",Fox Soul
+https://tv.extremeiptv.net/live/Marc/Marc/28bb6085-d430-4b63-85c9-1c184496b8aa.m3u
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FOX Sports 1" group-title="ENG | Sports",FOX Sports 1
+http://example.com/stream
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FOX Sports 1 (Alt)" group-title="ENG | Sports",FOX Sports 1 ((Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FOX Sports 2" group-title="ENG | Sports",FOX Sports 2
+http://example.com/stream
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FOX Sports 2 ((Alt)" group-title="ENG | Sports",FOX Sports 2 ((Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-name="FOX Weather" group-title="ENG | News",FOX Weather
+https://tv.extremeiptv.net/live/Marc/Marc/915a0383-1239-453e-a700-1cdc8bcd7d61.m3u
+#EXTINF:-1 tvg-id="Free.Speech.TV.us2" tvg-name="Free Speech TV" group-title="ENG | News",Free Speech TV
+https://tv.extremeiptv.net/live/Marc/Marc/b74d332f-bfce-4c60-9ed8-168256c0651b.m3u
+#EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-name="FREEFORM (East)" group-title="ENG | Entertainment",FREEFORM (East)
+http://cord-cutter.net:8080/bn80NG/909467/13370
+#EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-name="FREEFORM (East)(Alt)" group-title="ENG | Entertainment",FREEFORM (East)(Alt)
+http://nocable.cc:8080/91161088/91161088/13370
+#EXTINF:-1 tvg-id="FreeformPacific.us" tvg-name="FREEFORM (West)" group-title="ENG | Entertainment",FREEFORM (West)
+https://tv.extremeiptv.net/live/Marc/Marc/2a29e161-2f1a-4ff3-93ba-c739cee8322b.m3u
+#EXTINF:-1 tvg-id="plex.tv.FTF.Sports.plex" tvg-name="FTF Sports" group-title="ENG | Sports",FTF Sports
+http://example.com/stream
+#EXTINF:-1 tvg-id="FuboMovies.us" tvg-name="Fubo Movie Network" group-title="ENG | Movies",Fubo Movie Network
+https://tv.extremeiptv.net/live/Marc/Marc/14f1fc1f-eab7-44c5-b927-6d709188fe6a.m3u
+#EXTINF:-1 tvg-id="plex.tv.Fubo.Sports.Network.plex" tvg-name="Fubo Sports Network" group-title="ENG | Sports",Fubo Sports Network
+http://example.com/stream
+#EXTINF:-1 tvg-id="Fun.Roads.us2" tvg-name="Fun Roads" group-title="ENG | Sports",Fun Roads
+http://example.com/stream
+#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse" group-title="ENG | Entertainment",Fuse
+https://tv.extremeiptv.net/live/Marc/Marc/5e29b925-ccc3-450f-8a28-ae0cff8e511e.m3u
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (East)" group-title="ENG | Entertainment",FX (East)
+http://nocable.cc:8080/91161088/91161088/46690
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (East)(Alt)" group-title="ENG | Entertainment",FX (East)(Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/0c435594-d0ff-4e1a-84c7-dcba9a9abf36.m3u
+#EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-name="FX (West)" group-title="ENG | Entertainment",FX (West)
+https://tv.extremeiptv.net/live/Marc/Marc/d1ddd27e-6d7a-482e-baa0-56a3285d0a81.m3u
+#EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-name="FX (West)(Alt)" group-title="ENG | Entertainment",FX (West)(Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/9f503ab2-11f5-482c-9184-db40c66d7cb2.m3u
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" group-title="ENG | Movies",FX Movie Channel
+https://tv.extremeiptv.net/live/Marc/Marc/8925c337-36e4-44fa-b665-fb3a251682b4.m3u
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel (Alt)" group-title="Z - 🚫 OFFLINE 🚫",FX Movie Channel (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX (East)" group-title="ENG | Entertainment",FXX (East)
+http://nocable.cc:8080/91161088/91161088/46699
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX (East)(Alt)" group-title="ENG | Entertainment",FXX (East)(Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/461f2156-b45f-49f2-a48e-03ad1c1673dc.m3u
+#EXTINF:-1 tvg-id="FXX.HD.(Pacific).us2" tvg-name="FXX (West)" group-title="ENG | Entertainment",FXX (West)
+https://tv.extremeiptv.net/live/Marc/Marc/4ed5bb5e-50ef-42bd-942a-cee0c70ea381.m3u
+#EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI (East)" group-title="ENG | Entertainment",FYI (East)
+https://tv.extremeiptv.net/live/Marc/Marc/2fbe51bd-c117-4663-a7e0-972ad3cb33ee.m3u
+#EXTINF:-1 tvg-id="FYIPacific.us" tvg-name="FYI (West)" group-title="ENG | Entertainment",FYI (West)
+https://tv.extremeiptv.net/live/Marc/Marc/30b727cd-1f7d-415e-8473-a1e95649e554.m3u
+#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central" group-title="ENG | Entertainment",Game Show Central
+https://tv.extremeiptv.net/live/Marc/Marc/2ca00a5e-26b4-4270-b4a7-9cf400c2b212.m3u
+#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network (East)" group-title="ENG | Entertainment",Game Show Network (East)
+http://nocable.cc:8080/91161088/91161088/120633
+#EXTINF:-1 tvg-id="GameShowNetworkPacific.us" tvg-name="Game Show Network (West)" group-title="ENG | Entertainment",Game Show Network (West)
+https://tv.extremeiptv.net/live/Marc/Marc/e8ac80ff-6336-4b8b-a4a0-b4e1990ab40c.m3u
+#EXTINF:-1 tvg-id="GOL.TV.us2" tvg-name="GOL TV (ENG)" group-title="ENG | Sports",GOL TV (ENG)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Golf.Channel.HD.us2" tvg-name="Golf Channel" group-title="ENG | Sports",Golf Channel
+http://example.com/stream
+#EXTINF:-1 tvg-id="Golf.Channel.HD.us2" tvg-name="Golf Channel (Alt)" group-title="ENG | Sports",Golf Channel (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Great.American.Adventures.us2" tvg-name="Great American Adventures" group-title="ENG | Entertainment",Great American Adventures
+https://tv.extremeiptv.net/live/Marc/Marc/5a036581-b461-4c71-b664-bfffd66923cd.m3u
+#EXTINF:-1 tvg-id="Great.American.Faith.and.Living.us2" tvg-name="Great American Faith & Living" group-title="Z - 🚫 OFFLINE 🚫",Great American Faith & Living
+http://example.com/stream
+#EXTINF:-1 tvg-id="Great.American.Family.HD.us2" tvg-name="Great American Family" group-title="ENG | Entertainment",Great American Family
+https://tv.extremeiptv.net/live/Marc/Marc/be4c51c6-1e68-474b-8d70-298f0a5faa5a.m3u
+#EXTINF:-1 tvg-id="Great.American.Family.HD.us2" tvg-name="Great American Family (Alt)" group-title="Z - 🚫 OFFLINE 🚫",Great American Family (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="GreatEntertainmentTelevision.us" tvg-name="Great TV" group-title="ENG | Entertainment",Great TV
+http://nocable.cc:8080/91161088/91161088/18366
+#EXTINF:-1 tvg-id="GreatEntertainmentTelevision.us" tvg-name="Great TV (Alt)" group-title="ENG | Entertainment",Great TV (Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/8abfa90d-94af-4508-8b34-a5779453396e.m3u
+#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV" group-title="ENG | Westerns",Grit TV
+https://tv.extremeiptv.net/live/Marc/Marc/4d8f0cc1-869d-4d9b-8a71-4ceaf30237e3.m3u
+#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV (Alt)" group-title="Z - 🚫 OFFLINE 🚫",Grit TV (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.Grit.Xtra.plex" tvg-name="Grit Xtra" group-title="ENG | Westerns",Grit Xtra
+https://tv.extremeiptv.net/live/Marc/Marc/89b345d2-3375-43f0-80c7-dcda8203d6cb.m3u
+#EXTINF:-1 tvg-id="plex.tv.Grit.Xtra.plex" tvg-name="Grit Xtra (Alt)" group-title="Z - 🚫 OFFLINE 🚫",Grit Xtra (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark (East)" group-title="ENG | Entertainment",Hallmark (East)
+https://tv.extremeiptv.net/live/Marc/Marc/fa9e0ec4-fbba-4bd9-ae67-8aab083092f7.m3u
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark (East)(Alt)" group-title="Z - 🚫 OFFLINE 🚫",Hallmark (East)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HallmarkChannelPacific.us" tvg-name="Hallmark (West)" group-title="ENG | Entertainment",Hallmark (West)
+https://tv.extremeiptv.net/live/Marc/Marc/209490a2-300f-4e1f-ac93-5ce79ceae89e.m3u
+#EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Family" group-title="ENG | Entertainment",Hallmark Family
+https://tv.extremeiptv.net/live/Marc/Marc/c053ead8-0002-45f8-af18-dc83c8112d69.m3u
+#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Movies & Mysteries" group-title="ENG | Entertainment",Hallmark Movies & Mysteries
+https://tv.extremeiptv.net/live/Marc/Marc/6d6aa8ec-038b-4d28-aa91-c4c941b291b3.m3u
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO (East)" group-title="ENG | Movies",HBO (East)
+http://nocable.cc:8080/91161088/91161088/46713
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO (East)(Alt)" group-title="ENG | Movies",HBO (East)(Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/9ea36fdb-d8d8-499f-bc7b-de4464470604.m3u
+#EXTINF:-1 tvg-id="HBO.(Pacific).us2" tvg-name="HBO (West)" group-title="ENG | Movies",HBO (West)
+https://tv.extremeiptv.net/live/Marc/Marc/90ac6b73-525f-4ffd-b941-e1f7346ab208.m3u
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy (East)" group-title="ENG | Movies",HBO Comedy (East)
+https://tv.extremeiptv.net/live/Marc/Marc/877ff689-ad38-4394-874f-923218f44875.m3u
+#EXTINF:-1 tvg-id="HBOComedyPacific.us" tvg-name="HBO Comedy (West)" group-title="ENG | Movies",HBO Comedy (West)
+https://tv.extremeiptv.net/live/Marc/Marc/26d2b96f-72b5-4546-b066-096608795e47.m3u
+#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-name="HBO Drama (East) " group-title="ENG | Movies",HBO Drama (East)
+https://tv.extremeiptv.net/live/Marc/Marc/6933f413-95d4-4659-97c1-f96c23e92509.m3u
+#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-name="HBO Drama (East)(Alt)" group-title="Z - 🚫 OFFLINE 🚫",HBO Drama (East)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HBODramaPacific.us" tvg-name="HBO Drama (West) " group-title="Z - 🚫 OFFLINE 🚫",HBO Drama (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-name="HBO Hits (East)" group-title="ENG | Movies",HBO Hits (East)
+https://tv.extremeiptv.net/live/Marc/Marc/dbf582d9-abac-4de0-bba2-008372939697.m3u
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-name="HBO Hits (East)(Alt)" group-title="Z - 🚫 OFFLINE 🚫",HBO Hits (East)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HBOHitsPacific.us" tvg-name="HBO Hits (West)" group-title="ENG | Movies",HBO Hits (West)
+https://tv.extremeiptv.net/live/Marc/Marc/17728c0d-8ed5-44f6-b105-8dc6559836a8.m3u
+#EXTINF:-1 tvg-id="HBO.Latino.HD.us2" tvg-name="HBO Latino" group-title="ESP | Películas",HBO Latino
+http://example.com/stream
+#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="HBO Movies (East)" group-title="ENG | Movies",HBO Movies (East)
+https://tv.extremeiptv.net/live/Marc/Marc/d1c294c9-c56c-44f0-9851-05f17300e9ef.m3u
+#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="HBO Movies (East)(Alt)" group-title="Z - 🚫 OFFLINE 🚫",HBO Movies (East)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HBOMoviesPacific.us" tvg-name="HBO Movies (West)" group-title="ENG | Movies",HBO Movies (West)
+https://tv.extremeiptv.net/live/Marc/Marc/18180453-c658-4769-a573-b9a7b20b4818.m3u
+#EXTINF:-1 tvg-id="HDNet.Movies.us2" tvg-name="HD Net Movies" group-title="ENG | Movies",HD Net Movies
+https://tv.extremeiptv.net/live/Marc/Marc/da2cd190-9c6e-45c3-8c02-786178a271cf.m3u
+#EXTINF:-1 tvg-id="HDNet.Movies.us2" tvg-name="HDNet Movies (Alt)" group-title="Z - 🚫 OFFLINE 🚫",HDNet Movies (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="Heroes & Icons (East)" group-title="ENG | Entertainment",Heroes & Icons (East)
+https://tv.extremeiptv.net/live/Marc/Marc/31051179-d8c7-49b9-8517-d2f315f8ab1c.m3u
+#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="Heroes & Icons (East)(Alt)" group-title="Z - 🚫 OFFLINE 🚫",Heroes & Icons (East)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HeroesAndIconsWest.us" tvg-name="Heroes & Icons (West)" group-title="Z - 🚫 OFFLINE 🚫",Heroes & Icons (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HeroesAndIconsWest.us" tvg-name="Heroes & Icons (West)(Alt)" group-title="Z - 🚫 OFFLINE 🚫",Heroes & Icons (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.HerSphere.by.Lionsgate.plex" tvg-name="HerSphere" group-title="ENG | Entertainment",HerSphere
+https://tv.extremeiptv.net/live/Marc/Marc/23d5148a-bf76-4e67-8bb7-52547b90da59.m3u
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV (East)" group-title="ENG | Entertainment",HGTV (East)
+https://tv.extremeiptv.net/live/Marc/Marc/42001b5c-70d9-4db3-95b5-f4ed2cfd116c.m3u
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV (East)(Alt)" group-title="Z - 🚫 OFFLINE 🚫",HGTV (East)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.(Pacific).us2" tvg-name="HGTV (West)" group-title="ENG | Entertainment",HGTV (West)
+https://tv.extremeiptv.net/live/Marc/Marc/41e6488f-d6b1-4923-8720-b0b762249e5f.m3u
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History Channel (East)" group-title="ENG | Entertainment",History Channel (East)
+http://nocable.cc:8080/91161088/91161088/15017
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History Channel (East)(Alt)" group-title="ENG | Entertainment",History Channel (East)(Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/8c50c645-0696-49f5-90c8-14603fc24c6b.m3u
+#EXTINF:-1 tvg-id="HistoryChannelPacific.us" tvg-name="History Channel (West)" group-title="ENG | Entertainment",History Channel (West)
+https://tv.extremeiptv.net/live/Marc/Marc/0e9d5edb-0b9d-4fb8-8d13-d28ebb1bebcb.m3u
+#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN" group-title="ENG | Entertainment",HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC (East)" group-title="ENG | Entertainment",IFC (East)
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1 tvg-id="IFCPacific.us" tvg-name="IFC (West)" group-title="Z - 🚫 OFFLINE 🚫",IFC (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="IndiePlex.HD.us2" tvg-name="IndiePlex (East)" group-title="ENG | Movies",IndiePlex (East)
+https://tv.extremeiptv.net/live/Marc/Marc/a479c887-d10e-4a66-b40b-0f54977ceb9b.m3u
+#EXTINF:-1 tvg-id="IndiePlexPacific.us" tvg-name="IndiePlex (West)" group-title="Z - 🚫 OFFLINE 🚫",IndiePlex (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="InfoWars.us" tvg-name="InfoWars Network" group-title="ENG | News",InfoWars Network
+https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP (East)" group-title="ENG | Entertainment",INSP (East)
+https://tv.extremeiptv.net/live/Marc/Marc/605c5436-1b2d-4e08-9ff0-527caee267e6.m3u
+#EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP (East)(Alt1)" group-title="Z - 🚫 OFFLINE 🚫",INSP (East)(Alt1)
+http://example.com/stream
+#EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP (East)(Alt2)" group-title="ENG | Westerns",INSP (East)(Alt2)
+https://tv.extremeiptv.net/live/Marc/Marc/605c5436-1b2d-4e08-9ff0-527caee267e6.m3u
+#EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP (East)(Alt3)" group-title="Z - 🚫 OFFLINE 🚫",INSP (East)(Alt3)
+http://example.com/stream
+#EXTINF:-1 tvg-id="InspPacific.us" tvg-name="INSP (West)" group-title="Z - 🚫 OFFLINE 🚫",INSP (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="InspPacific.us" tvg-name="INSP (West)(Alt1)" group-title="Z - 🚫 OFFLINE 🚫",INSP (West)(Alt1)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery (East)" group-title="ENG | Entertainment",Investigation Discovery (East)
+https://tv.extremeiptv.net/live/Marc/Marc/4cd37d15-a451-4643-b7aa-69722c77ac0e.m3u
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.(Pacific).us2" tvg-name="Investigation Discovery (West)" group-title="ENG | Entertainment",Investigation Discovery (West)
+https://tv.extremeiptv.net/live/Marc/Marc/de95ec7d-0a2b-4a66-89d2-865a66398660.m3u
+#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="Ion (Television East)" group-title="ENG | Entertainment",Ion (Television East)
+http://nocable.cc:8080/91161088/91161088/9297
+#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="Ion (Television East)(Alt)" group-title="Z - 🚫 OFFLINE 🚫",Ion (Television East)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="IONTVPacific.us" tvg-name="Ion (Television West)" group-title="ENG | Entertainment",Ion (Television West)
+https://tv.extremeiptv.net/live/Marc/Marc/99998bab-01d8-45ae-8c97-d05c1b8b7954.m3u
+#EXTINF:-1 tvg-id="IONTVPacific.us" tvg-name="Ion (Television West)(Alt)" group-title="Z - 🚫 OFFLINE 🚫",Ion (Television West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="ION.Mystery.us2" tvg-name="Ion Mystery" group-title="ENG | Entertainment",Ion Mystery
+https://tv.extremeiptv.net/live/Marc/Marc/442e45b7-bbd6-4887-a354-a9ccc3cc63a3.m3u
+#EXTINF:-1 tvg-id="ION.Mystery.us2" tvg-name="Ion Mystery (Alt)" group-title="Z - 🚫 OFFLINE 🚫",Ion Mystery (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="Ion Plus" group-title="ENG | Entertainment",Ion Plus
+https://tv.extremeiptv.net/live/Marc/Marc/20549221-79f9-44e2-9c76-8e8277d5185c.m3u
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="Ion Plus (Alt)" group-title="Z - 🚫 OFFLINE 🚫",Ion Plus (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Justice.Central.HD.us2" tvg-name="Justice Central" group-title="ENG | Entertainment",Justice Central
+https://tv.extremeiptv.net/live/Marc/Marc/21abfc41-04ce-41c9-9104-69847393ed49.m3u
+#EXTINF:-1 tvg-id="Laff.us2" tvg-name="Laff" group-title="ENG | Entertainment",Laff
+https://tv.extremeiptv.net/live/Marc/Marc/e5fe3bd7-42cf-402f-8751-62d5ec79895d.m3u
+#EXTINF:-1 tvg-id="plex.tv.Laff.More.plex" tvg-name="Laff More" group-title="ENG | Entertainment",Laff More
+https://tv.extremeiptv.net/live/Marc/Marc/004cf6d9-e43e-440c-8503-f56b1fce35ab.m3u
+#EXTINF:-1 tvg-id="Law.and.Crime.us2" tvg-name="Law & Crime" group-title="Z - 🚫 OFFLINE 🚫",Law & Crime
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.Lawless.plex" tvg-name="Lawless" group-title="ENG | Entertainment",Lawless
+https://tv.extremeiptv.net/live/Marc/Marc/63473d07-63e1-4048-af54-19cc58280d82.m3u
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-name="Lifetime (East)" group-title="ENG | Entertainment",Lifetime (East)
+https://tv.extremeiptv.net/live/Marc/Marc/7fd0586e-ecab-4d74-87dc-f93a6154f5f6.m3u
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-name="Lifetime (East)(Alt)" group-title="Z - 🚫 OFFLINE 🚫",Lifetime (East)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="LifetimePacific.us" tvg-name="Lifetime (West)" group-title="ENG | Entertainment",Lifetime (West)
+https://tv.extremeiptv.net/live/Marc/Marc/5bfaf53e-9928-4281-bcc5-e461e9d49989.m3u
+#EXTINF:-1 tvg-id="plex.tv.Lifetime.Movie.Favorites.plex" tvg-name="Lifetime Movie Favorites" group-title="ENG | Movies",Lifetime Movie Favorites
+https://tv.extremeiptv.net/live/Marc/Marc/59ec5627-b26d-4ba2-9a1c-ae392b6a6302.m3u
+#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-name="Lifetime Movies (East)" group-title="ENG | Movies",Lifetime Movies (East)
+https://tv.extremeiptv.net/live/Marc/Marc/4c611bd8-e732-4d1c-a809-5d47eb5048a4.m3u
+#EXTINF:-1 tvg-id="LifetimeMovieNetworkPacific.us" tvg-name="Lifetime Movies (West)" group-title="ENG | Movies",Lifetime Movies (West)
+https://tv.extremeiptv.net/live/Marc/Marc/ecdab40f-e9ff-407e-9d9c-31b389208695.m3u
+#EXTINF:-1 tvg-id="plex.tv.Lifetime.Movies.Love.&amp;.Drama.plex" tvg-name="Lifetime Movies Love & Drama" group-title="ENG | Movies",Lifetime Movies Love & Drama
+https://tv.extremeiptv.net/live/Marc/Marc/4259c81b-d369-4a0b-a9d8-aafef382c855.m3u
+#EXTINF:-1 tvg-id="Lifetime.Real.Women.us2" tvg-name="Lifetime Real Women" group-title="ENG | Entertainment",Lifetime Real Women
+https://tv.extremeiptv.net/live/Marc/Marc/74535316-fda5-4114-8f98-dcd674591da2.m3u
+#EXTINF:-1 tvg-id="Logo.us2" tvg-name="Logo (East)" group-title="ENG | Entertainment",Logo (East)
+https://tv.extremeiptv.net/live/Marc/Marc/2dbbc353-6013-494c-8dd1-f6fae40e7fb8.m3u
+#EXTINF:-1 tvg-id="LogoPacific.us" tvg-name="Logo (West)" group-title="ENG | Entertainment",Logo (West)
+https://tv.extremeiptv.net/live/Marc/Marc/1a54d45a-a13a-4fe7-b920-dd1b38ee01bf.m3u
+#EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-name="Magnolia Network (East)" group-title="ENG | Entertainment",Magnolia Network (East)
+https://tv.extremeiptv.net/live/Marc/Marc/8f517213-cbbb-4821-890c-9e7676917f57.m3u
+#EXTINF:-1 tvg-id="MagnoliaNetworkPacific.us" tvg-name="Magnolia Network (West)" group-title="Z - 🚫 OFFLINE 🚫",Magnolia Network (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" tvg-name="Marquee Sports Network" group-title="ENG | Sports",Marquee Sports Network
+http://example.com/stream
+#EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" tvg-name="Marquee Sports Network (Alt)" group-title="ENG | Sports",Marquee Sports Network (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MASN.-.Mid.Atlantic.Sports.Network.us2" tvg-name="MASN 1" group-title="ENG | Sports",MASN 1
+http://example.com/stream
+#EXTINF:-1 tvg-id="MASN.-.Mid.Atlantic.Sports.Network.us2" tvg-name="MASN 1 (Alt)" group-title="ENG | Sports",MASN 1 (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MASN2.-.Mid.Atlantic.Sports.Network.2.HD.us2" tvg-name="MASN 2" group-title="ENG | Sports",MASN 2
+http://example.com/stream
+#EXTINF:-1 tvg-id="MASN2.-.Mid.Atlantic.Sports.Network.2.HD.us2" tvg-name="MASN 2 (Alt)" group-title="ENG | Sports",MASN 2 (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="METV" group-title="ENG | Entertainment",METV
+https://tv.extremeiptv.net/live/Marc/Marc/711f6c6b-22cc-46e8-bb22-268f25b5147e.m3u
+#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="METV (Alt)" group-title="Z - 🚫 OFFLINE 🚫",METV (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-name="METV Toons" group-title="ENG | Kids & Family",METV Toons
+https://tv.extremeiptv.net/live/Marc/Marc/bd80a1dd-897c-472a-99aa-e2fd99c10ed2.m3u
+#EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-name="METV Toons (Alt)" group-title="Z - 🚫 OFFLINE 🚫",METV Toons (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MeTV.Plus.us2" tvg-name="METV+" group-title="ENG | Entertainment",METV+
+https://tv.extremeiptv.net/live/Marc/Marc/963e594a-3a6e-43a9-8b07-a49524f1fa95.m3u
+#EXTINF:-1 tvg-id="MeTV.Plus.us2" tvg-name="METV+ (Alt)" group-title="Z - 🚫 OFFLINE 🚫",METV+ (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MGM.Presents.us2" tvg-name="MGM Presents" group-title="ENG | Movies",MGM Presents
+https://tv.extremeiptv.net/live/Marc/Marc/9b092f9f-f6e1-4919-b2cb-8dbaac8cc2e6.m3u
+#EXTINF:-1 tvg-id="MGM.Presents.Action.us2" tvg-name="MGM Presents: Action " group-title="ENG | Movies",MGM Presents: Action
+https://tv.extremeiptv.net/live/Marc/Marc/796b5bdf-152a-43f6-a0c2-82545dcc3653.m3u
+#EXTINF:-1 tvg-id="MGM.Presents:.Horror.us2" tvg-name="MGM Presents: Horror" group-title="ENG | Movies",MGM Presents: Horror
+https://tv.extremeiptv.net/live/Marc/Marc/90082f37-112b-4aab-ba93-8ea75bf41f89.m3u
+#EXTINF:-1 tvg-id="MGM.Presents:.Westerns.us2" tvg-name="MGM Presents: Westerns" group-title="ENG | Movies",MGM Presents: Westerns
+https://tv.extremeiptv.net/live/Marc/Marc/8861c012-d73d-4bce-89f7-200264a9f65f.m3u
+#EXTINF:-1 tvg-id="MGM.Presents:.Westerns.us2" tvg-name="MGM Presents: Westerns (Alt)" group-title="ENG | Westerns",MGM Presents: Westerns (Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/8861c012-d73d-4bce-89f7-200264a9f65f.m3u
+#EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-name="MGM+" group-title="ENG | Movies",MGM+
+https://tv.extremeiptv.net/live/Marc/Marc/0c0b9ff6-a8d6-47bd-95ea-e5c08a9c450e.m3u
+#EXTINF:-1 tvg-id="MGM+.Drive-In.us2" tvg-name="MGM+ Drive-In" group-title="ENG | Movies",MGM+ Drive-In
+https://tv.extremeiptv.net/live/Marc/Marc/e1e8332d-61ba-42db-8d0e-550b9f153921.m3u
+#EXTINF:-1 tvg-id="MGM+.Hits.HD.us2" tvg-name="MGM+ Hits" group-title="ENG | Movies",MGM+ Hits
+https://tv.extremeiptv.net/live/Marc/Marc/2aa33ccc-ad96-4906-afa5-a27d11a57011.m3u
+#EXTINF:-1 tvg-id="MGM+.Marquee.HD.us2" tvg-name="MGM+ Marquee" group-title="ENG | Movies",MGM+ Marquee
+https://tv.extremeiptv.net/live/Marc/Marc/be470601-d12f-4a63-a34f-9b3a1ecda713.m3u
+#EXTINF:-1 tvg-id="Military.History.Channel.us2" tvg-name="Military History" group-title="ENG | Entertainment",Military History
+https://tv.extremeiptv.net/live/Marc/Marc/f19f6668-62b2-4afa-8d91-fdadd4bde8c3.m3u
+#EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" group-title="ENG | Sports",MLB Network
+http://example.com/stream
+#EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network (Alt)" group-title="ENG | Sports",MLB Network (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.us2" tvg-name="MLB StrikeZone" group-title="ENG | Sports",MLB StrikeZone
+http://example.com/stream
+#EXTINF:-1 tvg-id="Monumental.Sports.Network.HD.us2" tvg-name="Monumental Sports 1" group-title="ENG | Sports",Monumental Sports 1
+http://example.com/stream
+#EXTINF:-1 tvg-id="Monumental.Sports.Network.HD.us2" tvg-name="Monumental Sports 1 (Alt)" group-title="ENG | Sports",Monumental Sports 1 (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Monumental.Sports.Network.2.HD.us2" tvg-name="Monumental Sports 2" group-title="ENG | Sports",Monumental Sports 2
+http://example.com/stream
+#EXTINF:-1 tvg-id="Monumental.Sports.Network.2.HD.us2" tvg-name="Monumental Sports 2 (Alt)" group-title="ENG | Sports",Monumental Sports 2 (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MoviePlex.HD.us2" tvg-name="MoviePlex (East)" group-title="ENG | Movies",MoviePlex (East)
+https://tv.extremeiptv.net/live/Marc/Marc/505725ef-277e-4c97-a0ac-edc1e83acd86.m3u
+#EXTINF:-1 tvg-id="MoviePlexPacific.us" tvg-name="MoviePlex (West)" group-title="Z - 🚫 OFFLINE 🚫",MoviePlex (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Movies!.us2" tvg-name="MOVIES!" group-title="ENG | Movies",MOVIES!
+http://example.com/stream
+#EXTINF:-1 tvg-id="Movies!.us2" tvg-name="MOVIES! (Alt)" group-title="Z - 🚫 OFFLINE 🚫",MOVIES! (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.MOVIESPHERE.plex" tvg-name="Moviesphere" group-title="ENG | Movies",Moviesphere
+https://tv.extremeiptv.net/live/Marc/Marc/df1a8b29-3f8d-4ddc-a7fc-41dcfd07901c.m3u
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold" group-title="Z - 🚫 OFFLINE 🚫",MovieSphere Gold
+http://example.com/stream
+#EXTINF:-1 tvg-id="MS.NOW.HD.us2" tvg-name="MS Now (MSNBC) " group-title="ENG | News",MS Now (MSNBC)
+http://cord-cutter.net:8080/bn80NG/909467/9296
+#EXTINF:-1 tvg-id="MSG.National.us2" tvg-name="MSG 1" group-title="ENG | Sports",MSG 1
+http://example.com/stream
+#EXTINF:-1 tvg-id="MSG2.HD.us2" tvg-name="MSG 2" group-title="ENG | Sports",MSG 2
+http://example.com/stream
+#EXTINF:-1 tvg-id="MSG.Sportsnet.2.HD.us2" tvg-name="MSG Sportsnet 2" group-title="ENG | Sports",MSG Sportsnet 2
+http://example.com/stream
+#EXTINF:-1 tvg-id="MSG.SportsZone.us2" tvg-name="MSG SportsZone 1" group-title="ENG | Sports",MSG SportsZone 1
+http://example.com/stream
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV (East)" group-title="Z - 🚫 OFFLINE 🚫",MTV (East)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV (East)(Alt)" group-title="Z - 🚫 OFFLINE 🚫",MTV (East)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" tvg-name="MTV (West)" group-title="ENG | Entertainment",MTV (West)
+https://tv.extremeiptv.net/live/Marc/Marc/4d4144c4-158c-43a7-b2cf-2684392ab3e1.m3u
+#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-name="MTV 2 (East)" group-title="Z - 🚫 OFFLINE 🚫",MTV 2 (East)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MTV2Pacific.us" tvg-name="MTV 2 (West)" group-title="ENG | Entertainment",MTV 2 (West)
+https://tv.extremeiptv.net/live/Marc/Marc/38c4ee9f-3985-402a-a8db-4dcb50effe8d.m3u
+#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic" group-title="Music",MTV Classic
+http://example.com/stream
+#EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-name="MTV Live" group-title="Music",MTV Live
+http://example.com/stream
+#EXTINF:-1 tvg-id="mtv-U.us2" tvg-name="MTV U" group-title="Z - 🚫 OFFLINE 🚫",MTV U
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.MyTime.Movie.Network.plex" tvg-name="MyTime Movie Network " group-title="ENG | Movies",MyTime Movie Network
+https://tv.extremeiptv.net/live/Marc/Marc/b2e91842-0598-4e57-baec-e0988c851624.m3u
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="NatGeo (East)" group-title="ENG | Entertainment",NatGeo (East)
+https://tv.extremeiptv.net/live/Marc/Marc/5056a007-201f-42cd-b007-20dbcfebb61c.m3u
+#EXTINF:-1 tvg-id="National.Geographic.HD.(Pacific).us2" tvg-name="NatGeo (West)" group-title="ENG | Entertainment",NatGeo (West)
+https://tv.extremeiptv.net/live/Marc/Marc/c7ed454a-724d-4ae8-a797-b586d0aa9afa.m3u
+#EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" group-title="ENG | Sports",NBA TV
+http://example.com/stream
+#EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV (Alt)" group-title="ENG | Sports",NBA TV (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.HD.us2" tvg-name="NBC Sports Bay Area" group-title="ENG | Sports",NBC Sports Bay Area
+http://example.com/stream
+#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.Plus.us2" tvg-name="NBC Sports Bay Area Plus" group-title="ENG | Sports",NBC Sports Bay Area Plus
+http://example.com/stream
+#EXTINF:-1 tvg-id="NBC.Sports.Boston.HD.us2" tvg-name="NBC Sports Boston" group-title="ENG | Sports",NBC Sports Boston
+http://example.com/stream
+#EXTINF:-1 tvg-id="NBC.Sports.California.SAT.us2" tvg-name="NBC Sports California" group-title="ENG | Sports",NBC Sports California
+http://example.com/stream
+#EXTINF:-1 tvg-id="NBC.Sports.California.Plus.us2" tvg-name="NBC Sports California Plus" group-title="ENG | Sports",NBC Sports California Plus
+http://example.com/stream
+#EXTINF:-1 tvg-id="NBC.Sports.HD.1.us2" tvg-name="NBC Sports Network" group-title="ENG | Sports",NBC Sports Network
+http://example.com/stream
+#EXTINF:-1 tvg-id="NBC.Sports.Now.us2" tvg-name="NBC Sports Now" group-title="ENG | Sports",NBC Sports Now
+http://example.com/stream
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" group-title="ENG | Sports",NBC Sports Philadelphia
+http://example.com/stream
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.Plus.us2" tvg-name="NBC Sports Philadelphia Plus" group-title="ENG | Sports",NBC Sports Philadelphia Plus
+http://example.com/stream
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-name="NESN" group-title="ENG | Sports",NESN
+http://example.com/stream
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-name="NESN (Alt)" group-title="ENG | Sports",NESN (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.NESN.NATION.plex" tvg-name="NESN Nation" group-title="ENG | Sports",NESN Nation
+http://example.com/stream
+#EXTINF:-1 tvg-id="NESN+.New.England.Sports.Network.Plus.us2" tvg-name="NESN Plus" group-title="ENG | Sports",NESN Plus
+http://example.com/stream
+#EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax" group-title="ENG | News",Newsmax
+https://tv.extremeiptv.net/live/Marc/Marc/f05a2fc2-f8ed-4ee8-99d0-7aca26566615.m3u
+#EXTINF:-1 tvg-id="plex.tv.Newsmax2.plex" tvg-name="Newsmax2" group-title="ENG | News",Newsmax2
+https://tv.extremeiptv.net/live/Marc/Marc/cf0edbb8-fcce-4083-b3c1-7faf5d2dae07.m3u
+#EXTINF:-1 tvg-id="NewsNation.us2" tvg-name="NewsNation" group-title="ENG | News",NewsNation
+http://nocable.cc:8080/91161088/91161088/161450
+#EXTINF:-1 tvg-id="Next.Level.Sports.HD.us2" tvg-name="Next Level Sports" group-title="ENG | Sports",Next Level Sports
+http://example.com/stream
+#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" group-title="ENG | Sports",NFL Network
+http://example.com/stream
+#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network (Alt)" group-title="ENG | Sports",NFL Network (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Redzone" group-title="ENG | Sports",NFL Redzone
+http://example.com/stream
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone (Alt)" group-title="ENG | Sports",NFL RedZone (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-name="NHL Network" group-title="ENG | Sports",NHL Network
+http://example.com/stream
+#EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-name="NHL Network (Alt)" group-title="ENG | Sports",NHL Network (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr. (East)" group-title="ENG | Kids & Family",Nick Jr. (East)
+https://tv.extremeiptv.net/live/Marc/Marc/b3e853b8-1cfc-4a99-9fb2-ea2eb727d2d9.m3u
+#EXTINF:-1 tvg-id="NickJrPacific.us" tvg-name="Nick Jr. (West)" group-title="ENG | Kids & Family",Nick Jr. (West)
+https://tv.extremeiptv.net/live/Marc/Marc/d29798a6-55bd-4e7a-a747-304d32a381f5.m3u
+#EXTINF:-1 tvg-id="Nick.Music.us2" tvg-name="Nick Music" group-title="ENG | Kids & Family",Nick Music
+https://tv.extremeiptv.net/live/Marc/Marc/21a8db20-7a18-4630-9b21-adb812c8a2f1.m3u
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon/TV Land (East)" group-title="ENG | Entertainment",Nickelodeon/TV Land (East)
+http://nocable.cc:8080/91161088/91161088/38
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon/TV Land (East)(Alt)" group-title="ENG | Entertainment",Nickelodeon/TV Land (East)(Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/b483cb18-853a-4082-9966-c104e7ceb931.m3u
+#EXTINF:-1 tvg-id="Nickelodeon.(Pacific).us2" tvg-name="Nickelodeon/TV Land (West)" group-title="ENG | Entertainment",Nickelodeon/TV Land (West)
+https://tv.extremeiptv.net/live/Marc/Marc/68f85cd8-40e8-4c26-8686-c4025c124d02.m3u
+#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="Nicktoons (East)" group-title="ENG | Kids & Family",Nicktoons (East)
+http://nocable.cc:8080/91161088/91161088/36
+#EXTINF:-1 tvg-id="NickToonsPacific.us" tvg-name="Nicktoons (West)" group-title="ENG | Kids & Family",Nicktoons (West)
+https://tv.extremeiptv.net/live/Marc/Marc/b5cba18d-17c2-4d68-9a58-4382a8a2a151.m3u
+#EXTINF:-1 tvg-id="One.America.News.Network.HD.us2" tvg-name="OAN - One America Network" group-title="ENG | News",OAN - One America Network
+https://tv.extremeiptv.net/live/Marc/Marc/66ef142a-a730-4e01-b617-da119672579a.m3u
+#EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-name="Outdoor Channel" group-title="ENG | Sports",Outdoor Channel
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.Outlaw.plex" tvg-name="Outlaw" group-title="ENG | Westerns",Outlaw
+https://tv.extremeiptv.net/live/Marc/Marc/3803e9cf-8853-48ba-88b6-6c675a0f663b.m3u
+#EXTINF:-1 tvg-id="Outside.Television.HD.us2" tvg-name="Outside TV" group-title="ENG | Sports",Outside TV
+http://example.com/stream
+#EXTINF:-1 tvg-id="Ovation.HD.us2" tvg-name="Ovation" group-title="ENG | Entertainment",Ovation
+https://tv.extremeiptv.net/live/Marc/Marc/d25fd7fe-3258-4a00-ab9f-817f7d5043a8.m3u
+#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-name="OWN (East)" group-title="ENG | Entertainment",OWN (East)
+https://tv.extremeiptv.net/live/Marc/Marc/207c39ca-6249-4421-8c21-30d6e58f31a0.m3u
+#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.(Pacific.A.Feed).us2" tvg-name="OWN (West)" group-title="ENG | Entertainment",OWN (West)
+https://tv.extremeiptv.net/live/Marc/Marc/e8704aea-741a-4b5a-a1f3-10612ae21d05.m3u
+#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime (East)" group-title="ENG | Entertainment",Oxygen True Crime (East)
+https://tv.extremeiptv.net/live/Marc/Marc/4661b386-f884-46ae-bab5-766b22e87f91.m3u
+#EXTINF:-1 tvg-id="OxygenPacific.us" tvg-name="Oxygen True Crime (West)" group-title="ENG | Entertainment",Oxygen True Crime (West)
+https://tv.extremeiptv.net/live/Marc/Marc/c5faf4c9-d010-45d1-bf76-8a1ce7d79b1c.m3u
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network (East)" group-title="ENG | Entertainment",Paramount Network (East)
+https://tv.extremeiptv.net/live/Marc/Marc/35d7af2b-2800-4722-9f61-1d4207336785.m3u
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network (East)(Alt)" group-title="Z - 🚫 OFFLINE 🚫",Paramount Network (East)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="ParamountNetworkPacific.us" tvg-name="Paramount Network (West)" group-title="ENG | Entertainment",Paramount Network (West)
+https://tv.extremeiptv.net/live/Marc/Marc/7b8dee1e-9912-435c-a073-400a2750279d.m3u
+#EXTINF:-1 tvg-id="POP.HD.us2" tvg-name="Pop (East)" group-title="ENG | Entertainment",Pop (East)
+http://nocable.cc:8080/91161088/91161088/20976
+#EXTINF:-1 tvg-id="POP.HD.us2" tvg-name="Pop (East)(Alt)" group-title="ENG | Entertainment",Pop (East)(Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/e53101b0-3a32-45c8-8529-b79b94762816.m3u
+#EXTINF:-1 tvg-id="POPPacific.us" tvg-name="Pop (West)" group-title="ENG | Entertainment",Pop (West)
+https://tv.extremeiptv.net/live/Marc/Marc/58ed6361-bd7d-4ff7-9575-e707a51901e7.m3u
+#EXTINF:-1 tvg-id="Pure.Flix.TV.us2" tvg-name="PureFlix TV" group-title="ENG | Movies",PureFlix TV
+https://tv.extremeiptv.net/live/Marc/Marc/c9293001-8db8-457e-b53a-8dc35cf46ba2.m3u
+#EXTINF:-1 tvg-id="Pursuit.Channel.us2" tvg-name="Pursuit" group-title="ENG | Sports",Pursuit
+http://example.com/stream
+#EXTINF:-1 tvg-id="Quest.us" tvg-name="Quest" group-title="Z - 🚫 OFFLINE 🚫",Quest
+http://example.com/stream
+#EXTINF:-1 tvg-id="RACER.Network.HD.us2" tvg-name="Racer Network" group-title="ENG | Sports",Racer Network
+http://example.com/stream
+#EXTINF:-1 tvg-id="RACER.Network.HD.us2" tvg-name="Racer Network (Alt)" group-title="ENG | Sports",Racer Network (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.RACER.Select.plex" tvg-name="Racer Network Select" group-title="ENG | Sports",Racer Network Select
+http://example.com/stream
+#EXTINF:-1 tvg-id="Real.Americas.Voice.us2" tvg-name="Real America Voice" group-title="ENG | News",Real America Voice
+https://tv.extremeiptv.net/live/Marc/Marc/a8420eb3-5530-4fda-a4a6-ec0fc5b55fba.m3u
+#EXTINF:-1 tvg-id="ReelzChannel.HD.us2" tvg-name="REELZ" group-title="ENG | Entertainment",REELZ
+http://nocable.cc:8080/91161088/91161088/10526
+#EXTINF:-1 tvg-id="ReelzChannel.HD.us2" tvg-name="REELZ (Alt)" group-title="ENG | Entertainment",REELZ (Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/61620b35-25c3-4bc3-8f98-be0660e2a9b3.m3u
+#EXTINF:-1 tvg-id="RetroTV.us" tvg-name="Retro TV" group-title="Z - 🚫 OFFLINE 🚫",Retro TV
+http://example.com/stream
+#EXTINF:-1 tvg-id="RetroPlex.HD.us2" tvg-name="Retroplex (East)" group-title="ENG | Movies",Retroplex (East)
+https://tv.extremeiptv.net/live/Marc/Marc/afdd10be-0ddb-4996-b7db-fd823226c4ba.m3u
+#EXTINF:-1 tvg-id="RetroPlexPacific.us" tvg-name="Retroplex (West)" group-title="ENG | Movies",Retroplex (West)
+https://tv.extremeiptv.net/live/Marc/Marc/f59a2998-dd4c-45f9-a170-548028fc2f81.m3u
+#EXTINF:-1 tvg-id="Revolt.HD.us2" tvg-name="Revolt" group-title="ENG | Entertainment",Revolt
+https://tv.extremeiptv.net/live/Marc/Marc/8a507ad3-59e3-4a22-9190-d2eb5741e6e7.m3u
+#EXTINF:-1 tvg-id="RewindTV.us" tvg-name="Rewind TV" group-title="Z - 🚫 OFFLINE 🚫",Rewind TV
+http://example.com/stream
+#EXTINF:-1 tvg-id="RFD.TV.HD.us2" tvg-name="RFD-TV" group-title="ENG | Entertainment",RFD-TV
+https://tv.extremeiptv.net/live/Marc/Marc/d281bfbb-c73b-4a72-80f5-e5fcfc8b8554.m3u
+#EXTINF:-1 tvg-id="RightNowTV.us" tvg-name="Right Now TV" group-title="Z - 🚫 OFFLINE 🚫",Right Now TV
+http://example.com/stream
+#EXTINF:-1 tvg-id="Roar.us" tvg-name="Roar (D)" group-title="ENG | Entertainment",Roar (D)
+https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
+#EXTINF:-1 tvg-id="ScreenPix.us2" tvg-name="ScreenPix" group-title="ENG | Movies",ScreenPix
+https://tv.extremeiptv.net/live/Marc/Marc/a97459c9-6deb-47de-bf29-559daa8c6944.m3u
+#EXTINF:-1 tvg-id="ScreenPix.Action.us2" tvg-name="ScreenPix Action" group-title="ENG | Movies",ScreenPix Action
+https://tv.extremeiptv.net/live/Marc/Marc/6363fa56-09e2-4a63-a0d0-1bda74acc184.m3u
+#EXTINF:-1 tvg-id="ScreenPix.Voices.us2" tvg-name="ScreenPix Voices" group-title="ENG | Movies",ScreenPix Voices
+https://tv.extremeiptv.net/live/Marc/Marc/34a4a931-8589-469f-a8ba-d2ddd85bdea2.m3u
+#EXTINF:-1 tvg-id="ScreenPix.Westerns.us2" tvg-name="ScreenPix Westerns" group-title="ENG | Movies",ScreenPix Westerns
+https://tv.extremeiptv.net/live/Marc/Marc/84a4f89a-809b-4f8b-8e68-3191b98d7f4b.m3u
+#EXTINF:-1 tvg-id="ScreenPix.Westerns.us2" tvg-name="ScreenPix Westerns (Alt)" group-title="ENG | Westerns",ScreenPix Westerns (Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/84a4f89a-809b-4f8b-8e68-3191b98d7f4b.m3u
+#EXTINF:-1 tvg-id="Scripps.News.us2" tvg-name="Scripps News" group-title="ENG | News",Scripps News
+https://tv.extremeiptv.net/live/Marc/Marc/a556fc9f-c693-4813-be71-2dd666091321.m3u
+#EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" group-title="ENG | Sports",SEC Network
+http://example.com/stream
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime (East)" group-title="ENG | Movies",Showtime (East)
+https://tv.extremeiptv.net/live/Marc/Marc/2cdfc707-4b0e-496b-b5a1-a554c2d3e4fe.m3u
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime (East)(Alt)" group-title="Z - 🚫 OFFLINE 🚫",Showtime (East)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-name="Showtime (West)" group-title="ENG | Movies",Showtime (West)
+https://tv.extremeiptv.net/live/Marc/Marc/10ffe96d-40e0-492c-bac2-c2c05d34258c.m3u
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-name="Showtime (West)(Alt)" group-title="Z - 🚫 OFFLINE 🚫",Showtime (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2 (East)" group-title="ENG | Movies",Showtime 2 (East)
+https://tv.extremeiptv.net/live/Marc/Marc/4d3f8090-b53a-4092-a4c0-4bf60bedd184.m3u
+#EXTINF:-1 tvg-id="Showtime2Pacific.us" tvg-name="Showtime 2 (West)" group-title="ENG | Movies",Showtime 2 (West)
+https://tv.extremeiptv.net/live/Marc/Marc/ed52b94d-16c7-4eee-91fc-a13cccb0e9e6.m3u
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme (East)" group-title="ENG | Movies",Showtime Extreme (East)
+https://tv.extremeiptv.net/live/Marc/Marc/017d0b3f-eddb-4d9f-98ef-6ed57dc51845.m3u
+#EXTINF:-1 tvg-id="ShowtimeExtremePacific.us" tvg-name="Showtime Extreme (West)" group-title="ENG | Movies",Showtime Extreme (West)
+https://tv.extremeiptv.net/live/Marc/Marc/b9c31641-cfc4-479d-a31a-7c020702e696.m3u
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-name="Showtime FamilyZone (East)" group-title="ENG | Movies",Showtime FamilyZone (East)
+https://tv.extremeiptv.net/live/Marc/Marc/f26b04c4-3e3c-4c9d-bcd2-6d16f67efb8f.m3u
+#EXTINF:-1 tvg-id="ShowtimeFamilyzonePacific.us" tvg-name="Showtime FamilyZone (West)" group-title="ENG | Movies",Showtime FamilyZone (West)
+https://tv.extremeiptv.net/live/Marc/Marc/11514745-608a-486f-9da9-3d3cb86caf83.m3u
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="Showtime Next (East)" group-title="ENG | Movies",Showtime Next (East)
+https://tv.extremeiptv.net/live/Marc/Marc/0d6ef214-7b9f-4e4a-966e-c1bef3024b6b.m3u
+#EXTINF:-1 tvg-id="ShowtimeNextPacific.us" tvg-name="Showtime Next (West)" group-title="Z - 🚫 OFFLINE 🚫",Showtime Next (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="Showtime Showcase (East)" group-title="ENG | Movies",Showtime Showcase (East)
+https://tv.extremeiptv.net/live/Marc/Marc/3848a60f-04a0-4803-aaae-79080f9eff57.m3u
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="Showtime Showcase (West)" group-title="ENG | Movies",Showtime Showcase (West)
+https://tv.extremeiptv.net/live/Marc/Marc/f821a0f9-8fb0-40fa-95c9-73e434b99dd6.m3u
+#EXTINF:-1 tvg-id="SHO.x.BET.HD.us2" tvg-name="Showtime x BET (East)" group-title="ENG | Movies",Showtime x BET (East)
+https://tv.extremeiptv.net/live/Marc/Marc/815d8eba-de48-4444-9d3c-d9f386ecb5d6.m3u
+#EXTINF:-1 tvg-id="SHOxBETPacific.us" tvg-name="Showtime x BET (West)" group-title="ENG | Movies",Showtime x BET (West)
+https://tv.extremeiptv.net/live/Marc/Marc/409f072f-40ee-43c9-8878-138057e9164b.m3u
+#EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel (East)" group-title="ENG | Entertainment",Smithsonian Channel (East)
+https://tv.extremeiptv.net/live/Marc/Marc/f925780f-a01d-4b17-9575-cc838018c079.m3u
+#EXTINF:-1 tvg-id="SmithsonianNetworkPacific.us" tvg-name="Smithsonian Channel (West)" group-title="Z - 🚫 OFFLINE 🚫",Smithsonian Channel (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movies" group-title="ENG | Movies",Sony Movies
+https://tv.extremeiptv.net/live/Marc/Marc/be998bd5-9105-47fa-9162-c783161c818c.m3u
+#EXTINF:-1 tvg-id="Space.City.Home.Network.HD.us2" tvg-name="Space City Home Network" group-title="ENG | Sports",Space City Home Network
+http://example.com/stream
+#EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-name="Spectrum Sports LA Dodgers" group-title="ENG | Sports",Spectrum Sports LA Dodgers
+http://example.com/stream
+#EXTINF:-1 tvg-id="Spectrum.SportsNet.Lakers.HD.us2" tvg-name="Spectrum Sports LA Lakers" group-title="ENG | Sports",Spectrum Sports LA Lakers
+http://example.com/stream
+#EXTINF:-1 tvg-id="SpectrumOC16.us" tvg-name="Spectrum Sports OC16" group-title="ENG | Sports",Spectrum Sports OC16
+http://example.com/stream
+#EXTINF:-1 tvg-id="SpectrumXCast1.us" tvg-name="Spectrum XCast 1" group-title="ENG | Sports",Spectrum XCast 1
+http://example.com/stream
+#EXTINF:-1 tvg-id="SpectrumXCast2.us" tvg-name="Spectrum XCast 2" group-title="ENG | Sports",Spectrum XCast 2
+http://example.com/stream
+#EXTINF:-1 tvg-id="SpectrumXCastMultiview.us" tvg-name="Spectrum XCast multiview" group-title="ENG | Sports",Spectrum XCast multiview
+http://example.com/stream
+#EXTINF:-1 tvg-id="Sportsman.Channel.us2" tvg-name="Sportsman Channel" group-title="ENG | Sports",Sportsman Channel
+http://example.com/stream
+#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="Sportsnet New York" group-title="ENG | Sports",Sportsnet New York
+http://example.com/stream
+#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="Sportsnet New York (Alt)" group-title="ENG | Sports",Sportsnet New York (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-name="Sportsnet Pittsburgh" group-title="ENG | Sports",Sportsnet Pittsburgh
+http://example.com/stream
+#EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-name="Sportsnet Pittsburgh (Alt)" group-title="ENG | Sports",Sportsnet Pittsburgh (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="SportsNetPittsburghAlternate.us" tvg-name="Sportsnet Pittsburgh Plus" group-title="ENG | Sports",Sportsnet Pittsburgh Plus
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.Stadium.plex" tvg-name="Stadium" group-title="ENG | Sports",Stadium
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.Stadium.plex" tvg-name="Stadium (Alt1)" group-title="ENG | Sports",Stadium (Alt1)
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.Stadium.plex" tvg-name="Stadium (Alt2)" group-title="ENG | Sports",Stadium (Alt2)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV" group-title="ENG | Entertainment",Start TV
+https://tv.extremeiptv.net/live/Marc/Marc/ccede26b-cb45-48a4-8648-a81ab48b2662.m3u
+#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV (Alt)" group-title="Z - 🚫 OFFLINE 🚫",Start TV (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz (East)" group-title="ENG | Movies",Starz (East)
+http://nocable.cc:8080/91161088/91161088/9299
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz (East)(Alt)" group-title="ENG | Movies",Starz (East)(Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/275422b9-6170-4b56-923a-68b7df9fa3d4.m3u
+#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-name="Starz (West)" group-title="ENG | Movies",Starz (West)
+https://tv.extremeiptv.net/live/Marc/Marc/6175a15f-b793-4271-8f77-c5e6edbeb5cc.m3u
+#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-name="Starz (West)(Alt)" group-title="Z - 🚫 OFFLINE 🚫",Starz (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="Starz Cinema (East)" group-title="ENG | Movies",Starz Cinema (East)
+https://tv.extremeiptv.net/live/Marc/Marc/63c1f14a-c092-4590-b927-a34eb14a2a99.m3u
+#EXTINF:-1 tvg-id="StarzCinemaPacific.us" tvg-name="Starz Cinema (West)" group-title="ENG | Movies",Starz Cinema (West)
+https://tv.extremeiptv.net/live/Marc/Marc/5baabca5-8918-4d65-b3c2-aa319784c38a.m3u
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy (East)" group-title="ENG | Movies",Starz Comedy (East)
+https://tv.extremeiptv.net/live/Marc/Marc/c90cc8bd-70b3-4978-9420-281bdfbc51c6.m3u
+#EXTINF:-1 tvg-id="StarzComedyPacific.us" tvg-name="Starz Comedy (West)" group-title="ENG | Movies",Starz Comedy (West)
+https://tv.extremeiptv.net/live/Marc/Marc/3b5c44c6-ed27-4ce3-bbf7-a23bafcb8afa.m3u
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge (East)" group-title="ENG | Movies",Starz Edge (East)
+https://tv.extremeiptv.net/live/Marc/Marc/f52c1f63-ee1c-4085-88b7-7f14725d50e4.m3u
+#EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="Starz Edge (West)" group-title="ENG | Movies",Starz Edge (West)
+https://tv.extremeiptv.net/live/Marc/Marc/280f4de8-27d1-43b7-86b0-dde600b62572.m3u
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-name="Starz Encore (East)" group-title="ENG | Movies",Starz Encore (East)
+https://tv.extremeiptv.net/live/Marc/Marc/0c467251-5bd5-4709-ab2f-4392735ce3da.m3u
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-name="Starz Encore (East)(Alt)" group-title="Z - 🚫 OFFLINE 🚫",Starz Encore (East)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-name="Starz Encore (West)" group-title="ENG | Movies",Starz Encore (West)
+https://tv.extremeiptv.net/live/Marc/Marc/db2b2d01-422c-4fe5-9be2-705bf4a3ff6d.m3u
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Encore Action" group-title="ENG | Movies",Starz Encore Action
+https://tv.extremeiptv.net/live/Marc/Marc/c338369e-2022-4465-acc9-e29af203024f.m3u
+#EXTINF:-1 tvg-id="Starz.Encore.Black.us2" tvg-name="Starz Encore Black" group-title="ENG | Movies",Starz Encore Black
+https://tv.extremeiptv.net/live/Marc/Marc/038841fb-a8de-4d46-857c-b96f00c84573.m3u
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic (East)" group-title="ENG | Movies",Starz Encore Classic (East)
+https://tv.extremeiptv.net/live/Marc/Marc/f01a7c97-ef2a-473e-affc-49a938d0bd5d.m3u
+#EXTINF:-1 tvg-id="StarzEncoreClassicPacific.us" tvg-name="Starz Encore Classic (West)" group-title="ENG | Movies",Starz Encore Classic (West)
+https://tv.extremeiptv.net/live/Marc/Marc/27756505-6d90-437f-82db-7db3f3422c81.m3u
+#EXTINF:-1 tvg-id="Starz.Encore.Español.SD.us2" tvg-name="Starz Encore Espanol" group-title="ESP | Películas",Starz Encore Espanol
+http://example.com/stream
+#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-name="Starz Encore Family" group-title="ENG | Movies",Starz Encore Family
+https://tv.extremeiptv.net/live/Marc/Marc/49d2ab4f-cfe4-4584-82d3-b66e3b8c82d2.m3u
+#EXTINF:-1 tvg-id="StarzEncoreFamilyPacific.us" tvg-name="Starz Encore Family (West)" group-title="Z - 🚫 OFFLINE 🚫",Starz Encore Family (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="Starz Encore Suspense (East)" group-title="ENG | Movies",Starz Encore Suspense (East)
+https://tv.extremeiptv.net/live/Marc/Marc/8166b6cb-2c0e-4c4a-90a0-3b59edf5b81d.m3u
+#EXTINF:-1 tvg-id="StarzEncoreSuspensePacific.us" tvg-name="Starz Encore Suspense (West)" group-title="Z - 🚫 OFFLINE 🚫",Starz Encore Suspense (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="Starz Encore Westerns (East)" group-title="ENG | Movies",Starz Encore Westerns (East)
+https://tv.extremeiptv.net/live/Marc/Marc/bece7136-27b9-46e5-8ef0-58a483ec5f5e.m3u
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="Starz Encore Westerns (East)(Alt)" group-title="ENG | Westerns",Starz Encore Westerns (East)(Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/bece7136-27b9-46e5-8ef0-58a483ec5f5e.m3u
+#EXTINF:-1 tvg-id="StarzEncoreWesternsPacific.us" tvg-name="Starz Encore Westerns (West)" group-title="Z - 🚫 OFFLINE 🚫",Starz Encore Westerns (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz in Black (East)" group-title="ENG | Movies",Starz in Black (East)
+https://tv.extremeiptv.net/live/Marc/Marc/82ecbc97-5128-4f99-b1e3-bf051075d3dd.m3u
+#EXTINF:-1 tvg-id="StarzinBlackPacific.us" tvg-name="Starz in Black (West)" group-title="ENG | Movies",Starz in Black (West)
+https://tv.extremeiptv.net/live/Marc/Marc/8a6808cc-5bdc-48d0-9084-4528fb8e7061.m3u
+#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-name="Starz Kids & Family (East)" group-title="ENG | Kids & Family",Starz Kids & Family (East)
+https://tv.extremeiptv.net/live/Marc/Marc/6a3215f5-5b0f-4426-8bd2-d4bd0f4a4d77.m3u
+#EXTINF:-1 tvg-name="Starz Kids & Family (West)" group-title="Z - 🚫 OFFLINE 🚫",Starz Kids & Family (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television" group-title="Z - 🚫 OFFLINE 🚫",Story Television
+http://example.com/stream
+#EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="Sundance TV" group-title="ENG | Entertainment",Sundance TV
+https://tv.extremeiptv.net/live/Marc/Marc/88619193-74c2-423b-b5ae-e81313e90eb6.m3u
+#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-name="SyFy (East)" group-title="ENG | Entertainment",SyFy (East)
+http://nocable.cc:8080/91161088/91161088/46685
+#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-name="SyFy (East)(Alt)" group-title="ENG | Entertainment",SyFy (East)(Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/14b77314-f200-439e-9e37-ab9496022611.m3u
+#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-name="SyFy (West)" group-title="ENG | Entertainment",SyFy (West)
+https://tv.extremeiptv.net/live/Marc/Marc/48da3963-7dad-4a7b-aa65-fc441ec3e7b1.m3u
+#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-name="SyFy (West)(Alt)" group-title="ENG | Entertainment",SyFy (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS (East)" group-title="ENG | Entertainment",TBS (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS (East)(Alt)" group-title="ENG | Entertainment",TBS (East)(Alt)
+https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tbseast.us.m3u8
+#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS (West)" group-title="ENG | Entertainment",TBS (West)
+https://tv.extremeiptv.net/live/Marc/Marc/9d34ccaa-7d3c-4eda-aac7-ab463cb6eea9.m3u
+#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS (West)(Alt)" group-title="ENG | Entertainment",TBS (West)(Alt)
+https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tbswest.us.m3u8
+#EXTINF:-1 tvg-id="Teen.Nick.us2" tvg-name="TeenNick (East)" group-title="ENG | Kids & Family",TeenNick (East)
+https://tv.extremeiptv.net/live/Marc/Marc/cdf9b399-b93d-47b8-a329-bc175bce095c.m3u
+#EXTINF:-1 tvg-id="TeenNickPacific.us" tvg-name="TeenNick (West) " group-title="ENG | Kids & Family",TeenNick (West)
+https://tv.extremeiptv.net/live/Marc/Marc/fc52e30a-ac13-4ed4-9c2e-7100c9c6bb57.m3u
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" group-title="ENG | Sports",Tennis Channel
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" tvg-name="Tennis Channel 2" group-title="ENG | Sports",Tennis Channel 2
+http://example.com/stream
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="The Country Network" group-title="Music",The Country Network
+http://example.com/stream
+#EXTINF:-1 tvg-id="The.Cowboy.Channel.us2" tvg-name="The Cowboy Channel" group-title="ENG | Westerns",The Cowboy Channel
+https://tv.extremeiptv.net/live/Marc/Marc/4712473b-e02f-4cb4-ba1d-62e03ba7b4df.m3u
+#EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" tvg-name="The Movie Channel (East)" group-title="ENG | Movies",The Movie Channel (East)
+https://tv.extremeiptv.net/live/Marc/Marc/42bf11c1-e3ef-4728-8348-c15c1e7b24e5.m3u
+#EXTINF:-1 tvg-id="The.Movie.Channel.(Pacific).us2" tvg-name="The Movie Channel (West)" group-title="ENG | Movies",The Movie Channel (West)
+https://tv.extremeiptv.net/live/Marc/Marc/4c9b291a-4b3b-49f0-9372-473b12080091.m3u
+#EXTINF:-1 tvg-id="The.Movie.Channel.Extra.HD.us2" tvg-name="The Movie Channel Xtra (East)" group-title="ENG | Movies",The Movie Channel Xtra (East)
+https://tv.extremeiptv.net/live/Marc/Marc/0a6093ac-4c21-4c6d-8e06-d67914c526cc.m3u
+#EXTINF:-1 tvg-id="TheMovieChannelExtraWest.us" tvg-name="The Movie Channel Xtra (West)" group-title="ENG | Movies",The Movie Channel Xtra (West)
+https://tv.extremeiptv.net/live/Marc/Marc/3aed2d09-c897-42a6-b1ef-f965ef66e113.m3u
+#EXTINF:-1 tvg-id="TheNest.us" tvg-name="The Nest (D)" group-title="ENG | Entertainment",The Nest (D)
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-name="The Travel Channel (East)" group-title="ENG | Entertainment",The Travel Channel (East)
+https://tv.extremeiptv.net/live/Marc/Marc/4a53d50e-3ba9-454b-b4ec-d5f9d916904d.m3u
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-name="The Travel Channel (West)" group-title="ENG | Entertainment",The Travel Channel (West)
+https://tv.extremeiptv.net/live/Marc/Marc/08c0849f-dfac-48e3-ad13-a5be725acc15.m3u
+#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel" group-title="ENG | News",The Weather Channel
+http://nocable.cc:8080/91161088/91161088/18926
+#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-name="TLC (East)" group-title="ENG | Entertainment",TLC (East)
+http://nocable.cc:8080/91161088/91161088/12734
+#EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-name="TLC (West)" group-title="ENG | Entertainment",TLC (West)
+https://tv.extremeiptv.net/live/Marc/Marc/2678c510-94a0-4dc2-b746-912a86648a5a.m3u
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT (East)" group-title="ENG | Entertainment",TNT (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT (West)" group-title="ENG | Entertainment",TNT (West)
+https://tv.extremeiptv.net/live/Marc/Marc/9fc8795b-7294-4c2f-af40-4ab8f5113a5a.m3u
+#EXTINF:-1 tvg-id="TrueCrimeNetwork.us" tvg-name="True Crime Network" group-title="ENG | Entertainment",True Crime Network
+https://tv.extremeiptv.net/live/Marc/Marc/d73524ce-0633-433b-a977-c50fd9f500ae.m3u
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="TruTV (East)" group-title="ENG | Entertainment",TruTV (East)
+https://tv.extremeiptv.net/live/Marc/Marc/06e302c3-c5ce-4502-8f7d-681a1bed6dd3.m3u
+#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="TruTV (West)" group-title="ENG | Entertainment",TruTV (West)
+https://tv.extremeiptv.net/live/Marc/Marc/c9e2137d-6861-43ad-8aed-97b91ecd538f.m3u
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies (East)" group-title="ENG | Movies",Turner Classic Movies (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies (East)(Alt)" group-title="ENG | Movies",Turner Classic Movies (East)(Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/07492e48-77dd-41be-a840-f611317aafee.m3u
+#EXTINF:-1 tvg-id="TCMPacific.us" tvg-name="Turner Classic Movies (West)" group-title="ENG | Movies",Turner Classic Movies (West)
+https://tv.extremeiptv.net/live/Marc/Marc/ea786cbf-d3df-477b-8725-e3a3df8ca18d.m3u
+#EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-name="TV Land (East)" group-title="ENG | Entertainment",TV Land (East)
+https://tv.extremeiptv.net/live/Marc/Marc/ea9d765b-6ac8-4d86-8953-661bde678865.m3u
+#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-name="TV Land (West)" group-title="ENG | Entertainment",TV Land (West)
+https://tv.extremeiptv.net/live/Marc/Marc/992db3d0-ddcf-437e-a116-4761f8a4be58.m3u
+#EXTINF:-1 tvg-id="TV.ONE.HD.us2" tvg-name="TV One" group-title="ENG | Entertainment",TV One
+https://tv.extremeiptv.net/live/Marc/Marc/4663f2f1-c73a-4b6e-b463-6253545412d5.m3u
+#EXTINF:-1 tvg-id="Universal.Action.us2" tvg-name="Universal Action" group-title="ENG | Entertainment",Universal Action
+https://tv.extremeiptv.net/live/Marc/Marc/ab4b9dc6-8216-4e91-a25d-dff26e3caab8.m3u
+#EXTINF:-1 tvg-id="Universal.Crime.us2" tvg-name="Universal Crime " group-title="ENG | Entertainment",Universal Crime
+https://tv.extremeiptv.net/live/Marc/Marc/ab7c4728-fa06-43cf-9d30-eae583f5ef85.m3u
+#EXTINF:-1 tvg-id="Universal.Monsters.us2" tvg-name="Universal Monsters " group-title="ENG | Movies",Universal Monsters
+https://tv.extremeiptv.net/live/Marc/Marc/84e36fb0-44cf-4e90-9fc1-f20e154598d8.m3u
+#EXTINF:-1 tvg-id="Universal.Movies.us2" tvg-name="Universal Movies" group-title="ENG | Movies",Universal Movies
+https://tv.extremeiptv.net/live/Marc/Marc/16c65c7a-5b93-4157-b85e-91891e4efd53.m3u
+#EXTINF:-1 tvg-id="Universal.Westerns.us2" tvg-name="Universal Westerns" group-title="ENG | Entertainment",Universal Westerns
+https://tv.extremeiptv.net/live/Marc/Marc/b1d3fab7-87cb-4451-8a50-3806c3dce92d.m3u
+#EXTINF:-1 tvg-id="Universal.Westerns.us2" tvg-name="Universal Westerns (Alt)" group-title="ENG | Westerns",Universal Westerns (Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/b1d3fab7-87cb-4451-8a50-3806c3dce92d.m3u
+#EXTINF:-1 tvg-id="UPtv.us2" tvg-name="UpTV" group-title="ENG | Entertainment",UpTV
+https://tv.extremeiptv.net/live/Marc/Marc/554a6dda-4b3c-4087-9df1-65586f94ee7f.m3u
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network (East)" group-title="ENG | Entertainment",USA Network (East)
+http://nocable.cc:8080/91161088/91161088/10252
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network (East)(Alt1)" group-title="ENG | Entertainment",USA Network (East)(Alt1)
+https://tv.extremeiptv.net/live/Marc/Marc/4cba289f-3380-41e9-9965-b98d4687e47d.m3u
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network (East)(Alt2)" group-title="Z - 🚫 OFFLINE 🚫",USA Network (East)(Alt2)
+http://example.com/stream
+#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-name="USA Network (West)" group-title="ENG | Entertainment",USA Network (West)
+https://tv.extremeiptv.net/live/Marc/Marc/0fcb52a2-9c31-45ce-b3af-de0adbbcaf94.m3u
+#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-name="USA Network (West)(Alt)" group-title="Z - 🚫 OFFLINE 🚫",USA Network (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH1 (East)" group-title="ENG | Entertainment",VH1 (East)
+https://tv.extremeiptv.net/live/Marc/Marc/2b7abdbb-6b5c-485e-aab5-5c9017a51e5d.m3u
+#EXTINF:-1 tvg-id="VH1Pacific.us" tvg-name="VH1 (West)" group-title="ENG | Entertainment",VH1 (West)
+https://tv.extremeiptv.net/live/Marc/Marc/c8ad62d5-82eb-4345-8933-80d248879a41.m3u
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE (East)" group-title="ENG | Entertainment",VICE (East)
+http://nocable.cc:8080/91161088/91161088/46697
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE (East)(Alt)" group-title="ENG | Entertainment",VICE (East)(Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/09d97940-cee5-4cbf-b234-f915e78ff24b.m3u
+#EXTINF:-1 tvg-id="ViceWest.us" tvg-name="VICE (West)" group-title="ENG | Entertainment",VICE (West)
+https://tv.extremeiptv.net/live/Marc/Marc/279465d8-44af-4905-8207-15e69ebee9d1.m3u
+#EXTINF:-1 tvg-id="VSIN.Vegas.Sports.and.Information.Network.us2" tvg-name="VSIN" group-title="ENG | Sports",VSIN
+http://example.com/stream
+#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="WE TV (East)" group-title="ENG | Entertainment",WE TV (East)
+https://tv.extremeiptv.net/live/Marc/Marc/a114398b-efeb-42e5-b119-40b9e82c1848.m3u
+#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="WE TV (East)(Alt)" group-title="Z - 🚫 OFFLINE 🚫",WE TV (East)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="WeTVPacific.us" tvg-name="WE TV (West)" group-title="Z - 🚫 OFFLINE 🚫",WE TV (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Weather.Nation.TV.HD.us2" tvg-name="WeatherNation" group-title="ENG | News",WeatherNation
+https://tv.extremeiptv.net/live/Marc/Marc/1377dabe-cfc4-4f3b-ab6d-e1c7c5f72bd7.m3u
+#EXTINF:-1 tvg-id="WESTNetwork.us" tvg-name="WEST" group-title="Z - 🚫 OFFLINE 🚫",WEST
+http://example.com/stream
+#EXTINF:-1 tvg-id="WESTNetwork.us" tvg-name="WEST (Alt)" group-title="Z - 🚫 OFFLINE 🚫",WEST (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="plex.tv.Western.Bound.plex" tvg-name="Western Bound" group-title="ENG | Entertainment",Western Bound
+https://tv.extremeiptv.net/live/Marc/Marc/edb11bd4-9076-457b-9886-cff8946d2e1f.m3u
+#EXTINF:-1 tvg-id="plex.tv.Western.Bound.plex" tvg-name="Western Bound (Alt)" group-title="ENG | Westerns",Western Bound (Alt)
+https://tv.extremeiptv.net/live/Marc/Marc/edb11bd4-9076-457b-9886-cff8946d2e1f.m3u
+#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Cricket" group-title="ENG | Sports",Willow Cricket
+http://example.com/stream
+#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Cricket (Alt)" group-title="ENG | Sports",Willow Cricket (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Willow.Xtra.us2" tvg-name="Willow Cricket Xtra" group-title="ENG | Sports",Willow Cricket Xtra
+http://example.com/stream
+#EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" tvg-name="World Fishing Network" group-title="ENG | Sports",World Fishing Network
+http://example.com/stream
+#EXTINF:-1 tvg-id="Yes.Network.us2" tvg-name="Yes Network" group-title="ENG | Sports",YES Network
+http://example.com/stream
+#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2" tvg-name="NatGeo Wild (East)" group-title="ENG | Entertainment",NatGeo Wild (East)
+https://tv.extremeiptv.net/live/Marc/Marc/896a4c4e-a5b0-42c7-8244-c2b430bbc38f.m3u
+#EXTINF:-1 tvg-name="NatGeo Wild (West)" group-title="Z - 🚫 OFFLINE 🚫",NatGeo Wild (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="Showtime Women" group-title="ENG | Movies",Showtime Women
+https://tv.extremeiptv.net/live/Marc/Marc/60605497-f00f-4921-a510-876b0886ce2c.m3u
