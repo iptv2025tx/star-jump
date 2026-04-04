@@ -1,57 +1,123 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 Bronx, NY" group-title="News",News 12 Bronx, NY
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 Bronx, NY" group-title="ENG | News",News 12 Bronx, NY
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12+ Bronx, NY" group-title="News",News 12+ Bronx, NY
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12+ Bronx, NY" group-title="ENG | News",News 12+ Bronx, NY
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 Brooklyn, NY" group-title="News",News 12 Brooklyn, NY
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 Brooklyn, NY" group-title="ENG | News",News 12 Brooklyn, NY
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 Connecticut" group-title="News",News 12 Connecticut
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 Connecticut" group-title="ENG | News",News 12 Connecticut
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12+ Connecticut" group-title="News",News 12+ Connecticut
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12+ Connecticut" group-title="ENG | News",News 12+ Connecticut
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 Hudson Valley, NY" group-title="News",News 12 Hudson Valley, NY
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 Hudson Valley, NY" group-title="ENG | News",News 12 Hudson Valley, NY
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 Long Island, NY" group-title="News",News 12 Long Island, NY
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 Long Island, NY" group-title="ENG | News",News 12 Long Island, NY
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12+ Long Island, NY" group-title="News",News 12+ Long Island, NY
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12+ Long Island, NY" group-title="ENG | News",News 12+ Long Island, NY
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 New Jersey" group-title="News",News 12 New Jersey
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 New Jersey" group-title="ENG | News",News 12 New Jersey
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12+ New Jersey" group-title="News",News 12+ New Jersey
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12+ New Jersey" group-title="ENG | News",News 12+ New Jersey
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 Westchester, NY" group-title="News",News 12 Westchester, NY
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12 Westchester, NY" group-title="ENG | News",News 12 Westchester, NY
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12+ Westchester, NY" group-title="News",News 12+ Westchester, NY
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="News 12+ Westchester, NY" group-title="ENG | News",News 12+ Westchester, NY
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="Scripps.News.us2" tvg-name="Scripps News (D)" group-title="News",Scripps News (D)
+#EXTINF:-1 tvg-id="Scripps.News.us2" tvg-name="Scripps News (D)" group-title="ENG | News",Scripps News (D)
 https://assets.scrippsdigital.com/cms/video/player.html?video=https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8&live=1&autoplay=true&purl=/live&da=1&title=Scripps%20News%20Live&kw=&contplay=*recent&mute=1&section=Live&cust_params=temp%3D%26weather%3D&host=scrippsnews.com&s=snews&env=production
-#EXTINF:-1 tvg-name="Global News BC Canada" group-title="News",Global News BC Canada
+#EXTINF:-1 tvg-id="GlobalNewsBC1.ca" tvg-name="Global News BC Canada" group-title="ENG | News",Global News BC Canada
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Calgary" group-title="News",Global News Calgary
+#EXTINF:-1 tvg-id="Global.Calgary.ca2" tvg-name="Global News Calgary" group-title="ENG | News",Global News Calgary
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Canada" group-title="News",Global News Canada
+#EXTINF:-1 tvg-id="GlobalNewsDummy.ca" tvg-name="Global News Canada" group-title="ENG | News",Global News Canada
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 tvg-name="Global News Edmonton" group-title="News",Global News Edmonton
+#EXTINF:-1 tvg-id="Global.Edmonton.ca2" tvg-name="Global News Edmonton" group-title="ENG | News",Global News Edmonton
 https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Halifax" group-title="News",Global News Halifax
+#EXTINF:-1 tvg-id="Global.Maritimes.(CIHF).ca2" tvg-name="Global News Halifax" group-title="ENG | News",Global News Halifax
 https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Kingston" group-title="News",Global News Kingston
+#EXTINF:-1 tvg-id="CKWS.ca2" tvg-name="Global News Kingston" group-title="ENG | News",Global News Kingston
 https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b9/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Lethbridge" group-title="News",Global News Lethbridge
+#EXTINF:-1 tvg-id="Global.Lethbridge.ca2" tvg-name="Global News Lethbridge" group-title="ENG | News",Global News Lethbridge
 https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8db2bc0/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Montreal" group-title="News",Global News Montreal
+#EXTINF:-1 tvg-id="Global.Montreal.ca2" tvg-name="Global News Montreal" group-title="ENG | News",Global News Montreal
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News National" group-title="News",Global News National
+#EXTINF:-1 tvg-id="GlobalNewsDummy.ca" tvg-name="Global News National" group-title="ENG | News",Global News National
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Okanagan" group-title="News",Global News Okanagan
+#EXTINF:-1 tvg-id="Global.Okanagan.ca2" tvg-name="Global News Okanagan" group-title="ENG | News",Global News Okanagan
 https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Peterborough" group-title="News",Global News Peterborough
+#EXTINF:-1 tvg-id="CHEX-DT.us_locals1" tvg-name="Global News Peterborough" group-title="ENG | News",Global News Peterborough
 https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b63/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Regina" group-title="News",Global News Regina
+#EXTINF:-1 tvg-id="Global.Regina.ca2" tvg-name="Global News Regina" group-title="ENG | News",Global News Regina
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Saskatoon" group-title="News",Global News Saskatoon
+#EXTINF:-1 tvg-id="Global.Saskatoon.ca2" tvg-name="Global News Saskatoon" group-title="ENG | News",Global News Saskatoon
 https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Toronto" group-title="News",Global News Toronto
+#EXTINF:-1 tvg-id="Global.Toronto.ca2" tvg-name="Global News Toronto" group-title="ENG | News",Global News Toronto
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Winnipeg" group-title="News",Global News Winnipeg
+#EXTINF:-1 tvg-id="GlobalNewsDummy.ca" tvg-name="Global News Winnipeg" group-title="ENG | News",Global News Winnipeg
 https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Spectrum.News.1.(Carolinas).-.Charlotte.STVA.us2" tvg-name="Spectrum News 1 Carolinas Charlotte" group-title="ENG | News",Spectrum News 1 Carolinas Charlotte
+https://tv.extremeiptv.net/live/Marc/Marc/ea147886-d40f-415f-ab82-5510b0516f88.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.(Carolinas).-.Coastal.STVA.us2" tvg-name="Spectrum News 1 Carolinas Coastal" group-title="ENG | News",Spectrum News 1 Carolinas Coastal
+https://tv.extremeiptv.net/live/Marc/Marc/000b581c-21cb-439e-a2e8-c266f122190f.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.(Carolinas).-.Greensboro.STVA.us2" tvg-name="Spectrum News 1 Carolinas Greensboro " group-title="ENG | News",Spectrum News 1 Carolinas Greensboro 
+https://tv.extremeiptv.net/live/Marc/Marc/fe5d8b83-aadd-45b1-a42c-6a0d4e5f0780.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.(Carolinas).-.Mountain.STVA.us2" tvg-name="Spectrum News 1 Carolinas Mountain" group-title="ENG | News",Spectrum News 1 Carolinas Mountain
+https://tv.extremeiptv.net/live/Marc/Marc/f37327b4-1176-4763-a3c2-a77e8a63d997.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.(Carolinas).-.Raleigh.STVA.us2" tvg-name="Spectrum News 1 Carolinas Raleigh" group-title="ENG | News",Spectrum News 1 Carolinas Raleigh
+https://tv.extremeiptv.net/live/Marc/Marc/c3a8f7b2-14b3-4515-9250-d8f7484acc56.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.-.Central.Florida.us2" tvg-name="Spectrum News 1 Central FL " group-title="ENG | News",Spectrum News 1 Central FL 
+https://tv.extremeiptv.net/live/Marc/Marc/23684f5b-ef22-4806-b336-d6ae65207b63.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.(Kentucky).Covington.us2" tvg-name="Spectrum News 1 Kentucky Covington " group-title="ENG | News",Spectrum News 1 Kentucky Covington 
+https://tv.extremeiptv.net/live/Marc/Marc/f680a816-1f3b-478c-ad18-24f049076837.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.-.(Kentucky).-.Evansville.us2" tvg-name="Spectrum News 1 Kentucky Evansville" group-title="ENG | News",Spectrum News 1 Kentucky Evansville
+https://tv.extremeiptv.net/live/Marc/Marc/34177d69-dc3e-4341-9bbe-2f61a6252fad.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.-.(Kentucky).Lexington.us2" tvg-name="Spectrum News 1 Kentucky Lexington" group-title="ENG | News",Spectrum News 1 Kentucky Lexington
+https://tv.extremeiptv.net/live/Marc/Marc/f21ef31d-a156-4741-abc7-26cedd58d1b7.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.-.(Kentucky).Louisville.us2" tvg-name="Spectrum News 1 Kentucky Louisville " group-title="ENG | News",Spectrum News 1 Kentucky Louisville 
+https://tv.extremeiptv.net/live/Marc/Marc/b391d62a-f706-4035-941e-a21360fc06c1.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.-.(MA).Pittsfield.-.STVA.us2" tvg-name="Spectrum News 1 MA Pittsfield" group-title="ENG | News",Spectrum News 1 MA Pittsfield
+https://tv.extremeiptv.net/live/Marc/Marc/a91697da-0d82-4336-9e43-4914e1c485b7.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.-.(MA).Springfield.-.STVA.us2" tvg-name="Spectrum News 1 MA Springfield" group-title="ENG | News",Spectrum News 1 MA Springfield
+https://tv.extremeiptv.net/live/Marc/Marc/d36deeef-dd51-40f9-807a-2c261b95c28c.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.-.(MA).Worcester.-.STVA.us2" tvg-name="Spectrum News 1 MA Worcester" group-title="ENG | News",Spectrum News 1 MA Worcester
+https://tv.extremeiptv.net/live/Marc/Marc/1aec453d-1911-4bfc-ae57-0105a034eb8e.m3u
+#EXTINF:-1 tvg-name="Spectrum News 1 MO St. Louis " group-title="ENG | News",Spectrum News 1 MO St. Louis 
+https://tv.extremeiptv.net/live/Marc/Marc/f7fd101a-6ee4-435f-90d4-161bab189b27.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.-.Albany.Capital.Region.STVA.us2" tvg-name="Spectrum News 1 NY Albany" group-title="ENG | News",Spectrum News 1 NY Albany
+https://tv.extremeiptv.net/live/Marc/Marc/b09b37d2-4e74-459e-9e20-665f3f5326c5.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.-.Buffalo.-.STVA.us2" tvg-name="Spectrum News 1 NY Buffalo " group-title="ENG | News",Spectrum News 1 NY Buffalo 
+https://tv.extremeiptv.net/live/Marc/Marc/50ca99b8-910a-4466-85f7-9030e6ff4faf.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.-.Central.NY.STVA.us2" tvg-name="Spectrum News 1 NY Central NY" group-title="ENG | News",Spectrum News 1 NY Central NY
+https://tv.extremeiptv.net/live/Marc/Marc/1e9d4bff-657f-4442-8ce0-2f7d930590f2.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.-.Hudson.Valley.STVA.us2" tvg-name="Spectrum News 1 NY Hudson Valley " group-title="ENG | News",Spectrum News 1 NY Hudson Valley 
+https://tv.extremeiptv.net/live/Marc/Marc/2d4485a5-c2be-40f4-a4f8-43b4dbb909bc.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.-.NY1.-.STVA.us2" tvg-name="Spectrum News 1 NY NYC" group-title="ENG | News",Spectrum News 1 NY NYC
+https://tv.extremeiptv.net/live/Marc/Marc/3f2dbf09-c9c0-4f51-b6c6-3374de31093f.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.-.(New.York).Rochester.STVA.us2" tvg-name="Spectrum News 1 NY Rochester " group-title="ENG | News",Spectrum News 1 NY Rochester 
+https://tv.extremeiptv.net/live/Marc/Marc/33db2a3f-bd35-4ea0-bc26-fed05b895b5d.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.-.Cincinnati.-.STVA.us2" tvg-name="Spectrum News 1 OH Cincinnati " group-title="ENG | News",Spectrum News 1 OH Cincinnati 
+https://tv.extremeiptv.net/live/Marc/Marc/53cdfb18-0f9e-4775-94dc-e2bf8ae891bf.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.-.Cleveland/Akron.-.STVA.us2" tvg-name="Spectrum News 1 OH Cleveland " group-title="ENG | News",Spectrum News 1 OH Cleveland 
+https://tv.extremeiptv.net/live/Marc/Marc/1b989036-351e-49ab-a516-e040806903c8.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.-.Columbus.-.STVA.us2" tvg-name="Spectrum News 1 OH Columbus" group-title="ENG | News",Spectrum News 1 OH Columbus
+https://tv.extremeiptv.net/live/Marc/Marc/215acc71-b680-433d-851e-98ba51d775b3.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.-.Dayton.-.STVA.us2" tvg-name="Spectrum News 1 OH Dayton" group-title="ENG | News",Spectrum News 1 OH Dayton
+https://tv.extremeiptv.net/live/Marc/Marc/16aada81-a321-4f4c-b416-86e28eb27a77.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.-.Toledo/Lima.-.STVA.us2" tvg-name="Spectrum News 1 OH Toledo/Lima" group-title="ENG | News",Spectrum News 1 OH Toledo/Lima
+https://tv.extremeiptv.net/live/Marc/Marc/d8cfb411-977b-4a90-b5de-34175e11ec90.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.-.SO.CAL.-.STVA.us2" tvg-name="Spectrum News 1 Southern Cali" group-title="ENG | News",Spectrum News 1 Southern Cali
+https://tv.extremeiptv.net/live/Marc/Marc/be230ab2-65ec-4bd5-a4fb-b77eef601112.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.-.Austin.us2" tvg-name="Spectrum News 1 TX Austin" group-title="ENG | News",Spectrum News 1 TX Austin
+https://tv.extremeiptv.net/live/Marc/Marc/26124d00-3072-4711-87c6-88ddeb9bab3a.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.-.Dallas.-.Ft.Worth.STVA.us2" tvg-name="Spectrum News 1 TX DFW" group-title="ENG | News",Spectrum News 1 TX DFW
+https://tv.extremeiptv.net/live/Marc/Marc/59da40fc-0bef-4ad3-bea9-e8e86677f1c2.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.-.El.Paso.Texas.STVA.us2" tvg-name="Spectrum News 1 TX El Paso " group-title="ENG | News",Spectrum News 1 TX El Paso 
+https://tv.extremeiptv.net/live/Marc/Marc/c3bc80fa-09ed-4f47-bf88-44f42aeb7323.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.-.San.Antonio.us2" tvg-name="Spectrum News 1 TX San Antonio " group-title="ENG | News",Spectrum News 1 TX San Antonio 
+https://tv.extremeiptv.net/live/Marc/Marc/3b03937c-abf4-4838-90b3-870ae5049174.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.-.Green.Bay/Appleton.-.STVA.us2" tvg-name="Spectrum News 1 WI Green Bay" group-title="ENG | News",Spectrum News 1 WI Green Bay
+https://tv.extremeiptv.net/live/Marc/Marc/2bd64af8-3ba5-4051-9176-4215c8425e11.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.-.Madison.-.STVA.us2" tvg-name="Spectrum News 1 WI Madison " group-title="ENG | News",Spectrum News 1 WI Madison 
+https://tv.extremeiptv.net/live/Marc/Marc/070bfa35-f8c2-4b31-a6fa-a2d096d58537.m3u
+#EXTINF:-1 tvg-id="Spectrum.News.1.-.Milwaukee.-.STVA.us2" tvg-name="Spectrum News 1 WI Milwaukee " group-title="ENG | News",Spectrum News 1 WI Milwaukee 
+https://tv.extremeiptv.net/live/Marc/Marc/74c2801d-bbc8-4ce5-ab3c-372725d98783.m3u
